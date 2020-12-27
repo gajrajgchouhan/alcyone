@@ -1,0 +1,8038 @@
+SIMPLE  =                    T /FITS header                                     BITPIX  =                   16 /No.Bits per pixel                               NAXIS   =                    2 /No.dimensions                                   NAXIS1  =                  247 /Length X axis                                   NAXIS2  =                  247 /Length Y axis                                   EXTEND  =                    T /                                                DATE    = '27/12/20          ' /Date of FITS file creation                      ORIGIN  = 'CASB -- STScI     ' /Origin of FITS image                            PLTLABEL= 'V12523            ' /Observatory plate label                         PLATEID = '06PP              ' /GSSS Plate ID                                   REGION  = 'XV518             ' /GSSS Region Name                                DATE-OBS= '14/04/88          ' /UT date of Observation                          UT      = '18:37:00.00       ' /UT time of observation                          EPOCH   =  1.9882862548828E+03 /Epoch of plate                                  PLTRAH  =                   16 /Plate center RA                                 PLTRAM  =                   55 /                                                PLTRAS  =  3.6981400000000E+00 /                                                PLTDECSN= '-                 ' /Plate center Dec                                PLTDECD =                   25 /                                                PLTDECM =                    4 /                                                PLTDECS =  4.6606740000000E+01 /                                                EQUINOX =  2.0000000000000E+03 /Julian Reference frame equinox                  EXPOSURE=  4.0000000000000E+00 /Exposure time minutes                           BANDPASS=                    6 /GSSS Bandpass code                              PLTGRADE=                    1 /Plate grade                                     PLTSCALE=  6.7200000000000E+01 /Plate Scale arcsec per mm                       SITELAT = '-31:16:24.00      ' /Latitude of Observatory                         SITELONG= '+149:03:42.00     ' /Longitude of Observatory                        TELESCOP= 'UK Schmidt (new optics)' /Telescope where plate taken                CNPIX1  =                 3242 /X corner  (pixels)                              CNPIX2  =                 4381 /Y corner                                        DATATYPE= 'INTEGER*2         ' /Type of Data                                    SCANIMG = 'XV518_06PP_00_00.PIM' /Name of original scan                         SCANNUM =                    0 /Identifies scan of the plate                    DCHOPPED=                    F /Image repaired for chopping effects             DSHEARED=                    F /Image repaired for shearing effects             DSCNDNUM=                    0 /Identifies descendant of plate scan image       XPIXELSZ=  2.5284450000000E+01 /X pixel size microns                            YPIXELSZ=  2.5284450000000E+01 /Y pixel size microns                            PPO1    =  0.0000000000000E+00 /Orientation Coefficients                        PPO2    =  0.0000000000000E+00 /                                                PPO3    =  1.7592023110558E+05 /                                                PPO4    =  0.0000000000000E+00 /                                                PPO5    =  0.0000000000000E+00 /                                                PPO6    =  1.7820884629815E+05 /                                                AMDX1   =  6.7222963527854E+01 /Plate solution x coefficients                   AMDX2   = -2.3914784198619E-02 /                                                AMDX3   = -4.2718421446152E-01 /                                                AMDX4   =  1.5530956436513E-06 /                                                AMDX5   = -1.8466049447321E-05 /                                                AMDX6   =  4.9622673985135E-06 /                                                AMDX7   =  0.0000000000000E+00 /                                                AMDX8   =  2.6489861757373E-06 /                                                AMDX9   = -3.3657088978120E-07 /                                                AMDX10  =  2.6676131693571E-06 /                                                AMDX11  = -2.6811894296033E-07 /                                                AMDX12  =  0.0000000000000E+00 /                                                AMDX13  =  0.0000000000000E+00 /                                                AMDX14  =  0.0000000000000E+00 /                                                AMDX15  =  0.0000000000000E+00 /                                                AMDX16  =  0.0000000000000E+00 /                                                AMDX17  =  0.0000000000000E+00 /                                                AMDX18  =  0.0000000000000E+00 /                                                AMDX19  =  0.0000000000000E+00 /                                                AMDX20  =  0.0000000000000E+00 /                                                AMDY1   =  6.7227534919779E+01 /Plate solution y coefficients                   AMDY2   =  2.5961023980612E-02 /                                                AMDY3   =  3.1766716092591E-01 /                                                AMDY4   =  4.6489900108572E-06 /                                                AMDY5   = -1.3158753536751E-05 /                                                AMDY6   =  2.8846902477594E-05 /                                                AMDY7   =  0.0000000000000E+00 /                                                AMDY8   =  2.3679322699325E-06 /                                                AMDY9   = -2.7037638234770E-07 /                                                AMDY10  =  2.6831426867435E-06 /                                                AMDY11  = -2.5597764545434E-08 /                                                AMDY12  =  0.0000000000000E+00 /                                                AMDY13  =  0.0000000000000E+00 /                                                AMDY14  =  0.0000000000000E+00 /                                                AMDY15  =  0.0000000000000E+00 /                                                AMDY16  =  0.0000000000000E+00 /                                                AMDY17  =  0.0000000000000E+00 /                                                AMDY18  =  0.0000000000000E+00 /                                                AMDY19  =  0.0000000000000E+00 /                                                AMDY20  =  0.0000000000000E+00 /                                                        Based on photographic data obtained using The UK Schmidt Telescope.             The UK Schmidt Telescope was operated by the Royal Observatory                  Edinburgh, with funding from the UK Science and Engineering Research            Council, until 1988 June, and thereafter by the Anglo-Australian                Observatory.  Original plate material is copyright (c) the Royal                Observatory Edinburgh and the Anglo-Australian Observatory.  The                plates were processed into the present compressed digital form with             their permission.  The Digitized Sky Survey was produced at the Space           Telescope Science Institute under US Government grant NAG W-2166.                                                                                               Investigators using these scans are requested to include the above              acknowledgements in any publications.                                                                                                                           Copyright (c) 1993, 1994, Association of Universities for Research in           Astronomy, Inc.  All rights reserved.                                   DATAMAX =                21257 /Maximum data value                              DATAMIN =                 2061 /Minimum data value                              OBJECT  = 'dss82475          ' /Object ID                                       OBJCTRA = '17 02 37.700      ' /Object Right Ascension (J2000)                  OBJCTDEC= '-26 16 04.60      ' /Object Declination (J2000)                      OBJCTX  =              3365.71 /Object X on plate (pixels)                      OBJCTY  =              4504.29 /Object Y on plate (pixels)                      CTYPE1  = 'RA---TAN'           /R.A. in tangent plane projection                CTYPE2  = 'DEC--TAN'           /DEC. in tangent plane projection                CRPIX1  =                123.5 /Refpix of first axis                            CRPIX2  =                123.5 /Refpix of second axis                           CRVAL1  =  2.5565745690993E+02 /RA at Ref pix in decimal degrees                CRVAL2  = -2.6268078181688E+01 /DEC at Ref pix in decimal degrees               CROTA1  =  8.4636723065379E-01 /Rotation angle of first axis (deg)              CROTA2  =  8.4636723065379E-01 /Rotation angle of second axis (deg)                     Warning: CROTA2 is inaccurate due to considerable skew                  SKEW    =  9.0564757186052E-01,  7.8708688944706E-01 /Measure of skew           CDELT1  = -4.7260513734960E-04 /RA pixel step (deg)                             CDELT2  =  4.7253694307402E-04 /DEC pixel step (deg)                            CD1_1   = -4.7256054486154E-04 /CD matrix                                       CD1_2   = -7.4688592875397E-06 /CD matrix                                       CD2_1   = -6.4920943775117E-06 /CD matrix                                       CD2_2   =  4.7247791346335E-04 /CD matrix                                       PC001001=  9.9990564535900E-01 /PC matrix                                       PC001002=  1.5803593099782E-02 /PC matrix                                       PC002001= -1.3738808092502E-02 /PC matrix                                       PC002002=  9.9987507937415E-01 /PC matrix                                       END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |๓
+c
+cซซgg
+’	ฤM**ๆิ
+Cบฅ
+@
+@
+@kY
+
+	ห	หBB
+ýýý
+Wฮฮ
+W,
+ต	๙p
+
+
+ฬ	Uกกกกก*]ๆ
+ฬ
+ฬ	Uบp	๙
+ต
+ต		
+Wฮฮ
+W2	D
+ป
+ป
+ปฉdÛz
+a
+๊
+พ๑พGGพ2	D	D2 .ทMฤ๖ฝฝ๏๏ง0þ
+uฅOa
+๊
+๊ฅvvvv3ฮฮผI7
+ไ
+ไ[
+ไ
+(
+(
+ไ	m
+ต
+ต็p
+ต
+ต,,่_๚ฤM	
+’
+4"g
+๐๑
+z
+z
+z66๑๑๕๕๕Z…—eÜ	ง•8
+ม๓|
+ม
+ม
+ม
+ม88ฏร
+Lร
+L~
+Lรญ6	
+z”””
+**
+o
+o
+ฬ
+ฬC
+ฬ
+ฬ|๓ฺฺ
+c
+c
+๐
+๐
+๐g	ึMMMก	ณกก
+.ท		
+	'B	หBB	หนนน	็	๙
+ต,C
+ฬC
+ฬๆๆๆ]ๆๆๆๆ	U
+ฬÿ,	>
+ต,		vv22
+ปฉdทh	ะพฅฅฅฅ5GGฌ5พพพvv	ÿํษ$]-'!o‘Mึxx	น	น
+u
+uI
+า
+.ุaฅ
+.
+๊
+๊vv	ÿvิKHญชEฮE
+(
+([[
+ไ
+ไ
+ไ
+ไ
+(
+ไ	m[[,
+ตp	๙pp,,ฺฺ’n-ศ	
+’
+’
+’
+4"ซซ66
+z๑66๑h๕๕๕ใ—
+ฉ	๎e
+c
+c๚แ||
+||||||8ฏ:
+Lร
+L~~ญญ
+z	O
+ุ
+
+ๆ
+o
+oๆ
+ฬ
+ฬCC
+ฬ|๓ฺฺ
+c
+c	y	y
+๐g	ึMMMก	ณ	ณก
+
+ÿ.ท
+๛
+	'Bน0BBBBBp^
+ต,C
+ฬC
+ฬๆๆๆ
+o
+o
+oๆๆC
+ฬÿv‘ฃ,
+ต			vv22	D2dÛzGGฅฅฅฅพ	ะ5พพ5ฌพํํvvÛ!o.%ิ_ึxxง	น
+u
+uI
+า
+.
+.
+๊aฅ
+.
+๊
+๊vvvํิ
+]~ผEฮE
+([[	m	m	m[
+(
+(	m
+ไ
+ไ
+ไ
+ต,p	๙pL,,QQ•Q?Qฺ	
+’
+’
+’ซซซซญญ๑
+z66๑h~~~~
+ฉ
+ฉ	๎e
+c
+c•X๓๓|||||||
+ม8รรร
+L66	
+zOฦ””ิ]ๆ
+oCC
+ฬ
+ฬ
+ฬK
+]ิ
+]ิ
+]ิ
+]nn	๗n
+TÝหห
+%
+%
+%
+แฯXX??๚๚) ๅๅ0þๅn)
+ฒnn	๗n
+T
+T
+T
+Tnn)|๚น
+T
+T
+ฒ	;	๗	๗?ถ?ถ??ถถๅnๅn@@@@ü๊ฅ@'''ท“+O)
+ฒ
+ฒ
+ฒ
+TนFฯ
+แ
+แ๚
+ถ???
+๚
+
+๚๚ๅๅ)
+ฒnnnๅ๘ๆ]o
+
+##฿฿<<
+N
+N
+}๔	ย9
+Û	d—
+ 
+@ÛÝÝÝT๖
+ฤ;!!
+f
+fT
+f!h฿#
+ฌล
+N๘]@R
+ —
+Û
+Û
+ÛR	ๅ\
+ ์์u
+þ
+þ
+þu
+þ
+C
+Cบ
+C
+ธ
+ธs	ü	A
+ธ
+ธ
+ธัััHค-	ถ-ค--
+ฯิิ
+]ิิ
+]ิ
+]nn	๗nห
+T
+T
+T
+%
+%
+%
+แฯ	jX??๚๚
+ฒ)nnBBn	๗)
+ฒnnn	๗หหหหnn)น
+T
+T	;
+ฒn€þ์-ถถ?????n	๗	๗n@@@@s=“@'''ท
+ษ๊ü
+ฒ)))BนฯX
+แ
+แ
+๚ถ???๚q๚๚qqมม )ๅ	๗nๅ๘K"zิo฿฿<<ลล๔
+}9ฐR
+Û—	“
+ ฅ.ÝÝÝ
+f๖
+ฤ;
+f
+fÝÝ!	ช	๑h#<ล๘o@R
+ —
+Û
+Û
+ÛR	ๅ\
+ 
+þ
+þ
+þuuu
+þ	บบบ
+C
+ธ
+ธs	ü
+ธ/
+ธ
+ธัััH	-	ถ	ถ--ค	ถค
+ฯ
+]ิ
+]ิKKK
+]
+]ิ
+]ิ	๗n	๗n
+T
+T
+T
+T
+%
+%
+%XX
+%
+
+
+
+
+ฒ)
+ฒ
+ฒ
+T
+Tn	๗ๅn
+ฒ)
+ฒ	;หหþๅn
+ฒ BB		๗nn	๗หBQ!	;๚๚
+๚๚
+๚nnnnห
+T@
+ษ
+soทใใ''……ssnn ์นF
+แ
+%
+%
+
+๚๚๚๚๚๚--ถถๅnๅn) ๘ok'#5k9๘฿฿h	๑ลล
+
+}๔๔๔———
+
+ลลVปDh!!!!
+ฤฒ
+ฤฒÝÝ
+fÝÝÝ!	ช#
+ฌ##
+Nลลล———	d
+Û——\ำำ\บ
+C11บบ
+C
+Cuu
+þu/
+ธ/
+ธsss๊--้้
+r
+r	ถค
+
+]ิ
+]ิK
+]KKKย
+]ิ	๗nๅn
+T
+Tหห
+%
+%
+%
+%
+แ
+แ
+%
+
+๚๚) 
+ฒ
+ฒหหๅnn	๗
+ฒ))
+ฒหห	ๅn
+ฒ
+ฒB
+T	n	๗n	๗
+Tหฺ’ฒq
+๚q
+
+๚nnnnห
+T
+ษ@üsฅ.ททใใ''……ü๊ๅๅ4#๗ฺ•ึซX
+%
+%q
+๚๚
+
+q
+???-)
+ฒๅnnๅ )๘]!พYกกๆ฿฿฿h<
+N	“
+๔
+}
+}
+}———
+
+
+N
+Nh฿Vh!!	ช
+ฤ
+ฤ;;
+f
+f
+fÝÝÝ!#
+ฌ##<กลื
+ …
+ÛR——	ๅ\\ำ
+Cบ11บบบบ
+þ
+þ
+þu/
+ธ/
+ธ	ü	ü	üa			ถค
+r
+r
+r
+r--
+ปฉ	ข	ข
+]
+]vvฉ ฐฐนBหหBห๚
+
+
+XX
+%
+
+
+
+n	๗nn	;)n	๗
+T
+T
+T
+Tþหหห
+T)
+ฒ)
+ฒ)
+ฒ)
+ฒcฯXXXฯ
+แ
+Tหnn)
+ฒ'ใZü……ü
+lใ	ฐ'ท@ü…))\ึงง
+%q๚๚
+
+%
+แฯ))ๅๅล*9]<<ล<##ล
+N
+Nล
+ÛR——R
+ÛR
+Ûล
+Nล
+Nhhhh	ช	ช
+fÝ๖๖;
+ฤ
+ÝÝTÝ
+Nลลลๆ'ณ
+N	๔kk๔๔
+}
+}	u
+þ	ฬ
+C
+þ
+þบบ
+Cบ
+ 
+ 	ััั
+Z
+Z
+Zัั
+
+--
+r
+r้
+ป
+ปิิ	ÿ	ÿ2ฉย~þนหหBห๚
+
+
+
+แฯ
+%๚๚
+
+n	๗nn
+ฒ
+ฒn	๗	หห		
+T
+Tหหþห
+T)
+ฒ)
+ฒþ)
+ฒ)
+ฒ
+แX
+แฯXX
+Tหnn)
+ฒ'	ฐ
+lใü……ü
+lใ'@
+ษ…ü))n\งBBB
+%
+%
+%q๚๚
+
+%
+%
+%
+แ
+แþ))nnล<๘
+ลลล
+N##
+ฌ
+ฌ
+Nล
+Nล
+ÛR—…R
+ÛR
+Ûล
+Nล
+Nhhhh!!
+fÝ
+
+;
+ฤ๖ÝÝTÝ
+Nล
+N
+N๘]<ล๔๔๔๔๔๔
+}
+}
+þ
+þ
+þ	
+Cบ
+þ
+þบบบ1
+ 	)
+ {	ัั
+Zใ
+Z
+Zัั
+
+--
+r
+r้vvKิ
+ป
+ปํํิKิิBหหห
+
+??
+%
+%
+แ
+แ๚๚ถถnn
+ฒ
+ฒ
+ฒ)nn
+T
+T
+T
+T
+Tหน
+TหหหBหหnnnๅþห
+T))))หหþฯ
+แ
+%XX
+T
+T
+T
+T )nn
+l๕ใZ
+ษ@ทท'''…………ๅๅ)
+ฒþ
+Tห
+%
+%
+%?-ถ?
+%
+%
+แ
+แหBห
+T
+ฒ)
+ฒ)
+Nลลล
+
+
+N
+N
+ฌ
+ฌhhล
+N
+NลR
+Û——
+Û
+Û——
+h฿hhÝÝ
+fÝ
+;ฒ๖๖!!
+
+
+N
+N
+Nล
+N
+N๔๔๔๔'ฐฐ	ย
+þu
+þ
+þ
+Cบ
+C
+C
+þ
+þบบ\\	ๅ\HัHั	
+Z
+Z	ัััั
+้
+r	ถ-้ํ	ÿ~9ิ
+ป
+ปvvิKิๆห
+TÝห
+
+ถ	ศ
+%
+%
+แ
+แ
+
+??nn
+ฒ
+ฒ
+ฒ)	๗ๅ
+T
+Tหห
+TหBหหห
+Tหหหnn	๗nห
+T
+ฒ ))หÝþFX4FหหB
+T )nnใ
+lใZ
+ษ@@@''…………	๗ๅ) 
+Tห
+%	ศถถ?
+%
+%
+แ
+แ
+Tห
+Tห
+ฒ)
+ฒ)ล
+Nลล
+
+
+N
+N
+ฌ
+ฌhhล
+Nล
+NR
+Û—…RR——
+
+
+฿h	๑	๑ÝÝÝ
+f
+;
+ฤ
+
+!!	ช	“	“
+N
+Nล
+N
+N
+N๔๔๔๔9ฐ
+þu
+þ
+þบ1
+C1uuบบ	ๅำ	ๅ\ัHั
+Zัััใ
+Z
+Zy้
+r?ค้K
+]
+ป	D
+ป
+ป
+]Kิ
+]๚๚??
+แX
+%หห	  nn	j
+แ
+แX๚
+๚
+	j
+แ
+แ
+แ
+แ
+แXXๅ\nๅnn
+ฒ)	๗n
+ฒ)หห))	๗n)
+ฒ
+ฒ)
+แX
+%
+แ
+แXฯ๚๚??qqคคBหใใ''o
+๘
+๘ๆดดด+
+Tห
+TหnnnๅๅๅๅๅหหหBBห
+แX
+%๚๚??##฿hhh	๑h
+ฌ๘๘RRRษk๔	ย9R
+Û
+ÛRฐ	ย
+}
+}ฎฎฎฎ
+๒
+๒ฎฎ
+ฤ
+ฤ;
+ฤ
+ฤ;	M;	๑	๑h฿hh	5
+ฌ99๔
+}9'ฐ
+r้้้ค-ค``
+r้
+ฯฝsss	ü๊	ü	ü	ü
+็
+็ข
++
++
++yค-	ถ	ถ	ขK
+]2
+ปฉ
+ปิิิ
+]
+q??
+แXหหjำๅX
+แXฯ๚
+
+๚ฯX
+แ
+แ
+แ
+แXX\ำำ&มๅ
+ฒ)ๅn
+ฒ)หห
+ฒ
+ฒn	๗) 
+ฒ)
+แXXXX
+แ๚๚ถถ๚๚	ศถห
+Tu์ัใ''oๆooดดด
+=
+TหBหnnnๅๅๅๅๅuนหหBBห
+แXq
+??##h฿฿฿h	๑	5#ๆฐoRRR
+Û๔
+}	ย9R
+ÛR
+Û99๔๔ฎฎฎฎ
+๒
+๒ฎฎ;;;
+ฤ;
+ฤ
+ฤ
+ฤhh	๑DVh
+ฌ#99k๔99ฐ9
+r้้้ค-	ถ-้้
+r้FFss	üsssss^^ข
++
++ค---	ข
+ป
+ป	ÿv
+]
+]
+๚	ศ?
+แXXX|||FXXX๚๚๚qฯ
+แ
+%X
+แnๅ8$Uๅn	๗nn))	nn
+ฒ	;) 	๗nฯ
+แ
+๚ถ-??
+๚ห
+TBB MญZZZ'Zใดดดดดด+ด		๗nnๅnๅnnBB0๚๚Bหห๚
+q
+
+ฌ#hh#h	๑#oKo—
+ —	ย999———
+ ฐ9๔๔ฎ
+7
+๒i
+7ฎ
+๒i;;
+ฤ
+ฤ
+ฤ;#
+ฌ
+ฌ฿hฐฐ๔๔
+}๔๔
+}้้-------ค
+r้
+ss
+ธ
+ธs	üssีรฟHข
+็	p
+ฯ
+ฯ
+r`--
+ป
+ปvํ
+]
+]๚
+	ศ?X
+แ
+แ
+แ")X%cฝX	j๚่ฤþFX
+แ	๗n\ฏ8ๅ\ำnn
+ฒ
+ฒnn)
+ฒ)
+ฒnๅ
+%
+แ
+แ
+๚?ถ??๚qห
+Tหห• MZใใ	ฐ'
+lใดดดดดดด
+=þๅnๅn	๗nnnBB,,•þ
+T
+T
+%
+๚๚๚
+ฌ#hh#
+ฌh	๑#ÿÿ#
+
+—
+ —	ย9ฐฐ
+ 
+ 
+ —9ฐ๔๔%ฎ
+๒i
+7ฎ
+๒i||;;;;	M
+ฤ
+ฌ##
+ฌ#฿h9'
+}k๔
+}
+}๔้้------ค-`้
+
+
+๊	ü
+ธ
+ธs	üssรฑ& 'w๕ข^
+็FF
+r
+r--ิิ
+ป
+ป
+ป2	ข
+]ิX
+แ
+แX
+%
+%
+Tหn\.–(??x$4 2 q
+	j
+แX
+แnnnๅ\ๅม&Bห))))
+Tห
+T
+Tหห
+%
+แX
+%
+%
+%
+๚๚๚
+แ
+แห
+T
+T
+Tๅn\ำัใ
+l
+l@@@
+ษอVดด	oB
+TBนnๅnn	๗n	๗nB
+T
+TBมy""๓นห๚๚qqถถ??
+	“
+฿Vh฿#Vh
+N
+Nล
+N999999k๔9999—RR	ูPฎฎฎ%ไm;;ÝÝ฿VV	๑
+ฌ
+ฌ฿hฐ9๔๔
+Û
+Û
+Û
+Û
+
+r
+r--F
+ฯ-ค
+r
+rs๊//ััHั^L(3Eผ3ื้
+r้ค	ถ
+r
+rิิ
+ป
+ป	D
+ป~~
+]ิ	j
+แX
+แห
+TnnJ&๗-ถถ!•4 4þ |่๚X
+แฯXๅๅn	๗ๅnๅ\หBþ
+ฒ
+ฒ))ห
+T์หหหห
+%ฯF
+%	
+๚๚
+แ
+แ
+Tหหหๅnnๅใใ
+l
+l@@@
+ษ	฿V
+
+++
+๘
+๘หห
+Tหnๅn\n	๗	๗nหห
+TBๅำ B
+T
+
+๚๚-???
+
+	“h฿	๑V#
+ฌ	๑฿ลล
+Nล999999k๔9999
+ —
+Û
+Û
+•	ูPฎฎฎ
+7
+;;ÝÝh฿฿h
+ฌ
+ฌh฿9	ย
+}
+}
+Û
+Û
+Û
+Û
+
+r
+r--
+ฯF-ค
+r
+rs๊//ััHั
+็
+็ี^ผ	ฮEช<N`้	ถ	ถ
+r
+r
+	ข
+ป
+ป	ÿ	ÿKั	ข
+แ
+แ
+%
+T
+Tๅn) ถถ
+
+XฯÝ0 |M๚๚
+แXฯฯ)) ))ๅ\หหþ)
+ฒnๅ"หนหB
+แX
+แ	j
+แ
+แ
+๚	ศถ
+แ
+แหหหหnnnn''@@@
+ษVอด++ด
+T
+Tnๅๅ\)
+ฒ	๗nหห)  )หห??????๚๚
+N
+Nล
+N#
+ฌ#
+ฌ#
+ฌ#
+
+
+ฐ99ฐ9ฐ9ฐ99๔k——R
+ÛP	ูPPฎฎ
+7
+7
+
+;ฒ	ช
+f
+f##h	๑#
+ฌhh	ย	ย๔๔RR
+ÛR
+ฯ
+ฯ
+้
+r--F4๐ค--ssss
+Zั^
+็^^E	ฮ ๎J!&ๅค
+r
+r-	ถ
+
+ป
+ปvvKZ~	ข
+แ
+แB
+Tn	๗
+ฒ)??	๚
+แX_่
+q
+แXFF) )
+ฒ \ๅหหþ
+ฒ)nๅหหBหฯX	j
+แXX๚
+??
+แ
+แหหหหๅ	๗nnฅท@
+ษVอ+ดด+BB	๗nๅn)
+ฒnๅþนห
+ฒ) )B
+Tþ??????qqลล
+Nล#
+ฌ
+ฌ#
+ฌ#
+ฌ#
+
+๘ฐ99ฐ	ย9	ย999๔küR
+ÛวPPP%%ฎฎ
+
+
+ฤ;	ช
+f
+f
+ฌ
+ฌh	๑#
+ฌhh	ยฐ๔๔
+Û
+ÛR
+Û
+ฯ
+ฯ`้--F4Þ๐ค---ssssั
+Z^
+็^^Eผwe$2บ(y’
+r
+r	ถ-
+2
+ปvvฉ
+ปิิ	ÿv
+ป
+ป
+
+๚
+?ถ๚q )	;)n	๗
+ฒ)
+%	j
+แXฯ	ศถ๚q\nๅn
+ฒ
+ฒ )XX??๚q
+แ	j??๚๚&!gj
+ฒ	๗nnn
+%
+แ
+แ๚๚??	
+ฒ
+ฒ
+ฒ
+ฒH$aüü
+
+Vอooด+Zัใใ
+lใ'	ฐ
+
+o
+๘ooด+ดดด
+=ด+ใใü…ssวว>ว
+•PP
+•วP
+•>>33ฮiฎฎฎฎii
+๒iWiฎ
+7
+ฤ;;;;;๖ไ;
+ฤ
+๖
+fÝ
+f
+f!	ช
+f
+f!Ý
+f
+๒ii
+๒i
+๒i
+๒-ค--
+r้้
+r\ำ๓๓\\
+ 
+ 	ๅ\ำำ-ค-คค-+ญ#	ü	ü
+ธ/	üฉ2vvฉ
+ปK
+]vํ
+ป
+ป
+
+๚
+	ศ?๚q)
+ฒ
+ฒ	๗n
+ฒ)๏Ý
+แX
+แX??
+๚ๅๅๅn))
+ฒ)
+แฯ??
+๚
+%
+แX??๚๚8!gj
+ฒ	๗nnn
+%
+%
+แฯ๚๚??	))
+ฒ ZZsü……
+	฿V
+๘
+๘+ดใZใใ๕
+l'
+
+o
+๘
+๘ๆ+ด
+=
+=
+=ด
+=ดใใDุsas>,ฃ่PP
+•วP
+•วต"b+,iฎฎฎฎWii
+๒	{i%ฎ
+ฤ;ฒฒ;;mฒ;
+
+
+fÝT
+f	ช!
+f
+f	ช!Ý
+fi
+๒
+๒iเi
+๒i-ค--
+r้้
+r\ำ\\
+ 
+ 
+ \	ๅ\\ค-	ถ--คคคุด๙/	ü	ü
+ธ/	ü2ฉvํฉ2vvํ	ÿ	๚๚
+??
+q)nnnn	๗n์ฯXXXXX?	ศ
+q))
+ฒ)nn
+ฒ
+ฒXX
+แ
+แq๚
+๚X
+แถ?๚๚\J\	๗nๅ))
+%
+แX๚
+๚๚หห)
+ฒ	๗nใ
+lใัท.asอV
+ดด+ด
+lใใใใใออ++
+๘ๆด+ๆo
+๘
+๘ดด'Vุ…üü๚ฤ$7-$7ววqt(>Ý%i
+๒i
+๒%%%ฎ
+๒
+๒เ
+๒
+๖๖;
+ฤ
+ฤ;;
+ฤ
+ฤ;Ý
+f!!
+f
+f	ช!!!%ฎฎ%เ
+๒
+7ฎ	ถ	ถ
+r้-ค้้\\ำ\\\
+ \\
+ 
+ 
+ 
+ ้
+r๛
+r
+r้คค๊๊s	ü
+ธ
+ธ	üs
+ธ2ฉํR— vvํํ
+
+
+๚	ศถ
+
+)
+ฒnnnnn	๗FฝX
+แ
+แ
+แ
+แ
+แถ?๚๚)))
+ฒnn
+ฒ
+ฒXXXX๚
+๚
+
+แXถ-๚๚ๅๅๅn\ำ)
+%
+แX๚
+
+qหห)
+ฒๅn
+lใใใท. =ปV
+ดดด+ใZZZใใออ++
+๘ๆoๆ
+๘
+๘ดด'sü
+ü๚ฤ2Ý;ง7B$7๚ววE3%i
+๒i
+๒ฎxเ
+๒ii
+;
+ฤ
+ฤ;;
+ฤ
+ฤ;TÝ!!ÝÝ!!!ฎ
+7%Wiฎ
+7--
+r้ค-้้\\	ๅ\\\
+ \\
+ 
+ 	)้
+r้
+r้
+rคคsss	ü
+ธ
+ธ	üs/vํü&#ขü	ข
+]
+]
+%
+%
+แ
+แหB
+T
+T?	ศ๚๚๚
+
+
+
+
+??
+๚ถ?)
+ฒnnหห	๚๚๚๚๚๚ถ?
+แXX
+แ๚๚	
+nnnๅ0นBห??๚๚	ศ???ห
+Tห
+Tห
+T
+ษ@
+ษ
+ษü๊“Vอ
+๘
+๘ดด.!~!~6Z~~ิoVVออweVอVV
+lใZZ''>*ฯ:์5mtเiPวว>__๚๚ฎ%เi%i
+๒ฎ3Eiiii
+fÝm
+
+;;;;๖๖
+
+	ช!	ช!
+•>P
+•
+•	ถค--ค-ค-\\
+ 
+ 
+ 
+ \\
+þ
+þ
+C
+C
+Cบ
+þ์้
+r--	ถ	ถ้`
+Z
+Z
+Z
+Z
+Zัv	ÿ…(-ใs
+]
+]
+%
+%
+แ
+แ
+Tหหห?	ศ
+
+๚
+๚๚๚๚ถถ_ฤค-)
+ฒ	๗ๅหห๚๚
+
+๚๚	ศ?X
+แ
+แX๚๚
+๚nnๅ\ห
+T
+Tห??๚๚	ศ?-?
+Tห
+Tห
+Tห
+ษ@
+ษ
+ษüüทท
+Vอ
+๘
+๘
+=
+=ฅ*H-6ใ฿) +๎z]VVออ VอVV
+lใZZ	ฐ	ฐ'วต)&jผเi	ูPPวฤ#|ึฎ%i
+๒ฎ%
+๒iฎฎเเiiii!!ÝBาฎไ
+;;;;
+๖!!
+•วว
+•
+•
+•ค’คค-คค-	ๅ	ๅ
+ 
+ 
+ 
+ 	ๅ	ๅ
+þ
+þบบบ
+C
+þ
+þ้
+rคค--้
+r
+Z
+Zัใ
+Zั
+ป
+ปÛ@ทdิิ
+]
+]
+]ิิ
+]
+%
+แXX
+แหห	
+T
+T๚
+	ศ??ถ??๚๚?ถn$&€ถ	๗ๅnๅBห๚๚	ศ?ถ?
+๚
+๚??
+ฒ)
+ฒ)หหหหq๚?ถ
+๚ถ?
+TB
+TBหห
+ษ@@@……@@
+
+=ด
+๘oท.๘oั3A7ฆ*wอVออDVVอ
+	ฐ''''''P>ฮWเW่ึต	ู
+๒เ
+7ฎฎ%%ฎiiฎฎi
+๒%ฎ!!ý!x.งไ๖ฒ;;
+ฤ
+
+ฤ
+ฤ
+ฤ
+ฤÝTÝ
+f
+•PP
+•ณก---
+ 
+ \\
+ 
+ 
+þ
+þ
+Cบบ
+C
+C
+C-	ถ้้
+r
+rค-ัััั	ั
+Zั
+ป
+ปvํํvิิิิ
+]ิิ
+]
+%	jฯX
+แหห
+T
+T๚
+	ศ??ถถถqq?ถๅ?n\nๅBห
+q?ถถ-q๚
+๚??
+ฒ))
+ฒหหหห๚qถ?๚qถ?
+TBหหหหท@ทท……ท
+ษ +ด
+๘o@ทท.Zญ#$*wHVอVDปออV
+'	ฐ'''''วววตเiฮ3๚
+•
+•PP
+๒
+๒ฎ%ฎ%%ฎii
+7
+7iเฎ%!!!+น!xไ๖
+ฤ;
+ฤ;
+
+ฤ
+ฤ
+ฤ
+ฤ
+fÝTÝ
+•PP
+•ืลคค--
+ \\uuบ11บบบ-ค้้
+r
+rค-
+Z
+Zัั	ั
+Z
+Zaa
+๊
+๊
+๊a
+]ิิ
+]ิิหห
+Tหถถถ	ศ
+แXX
+แห
+TหBnๅ\ม	-๚
+๚q๚
+))nn)) )หห
+ฒ))
+ฒnnnnหหX
+แX
+แ
+ฒ )nn
+แX
+แXX
+แัั๑๑ZZ'Z
+lZใ
+lZzHZ'ฉ—๎ด+ดดด+++VอVVอV
+VVT
+fฒ
+•
+•ฎฎ
+7%PววPiiฎ%๖๖
+ฤ;ห0TÝ!!นt
+7ฎ	{
+๒i
+๒ฎฎ!!Ý
+fýt!	ช
+fÝ๏ÝำJำม์
+þ
+Cบ๐ฝฝFF\ำ์
+þบบ``ลล…	ü	ü๊/
+๊
+๊aa
+๊a
+]ิ
+]ิิิหหBหถถ??
+แXX
+แห
+T
+Tหnๅ\"ฏq๚
+๚๚
+
+ฒ
+ฒnn))Xนห
+ฒ	;
+ฒ	;ๅ	๗nnหห
+แX
+%X
+แ)ฯ""j nn
+แXฯF
+แXัฟ฿฿๑ใใ	ฐใใZใใใ฿ฟใDDด+ดดข+
+=VอออDอ
+VVTT
+
+;ฒ%%ฎฎPววP
+๒
+๒ฎาไฒTนTÝ!!TÝ!!
+7ฎ
+๒i
+๒iฎฎTÝ!bP!!ÝTÝÝ\ำ\Juu
+Cบ
+FF
+ฯ
+ฯ\ำ|๓ฺ์บบ้ล$ะ'พ1s	üss๒/aaฅ
+.
+.ฅ
+]ิๆิิ
+]
+]ิþหห	Bหq
+??หหห
+T
+ฒ
+ฒ)ฤqถ???๚
+nn	๗	๗))ำม0ห
+Tหnn)
+ฒ)
+ฒ
+ฒ
+ฒหBหห
+%
+%)ฝ)uX)n	๗xÝฯX
+แฯใZใ
+l
+lใ
+lใ''Zัoo
+๘ๆZ~ๆ
+๘Vอ
+VVDอ!TT
+ฤ	M๖๖
+•PวเWi
+๒วPPPฎฎฎ7ไนห!!ฎฎฎฎ
+7ฎฎ
+7!!๏ห!ÝÝÝÝ	ๅ\์u
+þ
+þ
+ฯ
+ฯ
+ฯ
+ฯ
+ฯF์u
+C
+C`ก/ฬ41$ry/
+ธ๊sั6ญัsaaฅ
+.
+.ฅ
+]ิิิ
+]ิิ
+]
+T
+T	หBqq??หหห
+T))) ๚
+?ถถถ๚
+	๗	๗nn
+ฒ
+ฒๅๅBหBหnn)
+ฒ)
+ฒ))หBBB
+%
+%
+%) |)n	๗xฯXฯฝ
+lใใ
+lZใ
+lใ'''ใ
+l''
+๘
+๘
+๘ๆ๕ooVอ
+VVอV!ÝÝ	M
+ฤวPเii
+๒P	ูPP%
+7ฎ%);m๖!!!P _น!!
+7%ฎฎ
+7ฎ
+7ฎ!
+f
+f!!tTTÝÝ\ำ
+ ์c
+þ
+þFFFF
+ฯF
+|ฯ
+ u
+þ
+C
+C้`J%๐	A
+ธ๊s
+Zัััsพ	ะGGv	ÿ22
+ป22
+ป)
+ฒ)
+ฒหหนนX
+แ
+แ
+แ
+T
+Tหห
+%
+แX๚๚
+
+n	๗) Bน)
+ฒnn
+ฒ)) นง))ๅ\X
+แBB))nn๚qqq๚๚qqท@ท@ใใ''''ü
+……ใใดดooVV
++ด
+๘oด+ด++ดด
+=	฿	฿TT
+fÝ
+
+ฤ
+ฤ
+•P	ูi
+๒ฎ
+7
+๒
+๒ฎฎ
+•PP
+ฤ;
+ฤ
+ฤ;;;;Bนb๖m๖
+๒Wi
+๒
+๒i
+๒i;;
+ฤ	M!๖๖๖บ1บบำำ
+ฯ
+ฯ
+ฯ
+ฯ-ค
+r`๓J\
+C
+Cบ
+C
+r`’๗ื`--
+ธ
+ธ
+ธ
+ธ
+ธ/ss/
+
+GGพพ	ÿv222ฉ2
+ป
+ฒ	; )หหBBX
+แXX
+T
+TหหX
+แ๚๚๚๚nๅ) ์þBห
+ฒ)nn
+ฒ) B0 
+ฒ\มfX
+แBB 
+ฒnnq๚๚๚๚๚๚๚
+ษ@ท	Rใใ	ฐ	ฐ'''ha………'ใใ++ๆๆออ
+ด+oๆ+ดด++ด
+=ดVVTT
+fÝ
+;;
+•	ูP
+๒iฎ
+7
+๒
+๒%%
+•PPฒ;;;
+ฤฒ;)ห๖m๖iเi
+๒
+๒i
+๒i
+ฤ
+ฤ
+ฤ;
+
+
+๖!!!
+
+Cบบบ\\
+ 
+ 	X	X
+ฯ
+ฯ-ค้้\\
+C
+C
+Cบ้้ค
+r้--
+ธ
+ธ///
+ธ	ü	ü
+ธ
+
+GG
+
+ป
+ปv	ÿ	ÿํ 2
+ฒ
+ฒ)
+ฒ
+TหหหXX	ห
+T
+แ
+แ-ค??	๗ๅๅn
+Tหnn)
+ฒ))nำ
+Tห
+ฒ
+ฒ นx
+%
+%
+%
+ฒ
+ฒๅn??
+๚
+
+
+
+@@s…ใั'''๊ü
+ษ
+ษใใ''ดดoๆ
+
+๘o+ขขดด+ooดขออป2!
+๖;;วP
+•ฎi
+๒
+7ฎ%%วว๖;;ฒ)ýiWฎii
+7ฎ
+
+;
+ฤ
+ฤ;!!!
+ฤ
+ฤ;;บบ
+þ
+þ
+ 
+ 
+
+r้--	ๅ\
+þ
+þ
+C
+C--้`----
+ธ
+ธssฆ//
+ธ	AGG
+	
+ป
+ป	ÿvvv 2
+ฒ
+ฒ
+ฒ	;ห
+Tหห
+%
+%
+แ
+แ	ห
+T
+แ
+แคถถๅม\	๗ห
+Tnn
+ฒ)))n	๗
+Tห))) ๏
+%
+ฒ
+ฒn	๗ถ	ศ
+๚
+
+๚๚@@……ใฟzh๑''	ฐ……@@ใใ''ดขๆo
+oๆ+ข++ข+o]++VDอD!!;;Pว
+•ฎฎi
+๒
+7ฎฎฎ
+•วตm๖
+
+;;
+ฤ;!
+๖i3xiiฎ
+7
+ฤ	M
+ฤ;ฒ
+ฤ;;
+C
+C
+þ
+þ
+ 
+
+r้--	ๅ\
+þ
+þ
+C
+C--
+r้--
+ธ
+ธss/
+ธ
+ธ/
+ธ__
+ฃ
+ฃ	xxx_ึ	฿V
+ดดดด
+ษท
+ษ
+ษ	ฐ'ใใหÝnn ซFูู
+ฆ7ฎช!!
+
+‘
+ํd
+ํ
+ํ
+
+
+ฌฌฌ
+พNN“
+we๎
+w
+ี
+ี‘‘ช	ผชช
+w
+w3ชูb
+ฆiฎฎAÜชช3	ผ33ืืืืืื“ืืNื	ฅ“จมมฏ8`๛–Jม}๔##
+ฌ#	๑hRR@ษ99๔k
+Nืล<
+๘๘ลลลล<
+Nฝ
+ฯy
+r้้
+r้Nล`
+ฯ
+ฯ้ื`้
+r
+r
+r`ฯF8ำ1บu
+þ
+ 
+ 
+ÛR
+ÛR
+Û
+Û
+ 
+ —
+ ——
+ 99	ย	ย
+Û
+Û
+Û
+Ûk
+}๔โฌพฐ9
+ 
+ \\\\
+ -__
+ฃ
+ฃ_ึอV
+ดดดด
+ษ
+ษ
+ษ
+ษ'ใใ
+T
+Tnn๓4ฯbb
+ฆภ73ชช!‘‘d
+ํ
+ํ
+ํ}5##5ืื“๎๎๎
+w
+ี
+ี‘‘ชชชช๎๎3ชbู
+ฆ{ภฎAธชช3	ผชN
+`ืืืื“NNืN	ฅ“–จจJJ8ฏ<NมJ๔Y##
+ฌ	๑h
+Û
+Ûท.ฐฐ๔kล
+Nล<๘ิฐ*
+Nลล
+N
+N
+ฯ
+ฯ
+
+r้
+r้
+rื`้
+
+ฯฝ`<ื`
+r`้ืซ$þฏ\
+Cบu
+þ
+ 
+ 
+ÛR	d
+Û
+Û
+Û
+ —
+ ——9999R	dRRk
+}๔โGG'
+ \\\\
+ -ึ	่_	่
+ฃ	,
+F4
+ฃึ_อVVอo
+๘
+๘
+๘@
+ษ…
+''ใใ	ๅn ฯXX
+แX
+แ
+ฆ”
+I
+I{๎๎ชชL
+ีLรdd
+ํ
+ํมมมมyg#ฌืืชชช3
+ีL‘‘33eeeeช3
+ฆ”Pู7วตS๎333ชืืืื
+
+
+`N“ื
+`
+`Nืืจ
+ํdมม๔ทÛ}
+8y ฅÛ
+ฌhh	๑฿
+ÛRüฐ9๔๔ล
+N
+]ย๘o'!ลลล
+ฯ
+ฯ
+
+--
+r`้ืื้F
+ฯ
+คคคคคค``ฏ&
+ 
+þu์u
+Û
+Û
+ÛR
+ 
+ —
+ 
+ 
+ ——
+Û
+Û@
+Û99
+}
+}—
+ RR
+}๔9ฐ9'ฐฐ
+ 
+ 	ๅ	ๅำ\้__	่_
+ฃฝฝ
+ฃ_	่อVVอo
+๘oo
+ษ@…
+''ใใþๅn
+ฒ X
+แX
+แ
+แX””ภภ{สส!3L
+ีร:
+ํ
+ํ
+ํ
+ํJJมม๐๐#““้ืชช3ช
+ีL!3๎๎ee!ชูb{{7$PS๎ชช3ชNNNN““ืื“
+`ืNNลืจdษฏ}k–R@โ8%
+.
+ฌ฿฿hV@ษ——9ฐ๔โ<ล๘ย!ิo]<๘
+ลล	X	X-้้``้้
+ฯFคคคคคค้้Jำ์uu
+þRRR
+Û———
+ ——
+ 
+ 
+Û
+ÛRษ99
+}
+}
+ —	dR๔
+}	ย99999
+ 
+ 
+ \\\ำ`ฝ
+F
+ฃ‘ึ_4ฝฝ
+F__
+ฃ
+ฃ
+	฿Vๆoดด'	ฐ
+l
+l@
+ษ…üuþหหþ
+T
+T๚	?ถ??
+qูู๒
+I7สS๎
+w๎
+w๎๎
+1d
+ํ
+ํ
+ํg๐#55
+พฌ
+‘๎๎สฆL
+ีL
+ฆ
+ฆ{เ(
+!ช๎e
+NN๐๐yy๐๐ygบฬg๐Û
+ํ้#ิ–มมฏฅÛdRิ]๘฿฿ฐ	ย9ฐkk฿฿oๆo
+<ณ]๘ณ<ลลค--ค
+ฯF
+้้ค’ื้-ค้``้บบuฺ-ศจ
+C99ฐ9————ฐ9
+}
+}k๔๔๔
+}๔99
+}๔
+}๔—
+ 
+Û
+Û๔
+}ฐฐ\\ำJ
+þ
+þuuฝ
+F_ึ"4ฝ__
+ฃ
+ฃ
+อV]ๆดด'
+l
+l
+ษ@…üหนþ
+T
+T๚๚?ถ?-๚๚
+ฆููภภ
+w๎
+w๎	 
+w๎๎d
+ํddจ๐y5ฌ5555‘‘‘๎Ü/'รiร
+ีL‘””i:ร‘‘ช3
+w๎
+ืื๐Þyyyy๐Þ1g๐Û
+ํ.@จมมม8ษÛdd๘๘฿฿'ฐ99ฐ9kk##฿฿
+	“
+<ณิo<ลลล-ค-ค๐yFฝ
+้้-	N`-ค`้ื
+r
+C
+C
+þ?)ม%\บ	ยฐ9	ย————ฐ9
+}
+}๔kk
+}๔
+}99
+}๔k๔—
+ RR๔
+}99\\ำJuu
+þ
+þ
+x___M๏๏ฝฝ	่_VออVo
+๘
+๘oใZใ
+l……
+…หBBน
+๚ถถ??๚
+
+ฆ
+ฆภภ
+w
+w
+w๎
+w
+w๎ed
+ํd
+ํจจyy
+พ
+พyy๐๐
+ี
+ี‘‘3!สฆ:‘‘‘รL๙Pูภภภภ‘‘‘3ช3ช<N“๐๐55๐
+๐๐Þg๐y
+1จdÛÛd
+1}๔–จจลณิoÿํV฿ฐ9ฐฐ999ฐ฿V
+ฌ	“
+Nล๘*<<ล้้-คygF
+ฯฝ
+ฯคค้ื€’ื``้-uu์ศ-c
+þ
+}
+}99——RRk๔๔๔''k๔
+}
+}๔๔99'ฐR
+Û
+Û
+Ûฐ9
+}๔\	ๅ
+ 
+þ
+þบ
+Cx__ึึxxฝฝ	,_	่	฿VV	฿o
+๘
+๘	ใ
+l
+lใ……
+…BหหBþ๚qถถ??๚
+
+ฆ
+ฆ7
+I๒๎๎Üee
+w๎ed
+ํÛdจจyy55yy๐๐
+ี
+ี‘‘ชชeeLร‘รL๙ฑm>ภภภภ‘
+‘‘ช!!ณล
+“๐๐55yy๐๐๐y๐yจÛR
+ํdจจkจ–จลก'ยd.2฿'ฐ'999	ย9฿V##
+
+ล<๘<
+Nล
+N
+
+้้-คyy
+ฯ	XFFคค้ื€’ก<`้คคuu์์์์u
+þ๔๔99——
+Û
+Û
+}๔๔๔ฐฐk๔
+}
+}๔๔99R
+Û
+Û
+Ûฐ9
+}๔\ำ
+ 	u
+Cบ_ึฝฝx๏xฝฝ
+ฃ
+ฃึ_
+
+
+อ	฿อV…
+
+ü''
+l
+lหB?ถ๚่Xฯi{
+IภPู{{{7ภ{i55ฌN
+`“
+๐๐y5
+พ5533๎๎๎
+w๎๎ูP”bู
+ฆ(#ผ%๏ไ33๎๎{๒๒๒๒iผ`–d
+ํddมม8&88}๔8มJJ
+ํÛd
+ํ๔มมhVÿÿกo…———RRoๆ๘
+
+ฌ
+ฌ
+ฌ99'9ฐ	ย9ฐ
+ 	ๅำu
+þบ
+C\ำ\ำมJำ\ำJj๓\ำำ\-ค้้--
+r`โ๔๔๔————	๑V
+
+ลลhh
+ฌ#hh฿V##
+ฌ
+ฌ
+ฌ
+ฌ
+ฌ#
+r้--
+ฯF
+r_ึ44xx4
+F
+ฃ
+ฃ_ึVVDอ
+…
+
+''
+l
+l	หB	ถ-qq
+แFEiภ7๙bู{	{ภ
+I๒#
+พ5ืื“yyy๐ฌ#5533๎๎
+w๎๎๎bููb
+ฆรา33๎Ü๒{๒๒{เ!(P<–d
+ํ
+ํ
+ํมฏ"บ *rืล8kฏ8มมddd
+ํ๔JJhV<ณ…———
+Û
+Û๘o###ฐฐ''ฐฐฐ9\\
+þ	1บำ\ำJJำำ\ำ\ำ\ำ\	ถ-้้ค	ถ้้kk๔๔————h฿
+
+ลลhh
+ฌ#hh฿h####
+ฌ
+ฌ
+ฌ#้`--
+
+
+ฯF๛__xÝxฝ
+F____VVVอ
+ษ
+ษ
+ษ
+ษใใ	ฐ	ฐห
+T
+TหหหBBคq๚Xฯ
+แXi{{เฑpูbภ7ภภภภ
+I7#ฌ55ืื55
+พ5ฌ#๐y333ช
+we๎
+w”ูู””ูP:L3	ผ3Wi777ฎทÛddddจจJ8"บ&ย
+&35$ํk}๔๔}}จ
+1J8}฿h##ลณษR—RR๘<<฿hhh๔๔ฐฐฐฐ๔๔
+ 
+þ
+þ1บ
+ 
+ Jม
+ \ำ-ค----’9999
+ÛRR
+Û##
+ฌ
+ฌ
+
+
+Nล
+ฌ##
+ฌ฿฿#
+ฌhh฿hhhhhคค้
+r
+-__xÝxฝ
+F____VV
+
+Dปท
+ษ@@ใใ	ฐ	ฐ
+Tห
+Tห
+T
+TBBค	่q
+แXX
+แ{{{๙ูb
+Iภภภภภ
+I75ฌ55
+`
+`55
+พ55ฌy
+	ผช3ช๎๎๎
+w”bb””ต๖LLช!3๒๒ภฎ7ฎภ7ÛÛÛ
+ํÛÛจจJJม.@ณ.ะ)Rะ๔}๔
+}จจจมโYV฿##ลลos…@
+Û—RR
+<*฿h	๑	๑
+}
+}ฐฐ''๔๔
+ uu1บ
+ 
+ แ\ำ
+ 
+ ค----	’9999R
+ÛR
+Û
+ฌ
+ฌ
+ฌ
+ฌล
+N##hh#Vhh	๑hh฿฿--้
+r
+
+ค__ึึ__ึ	่_ึ
+ฃ
+
+
+…ุ๘ท…
+''	ฐ
+ฒ)))nnๅn๚qถถq๚ถถภภ{ภภ{
+ฆ
+ฆ7ภ
+I
+Iyy5
+พy
+5555
+๐
+
+	ฅL
+ี‘
+LLLLูb
+ฆ”ตAe3ช!!๎epi{ภ7ÛRจมJ}	ำJJ8ÛÛ."]$1}Ûd–ฏมม8โพYโ๘
+ลล
+๘]๑zฐ๔๔๔kณณ*ก
+
+ฐฐฐ9ษ@—
+þ
+þบบ1บ
+þ
+þ\ำฏ$Cซ|\	ๅ
+Cบ
+Cบ
+ฯ
+ฯ
+ฯFy———9	ย
+}๔
+ฌ
+ฌ	๑h
+ฌ#
+ฌ
+ฌ<ลลลh฿##Vh
+ฌ####
+
+ฯ
+ฯ
+Fึึ_______ึ‘
+
+
+w%ด2ใ+…
+''
+ฒ)))nnn	๗q๚?-ึq--ภภ{ภภ{
+ฆ
+ฆฎ777yy5
+พy
+5555yy““	ฅL
+ี‘LLรรูb
+ฆ
+ฆูตสÜช!!!e๎
+ฆ””็เ
+IภÛd–มJ}มJ88ddR$1}ÛR–๛8ม8โะโk<<
+ๆK'๔๔
+}โ*ณ<๘๘oฐฐ9ฐR
+Û—
+þ
+þ
+C11จ์
+þ\ำมyF\	ๅ
+Cบ
+Cบ
+ฯ
+ฯ
+ฯF
+———9ฐ๔k
+ฌ
+ฌ	๑h#
+ฌ
+ฌ
+ฌ<ลลล฿h
+ฌ
+ฌhh
+ฌ##
+ฌ
+
+ฯ
+ฯ
+F‘
+ฃ
+ฃึ_
+ฃM_ึ	่VVVV A'็Kฅ
+…	ฐ	ฐ''	๗nnๅ	๗ๅ)
+ฒถ?๚ึำ€-ถ
+Iภ
+I
+Iูb
+ฆฎภ{{๐yyy5555ฌฌ๐๐“
+`ื
+รLLLรรbb
+ฆPPee3!!ý!”””iiภภRÛ}}}มJมมจจ–ฏมฏ–Rgมม8&ล<<<๔#Gโโฐฐ	ยฐ]ณณ๘๘9'
+}kษ	d——
+þ
+þ	uบ–ฺ์ำำJ8
+ บบฬ
+CF
+ฯ
+ฯF——
+ —9ฐ	๑	๑hh#
+ฌ##ล<
+
+ฌ
+ฌ#	๑	๑
+ฌ#฿V฿h
+ฯ
+ฯFFF‘
+ฃ
+ฃ_	่
+ฃึึ__VVVV
+
+ Üฅท…ü''''n	๗ๅ\nn)
+ฒถ?q_\๗ถ?
+Iภภภb	๋
+ฆ77๐y
+
+
+พฌ555#๐๐“ืN‘‘LรLLLL””bb
+ฆวตeeชช!ýt!”{WฎÛR๛kโ๔๔มJมม–––8ฏฏ@.ฏ88ฏม&ล<<<ณ}'ษ!ํYk''9'Kิ<<ฐฐ
+}kR
+Û์
+þ	uบจQuำำำำ
+ 
+ 1
+C
+CบF
+ฯ
+ฯF———
+ 9ฐ''	๑	๑฿	๑#
+ฌ##ล<
+##
+ฌ#hh
+ฌ#h฿฿h
+ฯ
+ฯFFฝ;;ฤึ
+ฃ
+ฃ
+า
+า0000ถถ๚๚
+%XX
+ฒ
+ฒnnหBๅnๅๅnn) นน	
+ํ
+ํd
+ํd
+ํจื
+`ืNÞÞy
+๐
+
+๐““NNฏ8ม}}{{{{‘LL3ชeeLLLL๖รLชช๎๎
+๖(:รLรฑ{ช3e๎๖ล*ฐ$'ิ]ๆ๔๔ฏฏ}}}๔ฮi
+๒iวว>,ÝTฒ ฒ;ÝÝววPวต,–จ
+Cบu
+þ1
+C
+
+-ค
+r
+r
+ฯF้
+r--ค-้
+r
+ฯ
+ฯPP
+•PP
+f
+f
+fÝÝ
+fÝ๏hhhh##
+ฌ
+ฌ—
+ 
+ 
+ ฐฐ99uuบ1	ๅำ
+ F|!X ึ
+ฃ
+ฃ	[I0000??
+
+
+%
+แฯ))nn
+Tหๅ\ๅ	๗nn )หห
+ํ
+ํ
+ํddÛ–ื
+`ืNgg๐yyyyy
+`
+`&gม}}{{{{{{‘LL3ช๎๎LLLL‘
+ีL3!ee::ฑLL:ช3๎
+w‘ล/ป9ü7&๑]๘}}88๔๔๔kผWWเว	ูวตBTÝ
+f
+ฤฒ)
+ฤÝÝวววPตจ
+Cบu
+þ1
+C
+ค-้๛	X
+ฯ
+`้คค-	ถ`้
+
+F	X	ูวPPÝÝ
+f๏
+fÝ
+f
+fhh฿฿##
+ฌ
+ฌ
+ —
+ 
+ 9999
+þ
+þ
+Cบ	ๅำ
+ F|!X)_	่	่
+าI
+์c์
+u???	ศ
+แ
+แXXnn)
+ฒหห
+Tหๅๅ)
+ฒBหnn\Jห
+Tหหd
+ํ
+ํ
+ํdR–““yyฌ
+พyyyyืื8ฏฏม	ำJ
+}i{{{{๒:Lร
+ี3ช๎๎‘‘LL‘
+ีร!!ee๖m(L[i๒ไ๖ชชชชL
+ีร
+ีK1ํ=ฅ=ฅ.ÿKo}}&&ฏมฏ%วPววTÝ!!!m๖
+•ว>จ1บบuu
+þ
+þ`
+r-?
+ฯ
+ฯ	XF`้คคคค้้q_๚วPPP
+f
+f!!
+fÝÝÝ
+ฌ#฿hh	๑
+ฌ#
+Û
+Û——๔
+}๔๔บบบบำ\\\M;M___I
+า
+์c์
+u??	ศ?XXX	jnn)
+ฒหหÝ
+Tnn)
+ฒBหnn\JBหÝห
+ํ	vdd
+ํ
+ํ–““yy55yyyy““ืืมJJJJ	ำ
+}{{i๒๒๒{{รรLL3ช๎ÜLL‘LL!!ÜÜไาmรร๖ฎ0๋/tฎไý!!!L
+ีLL
+๘k,)#ko}}&ฏ88%ฃ>ววÝTmmไ!๚วPบ1บบuu
+þ
+þ้้--FFFF
+r้--คค้้๐q๚วPPP
+f
+f	ช
+fÝÝÝ
+ฌ#h฿฿h
+ฌ#
+Û
+Û——๔
+}๔๔บบบบ\	ๅ\\44
+ฃ
+ฃ
+
+?	ศ
+
+?ถ๚๚nn)
+ฒ))
+ฒ
+ฒ
+Tหþ
+TB
+
+	มม““55yy5555“ืืddจJJ
+}”>>7๒รร‘‘‘Lร‘!!ชชLร๖[7%m๖7'$/At!3ช!ลลๆยบฬg๐ÛR–มฏ88๚๚่๚>>Tหนน๖๖;ฒ
+ฤฒjนห!!Pว>ว
+•u์
+C
+C
+ 
+r`้
+rF
+ฯ
+ฯ
+ฯ้้คค้้-	ถ้
+r้
+rFFเi%%
+•
+•PPÝÝ!!;
+ฤ;;	5
+ฌ฿฿ล<
+}๔๔
+}RR——บบบ1
+ `ฝฝ
+ฃ
+ฃ
+?	ศ
+
+ถqqnn)
+ฒ
+ฒ
+ฒ	;)þþþห
+T
+TB	มม““
+พ
+พyy55ฌ
+พ“ืื
+ํÛ–มม๔”>>ฎ
+I{{LL‘‘‘
+ีL‘รLm #[ไ๋ýSe!!ูt!ลลÞÞÞgÛd
+1จJ8มม
+•qM_>>TÝหห๖๖;ฒ;;ฯqน!!ว>>ว
+•u
+þ
+C
+C``้
+rฝF	XF้้-้ืค-้
+r้
+rFFเiฎฎววÝÝ!!;
+ฤ;;#
+ฌ฿฿ล<๘๘k๔
+}๔RRบบบ1
+ ๓๓`ฝฝ‘ึ_
+II
+ถ???_Mq๚nnnn
+ฒ
+ฒnๅþ0
+Tห
+Tห
+TหหJ	ำJม“
+N
+`
+๐y
+
+พ55
+พืื
+ํdจ
+8&ววฎ7{‘รร
+ีL‘!‘:๒ฎ๖L:๖ไ!!3๎๎!tธÜ
+
+gÞUgÛdจ–มม8มq๖ตต!หÝ;;๖๖ฒ๓$ฤ!่_ฤ_วPu
+þบบคคค
+
+-คค-ค-คคค-คFF
+ฯFiiฎฎPP
+f
+f!	M	M
+ฤ;#
+ฌ##
+ๆo99	ย9
+ÛRRRบบuQำำมม-ฝฝ
+ฃ_ึII||?	ศ??๚๚q๚nnnn))nๅB
+T
+Tห
+Tหหห	ำJ
+
+
+
+Jม“
+N
+`yyy๐ฌ5ฌ5ืื““d
+ํจk๔็ตต%ภ{๒‘LL‘รL‘‘!!!‘‘๖ฑไ๖::ไt!ชช๎๎ช!ÜÜ๘
+“ÞggydÛ888ม,>>>หÝ);mฒ)0๚ฤ*ฯ&jึตP์uบบ๓ค--
+
+-คค--ค-ค--ค-
+ฯ
+ฯ
+ฯFiiฎฎววÝÝ!
+ฤ
+ฤ	M
+ฤ
+ฌ###
+
+99	ย9R
+Û
+Û
+Ûบบ์ถมำ\\-
+u์
+าIIIIIIIภI๚
+ถ?
+%BB
+TหBหหห๚๚๚
+??-???
+
+
+%
+%““ื
+`	ฅ
+`ืg๐ฌ5“““}8มจจddJมJ8&$1>๋"ฃตชÜSm‘‘๎e๎eฎ7๒Pู๎
+wชSสÜÜ(ฑ:๒iii,ฃYโมม–ddจ–ÛRฒ;
+ฤฒ)ฒm๖๖mm๖mmm
+ฤ;ฒ)ýหB๚‘าE%%้้
+r้N`คื`้
+r-ค--\\	ๅ\
+þ
+þบบ	ถ--ค-ค
+•PPววPPPP
+๒
+๒
+๒i
+ 
+ 
+ÛR
+ÛRR
+Û๔๔	ย	ย99
+}
+}้้
+r้้
+u์
+าI
+า
+าภภ
+า
+าภI ๚
+ถ?
+%หหห
+TBห
+TB๚๚๚
+??????
+
+
+`ื“
+`ื๐y5
+พ“““}ม8จจdRJมมมม&๐!C๋>2ภ/า๋!eÜ๖‘
+w๎๎eฎ%{{Pูe๎ชชeÜÜÜฑฑร๖iเEWตYะฏฏ–Û
+ํืN.ทr–)ฒ;;)ฒm๖๖mาmm๖๖;
+ฤ;ฒÝT๚,ฃฮเ%%้้้
+rืื	\ื้`ค--ำ	ๅ\ำ
+þ
+þบบ-ค--คค
+•PPววPP
+•
+•	ูวiii
+๒——RษRษR
+Û๔๔99	ยฐ	๔้้้
+r้0	น
+าIIIII
+าI
+๚?	ศ
+%หหหB๚๚๚๚๚๚
+
+?ถ??XXX
+แืืืลลื
+`
+`55yy
+`ื“
+๔}มJdddÛ
+}}&b%‘!,t!!LL
+w
+w๎๎77ภ”””๎
+w!ช!!!!(!%๏m::::๒เ%”PP&๔k––๛๘oฅNฒ;ฒฒmmmไฒฒไ7ฒ๖๖
+
+fT%%ii--้้ืณ\nก`ค’Nื
+r้มำำ	ๅบ1u
+þ้้--	ถคคค
+•Pวฎ
+7i
+๒
+Û
+ÛRษ———	ย999๔๔9ฐ
+ฯFF	Xค-ค-้ง0
+าIภ
+าII
+าI๚
+?	ศ
+%
+%หหBห
+
+
+q๚๚๚๚?ถ??
+แฯฯXืืN<<Nืื5#๐๐Nื	ฅ
+๔}JมÛ
+ํ
+ํd
+
+}ม8ช!ý!!m:L๎๎๎๎7ฎ7”””Üe!ýý!ฑ{7mรร::๒เfx”PPฏ&kโ๛––ื“.ท๘&้;
+ฤฒฒไไ[ไ)ฎ7)ฒ๖
+
+ÝÝ%%เเ--้้`"๗`้-ื`้`J\บ1u
+þ้้----๚Pว
+•
+•%ฎi
+๒
+Û
+ÛR
+Û
+ 
+ —
+ 9ฐ99๔๔	ย9
+ฯF
+ฯ
+ฯ-	ถ-ค้
+าI์์00Iภ
+
+า
+า
+๚๚๚
+
+%
+แ
+แ	๗n)
+ฒ
+TBBB
+แ
+แ
+%
+๚??????ฝฯืื“
+ฌ##gg5555
+gk}Jมdd
+1จJJJJจ๎eSSชชe”{:LL๎๎ช3Pว”Pว”eSสSýÜÜสÜee๎S%f๏ฎฎkY&โโษฅr้ื๛๋tนหb่•mไ๖๖;;ฒ;%เเEผWเ
+ฯFF
+ฯค๗JnFFค-ค’N <ศc11
+Cบ
+ฯ
+ฯF	Xฝฝ่๚	ู	ู
+•วP%ฎi
+๒——
+Û
+Û๔kk
+}
+ÛRษ
+Û
+ 
+ 	dR--
+r้--คค
+r
+าI
+u
+u00Iฎ|
+า
+า
+
+
+q๚
+แ
+แnๅ)
+ฒ
+TBนงฯ
+แ
+%๚
+????ถถFXืื“
+55#ÿÞ๐5555y๐Jมddจ	ำมJJจe๎S/ชÜAรLLeeช3Pว”ูP”SSÜe!ÜÜÜสSeeส%%ฎฎkYyฏ8๔โษท๛๛ýต,นÝ!0นIาmmฒฒ;ฒฎ%เเ#ูผi
+ฯFF
+ฯ’๗""gyฝฝค-ค’`),ฏ"nจ
+Cบ
+FFฝ
+ฯฝ
+ฯ
+•
+•๚๚PPวPฎ%
+๒i——
+Û
+Ûk๔๔๔R
+ÛRR——RR--๛
+r--คค
+r	น0งฎ|ถ?ถถฯF))nnนx
+%ถ?๚๚??q่FX“““yy55y
+yy5555มม–Ûd๔จจ!!Aý!!ฑL๎eช”””ววว,๋ต>tSÜชeeeส!ฎWE%7ฎ๔โ&ฏ๔๔ม8–RษษRษÛหนููBÝÝTหนýýý )) I[ )%%Fฝ`ล"'þซFค`ล&ำ9Þ<4พืจบ
+CฝFฝ
+ฯ
+•วP
+•
+•ววiiฎ
+7————๔๔๔
+}RR———
+ --
+r้คค-้0ง0งภฎ|ถ?ถถ4))n\BB
+%ถ?๚๚ถถq่ซฯ“
+
+Þ๐5	Gy๐๐๐555588rÛd}}–จ!!Üตý!!รL๎Sbtูวว,>2ภ47"ฃAÜSSสSฎ&ูห7ฎ}kฏ8}}ม8–ษRRÛÛÛหนTÝÝTหห๋๋t;ฒฒ*B$f|)%ฎ
+ฯF๐yNื€๗c
+ฯค`ล	.&1ะ*}rบ1F
+ฯฝ
+ฯวP
+•
+•PP
+•iiฎ%
+ 
+ 
+ ๔๔๔
+}——
+Û
+Û———
+ --`้ค’N4ฝx์c
+ucงง์์ำำcฺ์์-	ฝฝ
+	ü	üs๊๊	ü//s๊sa/๊sเO	A/s๊๊๊////ำJ8Jจจ1บyy44y“
+<k$`บgÞ#
+พฌฌgจ)".mLร๖[ฎ๙-/า"ฃ(ฑtýý!ี+7T.,ฮฎ%ลล<ลฌ#ฌ#๔k88๔}8ฉส๎ออ@ท๊s๊Oฅทๅๅ X+J(\•0\\์þBน๖ฑฑLรSสช3
+ีLLรตฃีp””{	๋bbูL::
+ี
+w
+we๎
+ฆ{{{{มJJมจจ
+1
+1d	vÛ	v
+	???ถถถ-\4		4ฝx์c์์งง์์ำำ
+þuuu’คคคFF	ü	ü๊s	ü	ü
+ธ
+ธ	üsss//	üsผ~ฦ//s๊๊๊////ำJJJบบ1บyฝฝ“
+ Y!rฬg๐ฌ5#5gบ@ษmรL๖I!ฆูPเ-ý)๒({ý๙็m-%bผฎ%ลณกN5ฌฌ#k๔8&Y๔8&ฉSwDD.ทs๊๊s..\n)QQ0นnn ์์งB๖I:‘
+
+ีLeÜช3L
+ีL
+ี	๋ู
+ฆ
+ฆ”๒{{{	๋bbูรร(ร๎๎
+w๎
+ฆ{{JมJมจจจจ
+ํ
+ํd
+ํ
+??ถ?ถถถ	๓ฝฝ
+F
+Fþ
+u์ccฺcc
+ \\	
+þบ1้้--F
+ฯ
+
+ธ
+ธss	ü๊
+ธ/	ü	üss/
+ธss
+Zั๒O๊๊s๊๊/ฆฆ//\\Jำ
+þ
+þuu
+ฯFฝฝ
+#G!rÞgy๐yฌฌฌÿÿm:รm(ýส/*T76วเไไm๖SSSS็็,ฎฎลณo55v&ฏ8ฏ๎๎  ปDVอsüaa๊sทฅ  n\นนu
+ฒ)) BBงB[#I
+ี	^
+ีLeeÜe:L
+ี
+ี
+ฆ”	๋ู%๒{”
+ฆLรรL๎๎33
+ฆ
+ฆ{}JJจจdd
+1จจจ
+
+
+
+๚q	ศ?๚๚
+qๅxx
+F4ฝฝ
+uþ
+u์์c์์
+ \\
+þu
+Cบ้้--
+ฯF
+ธ
+ธsssa/
+ธssss/
+ธss
+Zั๊s๊s๊๊/
+ธฆ///\\\ำ
+þ
+þ
+þ
+þ
+ฯF4"
+“ลณCgyy๐gฌฌฌฌ๖ฑ(mm:(ýSส7'f+#ผmmm๖SSSALp>ต%%%ลล๘ๆR-ๆ'&ฏฏฏ8ฏww  DออDs๊aa๊s..ๅๅBBu)
+ฒ) หหBห[m	^
+ี
+ีLÜÜe๎รรLL”๙	๋ู”๙Ý{”
+ฆ
+ีL
+ี	^๎๎ช	ผ	/
+ฆ
+ฆ{}JJจจÛ
+ํ
+1จจจ
+
+
+
+
+๚?ถ
+
+
+
+n	่_xxx
+II0งccำำำำบบu
+þ--้้---ค…sss/
+ธ
+ธ
+ธ//	üssa
+ธฆฆ
+ธ
+ธ/ss//๊๊ss
+þuบ1จบบบ
+y4"ฝFฌฌ55Þg5ฌฌ#ฌ5“
+“eeSA((ไmIา(i ฮASสสฑÝเ๒ฎฎ%%ลN<ณษ0ิ-ท#YkkY8ขข+oooิhzHHzh•นB  )))ๅnLL3	ผ3ช๖‘ee๎๎ฎ%ผWbbููฎ7
+Iูbb	๋
+w
+w33
+ีL‘
+ภภภภภภ
+I
+I–
+1d
+ํ
+1จจมมJ	ำบจd
+ํ
+แ
+แถ???)_	่	IIง0์์ำำ\\
+C1u
+þ--้้ค	ถ	ถ-ssss/
+ธ
+ธ
+ธ
+ธ
+ธs๊aa////
+ธss//ss๊๊
+þu1จ–11FFF
+ฯ#555ÞUฌ##ฌฌ5““eeee:๖mmไฑ:ฑ(ASสสฑx๒๒Ýล<ลÿvษ)R)RGkkYฏ+ข+ข]ooิ๑ญ๑ป-|-|๚น    
+ฒ ำ\ฑร‘‘	ผ33ช๖Ü๎
+we%3ฮPPูู777
+I	๋bbู
+w
+w33L
+ี‘
+ภภภภภภภภจ
+1d
+ํ
+1จจ8JJ	ำ
+1
+1	v
+ํ
+แ
+แ	ศ?ถ	ศ)
+F
+FxII
+00์์๓จu
+þค--ค้้-ค
+ธ
+ธ
+ธ/ัั
+Zัss	ü	ü	A//
+ธsssaฆ/
+ธ/
+ธ๊s//๊au
+þ
+þ์ฺฺ1บyฝFg๐55gg55ฌฌgyืNNNÜeeÜ:ฑ๖mmmI  [๖๋ýSA๒๒เi3"t}ลล<#ÿ11ÞU&&๐ข๕๕ขขฟ66ญ฿' ' ?u   Bหnำ8ฏ:‘33ชช‘๎
+w๎
+w%7ฎPู๒๒7
+I
+ฆbb
+w๎3	ผ
+ี
+ีL
+ี{{ภ
+Iภภ
+ํdจd
+ํจจมJJJจ
+1บจX
+แ
+แ
+แ???	ศๅ
+ฃ‘ฝฝx
+า
+า
+00์์
+ |X$þ!ณr์		ถ--ค้้ค-///ฆััHัssss
+ธฆ/
+ธsssaฆ/
+ธ//ฆa๊”ฦa	
+þuu์์บ
+C
+
+ฯF๐g55yy5555๐๐Nล*NÜeสAฑ:mภาไฎ003IตูA)-ý&ช{i๒%ฎฮEกณ<ลCCyg&&Þ!C~~ขHฟัHง•ฺþ  นBuๅ8y:‘33ชช‘๎
+w๎
+w7ฎภ7Pู”
+ฆ๒๒77
+ฆbb
+w๎3	ผ
+ี
+ีร:{{
+IภภภdÛจ
+ํd
+1JมJJ
+1จ
+1
+1
+แXFFคถ?ถๅ
+าI
+าI
+าI
+า
+า
+u
+u์c`N!โ4ํ1กจฝฝ``้้F
+ฯ
+  w ขัั
+Zััั    EE  ๊s/p๙ฆ	
+þบบบบ
+þ
+þบ1uuu
+þ1บ5ฌyy““Nลฏ8}}ม8k๔!Aธธ/สฆ#๋(ฎ*%:^ฎ[า%๏9ตA5PเฃววP๙p]]กกฬCY๔ฏy#ะข~~zzHใüsüsฝฯ--’xง0;1ฒT%7ภbbL
+ี
+๎๎e๎๎Ü๎๎รLรL33๎๎๎๎๎
+w‘‘
+ี
+ี33!Ü๎ช333๎๎ืลก*555
+พNN<NygyyX40$0
+แXๅ
+าII
+า
+
+I
+า
+า
+า์์
+u์``*#Y$rUFFลื้้ฝF
+  
+ ขขขัั
+Zััั	    EE  ๊s///ฆ/u
+þ11บบuuบ1uu
+þuจ1
+พ5yy““ื<&ฏY}8ม๔k!ชeÜ#^๙ชผ%รีIไ[0๋;,2b#ผmฃต>ีL^็ฐฐ๔!ะ!rvํโk&ฌYใ#$#$ปอฟZ๊ss๊ฝฯ-’ำหxน1ฒ6$ง7ภููL
+ีeee๎๎ÜÜ๎
+ีLรL33
+w
+w๎๎e๎‘‘LL33!ชe
+w3	ผชช
+w
+wืล55ฌ5ลล}gg๐
+ฯซ-M71ฒT
+แ	jnIIIII
+างง00คืN"ฝคคคคฝF
+ 
+ผ3
+็
+็
+็
+็
+ZัััHH
+ 
+ ผผ
+w//
+ธ
+ธ/ฆ๊	üuu์์uuu์
+C1
+þuบจ
+y5
+พืื
+kY5โkJ8e๎!//าว33ฮฮฃ๖![%ภ!ภ(๒#ผ(!1ง6.๖ฃ‘ &{ไ‘๔k*7ษ7k%ืํdะYk๔โk&ิิ) 2…. $ส e6ุaฅฅFฯ’€ซFX4uc3i7ภ”””‘‘๎eช3๎Ü๎๎
+ีL‘๎e๎
+wช3๎e‘LL๎e!ช
+w๎33๎
+w๎
+wืNo
+
+y๐ืN*ก#5
+พXฝ&ถ3ๅ-MÝ
+แ	j)
+
+
+า
+าIII
+างงงง-ค`้ฝF
+----F
+ฯ
+w ช!ี
+็
+็ี
+Zััััั
+ 
+ ผผ  /////ฆ๊๊uuucฺ์์c11u์1ื๛๐y5ฌNN“
+โะะYk๔J8Üe!ý p):"ฃPช!3(ฎ2๏:B7%๏๒เ&ช(!4•Aฤ;น![๖(%(ฎ$I Yโ,9@7k"้ÿYโk๔ะGฏิยฟ(D ๑ w#S$l"๕ฅfซFคค-Fฯ
+แฯฝฝ๒๒ฎ7”‘๖‘eÜช3
+we๎๎
+ีL‘๎
+we๎ช3๎
+w‘LL๎Sýช
+w๎33
+w๎๎e
+`ื“๐
+
+gืNNลํÿ5
+พ
+แX"cห
+แ	j)c์c
+u์c00์์
+
+
+
+
+r
+r--Eผ3ผEE wฆ/
+ธ
+ธ//	üs 
+
+  www//๊aำำ4ฺ๓Jำuฺ-ค<ื““๐๐ggG ฌะฌYkkm๖mbู/”$ง$ง ý!ี#2๏.):!็๙!,$-0(ฎ‘๏ห+>,ต!r–@".1@@๛<ล——๎ wÜSÜด %ใ37ี1๙อ๗!8่----XX
+แฯXฯ๒i%7bูbู!!รร๎e
+we‘L
+ี
+w๎๎
+w‘LLชช๎
+w
+ี::ร
+w๎๎e๎
+w3ช
+
+yy
+`ื“ืN“๘๘N
+`ฯFX
+แ
+แ?์||xฺ์์
+u00
+u
+uy
+
+
+r
+r--	ฮEผEEE w/
+ธ
+ธ
+ธ/	As๊
+  
+ 
+  ฆ
+ธs๊ำำ| &ำศ <4|ำ\
+þcศ?Nื““๐๐gUYฌพะ5ะYG[๖!ธ!็7ฒ: &ูEp^๖ pธูว!็!็๖๖๖‘f%b#๋จบํํบ1dฅฅื๛`r—ฉweAฆธSฦ"๕'ธ!Ü๑คๅฒq----ฯฯXXXฯฮ3ฎbูbูชbว(‘๎
+w๎Ü‘L
+ี๎e๎
+w‘LL!!๎
+w	^
+ีL
+ี๎
+we๎
+w๎ช3yy๐๐
+`ื“
+`ื“““ืืXฝฯ
+แ
+แฯ์ฤIIภฎ••c์	น	น์c4ฝF
+ฯ
+ฯ
+ฯFF
+ฯ
+ฯ
+r๛-	ถEEผ	ฮEEEE	üs
+ธ
+ธ
+ธ
+ธ๊ae ผE    /
+ธ
+ธ/ำฏ๛Qคม์์––ืืืื๐๐##kYฏ&Yะฏm๖::t+m>IA70_x,,p^/ธ” p):#^๙ฑ##^W3T๏ฬCÿvvํC..N้๛..2ฉeส(ข5ั)^ธOุุOอ฿๚่่๚----ฯฯ๏#0-q"tเbb””!*ฑ(ÝIรL๎
+weS
+ีL‘ชช๎
+wLร‘Sธส
+w
+ีLLL๎๎๎e33e๎5ฌ5ฌ“ืNืืื
+`“ืื
+แ
+แ
+แฯ
+แXง๚
+า
+า
+าภqMQ์00
+u์ฝFF
+ฯFFFFFF้
+r-คEEผ	ฮEEEEs๊//
+ธ
+ธsุฆS3ผ๎   /ฆ
+ธ/ำำ11์cJำ|ucลื
+`N๐๐##โโ8ฏโYฏฏ๖::ý!,2‘;[0_fตต๙๙ธธธ”$ี0/$ี:(:็เผ๏ฬCÿvÿฬฬษษrล้ทฅ ฉSส*7H2(ธ+ฦุa๑๑qqqqถถถถฯฯÝ+๚0_#๋Wูู””!A'ร1ง%รL๎
+w
+weL
+ี‘ชชSÜรLÜSสe
+ีLรSe
+w๎33๎
+wฌÿ#“ืNืื้
+`“ืืXXXX
+แXห์์
+า
+า
+าภQ--Qง00	น้้้
+r-คคคcu
+þ
+þEE
+ ขขข
++ััััช๎ 
++333ผ^ี^^บบบบuuu์yซ’คื`‘รรรร::๖๖ร:๖๖ฑฑUUณย9ณ&๘ฅะะkk๙p๙^ไ#ฑภภาไไา๒{๋ýtý[mไmWiWี^L๘++  ย]"๕ ozz
+“.ท@@üüüüท.ใZั$!็๙๋!””๙ %b3๒{e
+w๎๎LLร:าไeS!55๐๐NNณ“๐g55#&ยท๔
+
+JJ}มฏ๕ขข+ดด+'์์
+า
+า
+าภcQ’คง0ง0้้`้ค---์
+þ
+þ
+þ
+ 
+ EE
+ ขขข
++ััััผผw
+ผผผ3
+็^ี
+็1111uu์uyÞ""’ค`้‘‘รร::ฑฑ[m:ร๖๖ฑvRCUโ,อ`!กoะะโโ๙p๙pฃฑร[[ไาไไ{bb๋t[mา[ฮเiผร^ี #ฐ]  ฦO๘oดozzD+#ฐ“.ททüüs…@ทใZัHSSช‘‘pLEเiเe
+w๎๎
+ีรฑmmeS!
+พ
+พ๐๐NNNล
+““Uจvฌ`o@}
+}
+ม	ำ
+ม)  6+ด
+=
+=ดc
+u
+
+
+งงQQ์์์
+u-ค-ค--้
+ru
+þ
+þ
+þ\	ๅEE 
+
++ข	H
+ZััผEผEขข^^ผEผชขขข์u1111uu4์þซ’-้้LL‘L:๖IIm๖๖ฑ๛บจ!'ย้!ก#ิGGพะ๙๙ตฃี %ภ(าไ#^#^๒{ฮฮWE![$I'๒*เ,z(&#ฐ=Oด+ดฦุุzzฉ2V-๑ฦ๊süs๊s
+…üZััZee!!
+ีL>ฃีฑ%เเชช
+w๎:(๖ช!ชช5
+พyUณล““ืN&“@5ÛR@Û
+มม
+JJ
+Yัlๆ
+๘
+๘
+๘ด
+='c
+u
+00์์์์์
+u-ค-คค	ถ้
+ru
+þ
+þ
+þ
+ ำ\E3e๎ข~ััััE	ฮEผีีชEผชขข
+þuบบ11uuฝ"ซค-
+r`LL‘LL๖7*T(Ý[ไm๖i!r––'ยๆor“ทะพ#Yp^ฃ‘ฑ m‘I[!็7เ<E3{,เผช3E๖"า5!5!3อ823อ+  $l+ุุฦข๑๑๑K&+asüs๊๊…ü…Zฟ$ัee!!รLPว^%ภ{iชช
+w๎LL‘!!!
+พ5๐–!ะ*“
+
+Nืฌ5d
+ํd
+ํ
+JJ
+JJ
+
+ข+
+๘
+๘
+๘
+๘ด
+=	ฐ์์cc00์์์c0ง
+u์F
+ฯ
+ฯ
+ฯ
+ฯ
+ฯบบบ
+C\ำ~(^ข๊s/
+ธผE wฑ(ีีw ผ3ขำ\์ฺ1จ4ฝฝฝ
+
+ฯ
+ฯLLรร๖๖[#^ pýฑ{+2b4}$`&“%จCÞฬ&๛rื้ช!f!น-ฮ%๖‘týI7*ฑ@ชF=ผ):bbช ý ý!! ý#๋3อ@üAธ.ญ "9๘๑zw*ฆ!Ü6zV$w6ัZใั'@o.ee!!ร::รPูววฎภภ%!33ชช3๎๎๎๎ee๖7I๖5
+พ5v9๘ืื๐g5
+พNื“
+ํ
+ํจจJJ	ำJ
+1
+1
+ํ
+ํ}
+
+VVVV
+
+l
+uc์์	น	น์์์cง0์cF
+ฯ
+
+FF
+ฯ
+ฯบบ
+Cบ\ำ๕ฑ"W"Wรขs๊/ฆผE wร:ี
+็w ผEขJำcQบ1ฝFFFฝฝ:L::๖๖t(เ5P<ฃ1@ษบUÞฬ&๛`<Ý B/E&{ไ#^ ptý{เ#%๏0FGý?3*ฑวว! ý)ว)ว"tช3EK/h1!~ฦO“h!Ü&A eญ๑อญHััฟทท.ท๎๎!!ร:รLPววู77ภ7ชช!ช3ช๎๎๎๎ÜÜI-B-BI5
+พ5ฌ
+“ืืy๐ฌ5ื
+`“ddJJมJจจ
+ํ
+ํ}}}
+
+VVVV
+
+l0000
+u
+u00์์0	น0งFF
+ฯFu
+þ
+þu\ำำำZ:ร^
+Z
+Zsaผ	ฮ  ข
+็
+็
+ ผE^ร^ีำำำำ์์1จyฝFyyy:Lรฑรฑ/AAไ7&ช+บÿv1UÞฬYY้`ล(๔+>ชชไm")i,('ร”ฆW-ý8>9ต?3EAf7%,(๙ p$ี$งห!นหชExิ%'=ุ=ฅ๑ออVhHฟhVVhVปhsssü๎
+w๎e‘”๙{{7ภeeÜ
+w3333
+w๎ชW ฮ๐y
+พฌNื““5#U๐“
+N
+`จÛd
+
+จddมมใง	น00
+u
+u00์์0	นง0FF
+	X
+ฯu
+þ
+þ		ๅ\ำำ
++ขLฑLัั๊ดpฆEE  ข
+็
+็w ผE^ี^ร88ำำuuบ1y4ฬ๐รรรฑรฑฆธสสไI๒{บฬฬบบบะโ<$ *!ก%b!!‘&{<tB!:ฮ$ี!็+<ฃH[Fไ:ฮ/)๖(-#^'ร/*$ง!นห3ช๏Ý&(+Oaฦ
+ฅ๑฿ปญHhV฿D+a! V๑sss๊Üe๎e
+‘”๒7ภÜÜe๎3333๎
+w3!ฑฑ:ร๐y	G5Nื““d๛บ
+K}ลจ
+1
+ํd
+
+@dมม}}ใฤ_
+ฃ
+า
+า
+์
+u์c
+ฯF้
+r
+r
+r
+r้ค-	ฮE  ขขผE   eEข
++
+็^e๎ผผ
+ธ
+ธ
+ธ
+ธ/ฆ๊ด๔ณ``FFj#.Þ8J{{77๒i๒เ‘,>>^ี^็kkท“ื`จฬUC'NษR %#   .นAฤE๚A•/E%-q: IFCj0_$ง$ง'•1.,4ฤ6;+./E)i ý ýÝ๏ใ~2 ๎wSAÜe๑๑อK%'.!!e๎ช	ผe๎ภฎฎ%”รL‘L
+ี
+	^L‘“้ืNN“
+ฬ๛,o ท<ก]
+
+`ื“yy
+พ
+พ5vÿ5๐๐
+พ
+พVVV	฿V	฿ฒ_
+ฃ‘‘
+า
+า
+c์
+u์gU
+ฯ4N้้้้`ค-ผEwwขข
++E	ฮ  
+ ผEข
++	pีAธช
+ธ
+ธ/	A/ฆ๊ฦณืy
+ฯฝ|ฯÞมำ{{ฎเiเเต,‘&{LีL๔๔@.๛rUUUCบÿvภ'f#+ห378ห.%ฑ$ง1ึ?0_) BT&551ึ-q(ฎ4f=๋23#๋!Ý๏'9ฉฉe๎l๕๕Ü๎๎S฿๑“]๘ฅชชe๎ชชe๎77ฎ%
+ีL‘
+L
+ีLL‘“ืืืืUฬํÛณN
+“
+`ื“yy
+พ
+พ
+พ##5yy
+พ
+พอ	฿	฿VV	฿_	่__‘‘
+า
+าc์0งFฝyg4ฝ
+๐ื้ค-้้้
+rw๎ชE
+็^ขขEE wผผ
+ ข
++^ีÜฆว๊ss	ü
+ธ//€!&$€yฝ
+ฯมมฏJJม7ฎ๏%p(+0,W:()i'Ûพ&@ท้rvฬ1vÿI%3 ฮ$x00;,0๋*%๖‘ B3M?+๚#0 B!#๋46๖'•f )i,W#!3!ชlขฉ…AeัHัe๎z๑hz๑zทฅุaัZ!!๎eee!ชฎฎ7ฎPวPว‘‘
+L
+ี‘‘‘‘‘‘“““NลUÞÞ1]“““ืล#
+พ5
+yฌ#55
+y
+	$
+อ	฿
+ึ___
+า
+าjQ์0ง
+ฯF4ฝ``ค-
+r
+r้
+rwธt3^
+็ขขEE
+ ผผ wข
++^ีS!๙P!๊ss	ü
+ธ//ๅ\’yF4|ฏ&ม8%ÝTี&{;น@3ชร:,W2#๐gืrÿÿvdจํv7#ผ%3$x3C๖6ว'7๖‘#00_<+๚#0&%b+>+>!นxL:L:!3ช3ใขข2Seั 6!ญ0ฑ-รธwzz@.s๊ใZ๎eÜÜช!ฎฎ%ต>‘m‘‘‘‘
+ีL‘‘‘‘‘“““ืN๐ggฬ9““ืณ".R๐yฌ#ÿ๐y
+
+อ	฿
+
+
+	ฝฝ00ง••0
+u
+u
+r`ค-ฝฝy้้้`ส*ร*รAผผEผ  E	ฮ
+ ผEผEผ3ý(‘๎ฆ///s๊s๊```้-ค-|แg*"j&y^๙pL'๒*เ:็T2‘5)วผf
+#4ฌ2ื"บvv–๛ษR๙/9W4๒,ไ8HนAf(ฎไ ฑ B'•)&*เ-ฮ)i0ผ0_'•#0TE3x๏ ýชช/Se๎eeee๕lz3A.Ül๊sฅฅa๊ทฟฟZใ!eÜeสÜS>ว๙๖ *เ7L
+ี
+ี
+ี
+ีLชชช!eeÜ๎๐y55
+พ
+พy๐55
+พ5gg๐y5
+พgU(ล0#ฅษo““9ฐ“
+๘
+๘
+๘
+๘ดด
+๘
+๘xฝฝ00งงง0์์๛้ค-FFy
+r
+r
+r้ส*ร/(ฆ3E	ฮE  Eผ 
+E	ฮEผผ3ชS๎ฆ///s๊s๊้้`้ค-คคjg-'์X$Cีp^:%#Lฎ!!3ฮxฅณ-Y2ื%จvR๛!r"้". ท๙4๒FGý;8;7%*%*%#รfห!น$ง&{&{)i0ผ1ึ+๚0_!นผผÝ B&ู.,"tฆสSÜSA/Alใ'ฐ 6!ญั๕a๊“ฦaทฟญ๑Zใ!ÜSAฆAÜPู”ฃ^ฑาLรร
+ีL
+ี333ชeeÜÜy๐
+พ
+พ55y๐555
+พygy๐ฌ5yg"้5๔6ฐ0ิK“
+๘o“	ฅ
+๘
+๘
+๘
+๘+
+=	o
+Fฝxx	xงง00์์ง0๛
+rค-ฝF
+r้้้ชtผ	ฮEEEE  ผE	ฮ	ฮ  ผผw๎  ๊s/
+ธssss้้้
+r``้`|&ฯjÞ‘ตmmpp๙๙7ฎWเiฮ“o!ÿvษ(
+&“". ท ท ท#^3{@ช@ช6i):,(/-ฮ0ผ%ภ๖#0#0ฑ +5Ý6๖4/ฃxxT)'•*&T/ส๎eA*ี/๕$=ฐย9HHๆ
+"9(ิaaญ๎w6ชชชว"ฃธÜ””””๖LL‘๎๎
+w๎ee!g
+yyฌ5yy5ฌ
+พ	Gy๐
+พ5yy
+บ(
+3ย<<'ฌ<ืNNื	ฅ
+๘
+๘	
+๘ด
+=
+=+
+
+Fฝ	x0000
+ucง0้
+r-	ถซ4้
+r`
+rผผผผEEEEEE  ผEEE  EEw wwa๊ฆ/๊๊๊๊้้้```ืNมJjyฃฃ๖%ภ็๙””7ฎฎ%WเWฮ๘,&ย&ย#v5๐๐Û@)3ย(
+&“#ฅ&“):3{:ฮ4๒-&L*ฑ3{-ฮ%$I$I#๋!น$งฑฑ0=0A78m,ต"tfxÝ'•*'•)+๚'็ธeÜ/-ร4Z"ฦ''9KKย๕ใิๆ๘/h9ฉ2Vด๊6ญชชชý๋สÜ”p””ฑ{เ:‘๎๎
+w๎๎Ü!๐yyy5
+พ
+๐
+พ5	G
+พ
+y5
+พyyyU ท)9<4Û}ืNืN“
+๘
+๘
+๘oด
+=ดด
+$	ญ
+iเเเ$$๒
+iเ
+iÝ
+f!	ช๖๖;X|m๖
+ฤ	M
+
+####
+	“
+Nลฐฐ๔๔ฐ9
+þ
+þบ
+CJ84Fyค้้uuบจJJJมJ\Jฏฏ>ฃ‘"า!ผฮเ๒iiW%ฮผ%๏3+0๋):ฆP>#ผ)0๋9ต*T*T2b5P24þ8จ4C-ซ'ฯ,๐4C)F#j#j#j#j |$&*"Þ'C5้AþCu2)ำ4XX%2๛4r2๛;ล:N๐jjy2๛,cฯ•ฺQ|jม&ญ#S/)/hwe๎wDDปฉ]oขข อD DDüü๊aฟZออ++ooดดด+ๆๆดด
+ษ
+ษ
+ษ
+ษ	ฐ'ZใJ#,c%?4Xฯถ?ถ?
+๘o+
+=ด
+=ด+
+	ญ$เWเเ$$
+iเ$$
+iเÝ
+f!๖๖ฒ ฯ๓m
+;
+ฤ
+
+
+ฌ
+ฌ##
+<ลฐ!2"ฉะ๔9ฐ
+þ
+þ
+Cบ
+ J&4yค้้์์–r๓JJJมมำม8มมู>ต(P#๋%bW๒iEÝเผ -B++&Lฆู%‘5P5P/t/t'f*T?‘H[I€F’8จ%#j#j/Þ71,4)F'ฯ!๓#j |"ฏ(!gy"Þ(บ1แ0j/ฏ/ฏ""FF""4r;ล000'C ซฝy'C#ฯ•ฺ- ซฝ&ม$ฟH6ญzww DDปฉ]oดด
+อD VDw……üsใZ  ๎+
+=
+๘
+๘
+=
+=
+=ดๆๆดดท
+ษ@@6ั	ๅ\|4ฯ
+แX?ถถ?o
+๘+
+=
+=ด
+=ด
+$เเ$เเเเ$	ญ!!ÝÝ
+ฤ	Mm ฒ;
+ฤ	M
+ฤhh##ลล'Y
+}
+}
+}
+Cบ
+C1J1gFF`้
+r`์ฺN*}๐ม๓แแjJำ|มJวฃ B+๚1ึ&ฎW!) BWฮ๒)8>5P$ี”๋>+ห-B$x$x#ผ,DฒJM*Hล71ม$แ*ฝ2&X)F-ซ)F*($&*!g๐!g%ฬ-|,0j,!g"Þ!g๐(บ(บ""ฝ ซ,c5้2๛%ฬ"Þ๐-ถ๚$ฒ2๛0ฝปปDVD2]oooออออออออออDDท@üüใZ๊*#๎o
+๘ดดดด
+๘
+๘
+๘
+๘oo…
+
+ษ
+ษห
+T
+ฒ 
+%๚๚?ถo
+๘
+๘oดดoo	R$	ญเเ$เเ๒เ$$$T
+f;
+ฤ๖๖
+ฤ
+ฤ
+ฤ;
+ฤ;hh##
+N
+N
+
+'ฐYY๔๔k
+}
+Cบ11J&บ๐ฝฝ้`้ื์ฺr!ณ๐มฯ&u-ศ ฏJ๓|8ม๙^f.่)fฮชTf3ผ{W3ู9ต&L๋P! !*T-ý6ว=_=_Ar=/Þ!8!๓#j$แ#j)F205บ=2ฬ,๐+จ-*1(บ,*3X.๓'C(บ*1"Þy!g""ฯF*์@*C5้*1$U*11&,ม#;&)5้5้ ซแ๑222VD2ิิ]oออออVVออDDVDท@üüใZV๊-'็eๆoดด++oo
+๘
+๘
+๘
+๘…
+
+ษ
+ษBห) )
+ฒ
+q?ถo
+๘
+๘oดดoo
+ษ
+ว
+ว$$$
+p๙๙๙
+TT!
+ฤ
+ฤ
+
+๖
+ฤ
+ฤ##hhhh##kk99—R
+Ûบจc์cศฺc`ืNืyg๐g11–Qฺ,ฏ/?"ฏ8Fแjฯm"า-$I^(ฃเWWฮ็็รฑPt>%‘"ฃูว(&L p$ี7เC;G =_+ห*ฝ)F%$&$แ!๓!๓'ฯ*_'q.	8JEืHลE/"+J7:ซ.๓(บ'C-0.87:ซ,%n(\,!ฤ$U2๛7`426F=DAก2?'þ#๗"€"€(\ eญzweปอดขิ]+ออ  อDด+
+๘oใใZZ@@ฅฉ…ปออVอ+]ๆVV
+lใใ
+lทท…üBBþ		XX
+แX
+๚?ถอVVV'
+ว
+ว$$
+ÝÝ!
+ฤฒ๖๖
+
+๖
+ฤ
+ฤ##฿฿hh##๔๔	ยฐ—Rษจ–คQ์-ศu้``ื๐๐yจบ1จu์ฺถF๓Jมฯj|ซ(ฎ$I+(ฎ^,,WเฮEppีีtt๋PPว.[0!็#^6iC;Aฤ6$x#j!๓"ฏ'&X |#j,43)-M0๗5\GNJ<F’0(\1&1แ,$U%ฬ-0.876F0j.81&*_!g"Þ(\54ฯ94@*@*2?'þ-ถ!	50 ๑V๑'wDDดขย]ขขปปwwปD ด+
+๘oใใZZ@@.ทปปปDVVอD+ๆo
+VV
+lใ
+lใ
+ษ
+ษ
+…BBþXX	j
+แ๚
+?	ศV	฿VV$เ
+i>
+ว>
+ว
+T
+f;ฒmm๖;;;;
+ฤ
+ฤ#฿h฿	๑#
+ฌ๔
+}9ฐRRRษ๛–1จc
+þ้้-Fฝ4ฝ์u1–Qฺจจ|มำำมJฏีีฃ,วp็Eผีีp๙týý๋ธ/t!,"ฃ!,!,'),&ช"E |!๓"ฏ(*ฝ&X&X-ซ5\/€1ฒ.ฤ8จ?๛;–1U/ฏ1&,ม(\""*์8ื4r)ำ+J)$ฒ)*$ฒ๚ฏ"€+J' .๓+จ0/Q%?ศค%n"—อ6ปhััปD +l]ิo] wÜ2Dwe+ดดดZZüüฅทอDอVDอ++oo
+''ใZ
+ษ
+ษ
+…หÝXX
+แ
+แ๚๚qq
+	฿VVVZเ
+i,ต>
+ว
+หÝ!!;ฒาไ๖
+ฤ
+ฤ;;
+ฤ
+ฤ#	๑hhh#๔
+}ฐ'RRR
+Û11จ11บu
+þ
+r
+r-Fซ"c์จื"n-บจ๓ำำำำำJPวต>๙3:^๙pb๋๋ว/ธý๋P"ฃ'$WiW#ผ#j$แ'*02,4-ซ/€/€.ฤ+ึ*1U715บ451&,ม'þ-ฺAก=<.8&ๅ*)$ฒ M Mฏฏy)ำ/ฏ!ฤ#;!g+จ;	*์ถQ??฿฿ญ e/ฦ"—6HปDw๎๕'#$ยooo๎S2Dwe+ดดด
+lH'๊üททDออVอVดดoo
+''Zใ@@
+…
+T
+TXX
+แ
+แ๚่ฤ่
+V	฿ออใSS(ฑ
+๕l(SS
+
+ฤ;;ฒmmÝÝ!!๖๖
+hh	๑h
+ฌ
+ฌ฿฿——Rษษ
+ÛRษ\\JJำำ\	ๅ
+Cบu์JJj๓c์ฺ#ๅ.้``ื``PูP>%%๙pฑ)i*หฮชช3ช(Lฃ,b>&L,($$"ฃ)๖'ฯ'ฯ)F*ฝ5\5\+ึ'q)F2-ซ&X'q+ึ;8A7ฝ1แ-|0j0j0j8y<Þ2ฬ.g4þ/"$&ำ\nฤ;Jม'q1ฒ,’)ค M#;+J#๗ถ-ศฺฉs#$HยKฅฅุO๊ฦ"9 ยwweHััZZ
+l'…ü@@ZZััZZใ
+lใใด
+=ดดVอVV
+
+หห	nn))ๅ€
+ฒ
+ฒþ0น''	ฐ	ฐใใ'+SSฑ
+:
+๕l(ฑฑฑSS
+;
+ฤ๖
+ฒ;๖๖ÝÝ!!mm
+hh	๑h##	๑฿ษRRRษ@มำำม8J\	ๅบ1์uำำu์c€(จ|้NืN		`NวPววxfÝีpL%& B33ช3%b'๒:‘bP$ี0471I1I2ภ0-ซ,43?9ม+ึ'q'ฯ*ฝ*ฝ,4-M1ฒ>&>&3X-|,,*-|75.g',42*"ฏำๅ)ฒ\ำ -M<ฏ?,_’ค??Q 22 ใ๕'ฅฅ๊s๊üฅ ÜฆฟใZใใ'…
+@@ZZZHVอฟัZใ
+l
+l
+ด+++อVVV
+
+หห	nn
+ฒ
+ฒn	๗
+ฒ
+ฒ
+Tห'9''ใใ'~
+	~l
+:ฑl	~(ฑSสSA๖;;ÝT!๖๖	M;h฿#
+ฌhhh	๑ษษ—…ุJฝ jำำuuจ1ำJำำuuจXj`ณำำ*ณNล๙PวT!น.่6;(ฎ,‘ ý ýชชชf&-ไ๖>ว!,,ไ1I2ภ3{2<Q6u/"9c>&8J0;-M+y+y-ซ0:|CFI"F48y,ม0j.๓)-|944ฯ*ฝ'ฯ,๐;–71*ม\ๅๅๅำง(่?Ey7"€่่q่๎๎๎Sฐ๊ü.ทท@ท@w!O/๕!ÜHZZ
+lใ…
+@@h฿Zใ'''' VV+ยิ
+ออV	฿VV
+Tห	
+ฒ)
+ฒ
+ฒ	๗n
+ฒ)
+Tห'	ฐZ
+l	ฐ"hต๋
+๕
+๕ฑ
+:
+๕
+๕(ฑสAสส
+;;ÝT!
+ฤ
+ฤh฿#
+ฌhhh	๑ษษ
+ ——ü8Jฝ Xำำuuจ1ำJJJuuบ1|N}.U.U k<NืPว B+๚6;.ฃ15(Pชผห+![![$I"ฃP>,ไ.['-4๒EB-=ศH	B<ฏ661U.g/"2:|LNþNþAC23X1แ.๓0j941แ/"/"4CB้>.g$&"ฏ!8Jๅๅห /€>&5,ม#;qงww๎S'ยKasฅท@@ท    ๎s$=wฟัใ
+lใ…
+
+ษ
+ษ'Zใ'' VV+~%VปปอVVV
+Tห
+ฒ)))	๗n )ห
+T''Z
+l	ฐ"eHl
+๕
+:
+:	ÜS๒ัlÝT!!;
+ฤ;;!!ÝÝ
+
+ล
+N๔k๔k——u
+þ1จมJำำJ\u์ucJ\ำJ&ซc&ค( ศ"ฝ4เEเ๒เE๏หL^,‘%6<t-ฮ‘ตpี( '7(ฎ %#.น(Ý#);,IÞLฬLNþIÞ>&:|92ฬ.g1U/Þ4þ@ถJ๗MๅH๔=<;ล2๛5-9’=<5้8จ><Q??=2ฬ+y+y-ซ'ฯ |)%2ฬ0j*,ม&ๅ-Quิย…๎๎zVzZัขขิ]assüüü…ü…
+
+…''
+lZ6ั@ท@@o
+๘
+๘
+๘+'
+ดด
+๘o
+TB)  
+ฒ
+Tหหห
+ฒ
+ฒ))
+…
+ษ@ü…
+ษ@ปัZl
+๕
+:
+:สS{ใlTÝ!;
+ฤ
+ฤ
+ฤÝÝ
+
+ล<o
+}๔๔k——์uบ1\ำJ\ำำu
+þ
+þ์J\|มJฏซซซ""4ฝ4เ3ฮ๒๒iฎ๙็ว, )i)iฑ,,็:ร๖$I%๏%๏$x'f$x$x%30๋?HgJJAA>แ7.g,๐/Þ4C6u<QCคI€G}>ณ>ณ>ณ?nFมAก@*;–Ar<Q3.g5บ714C@ถ=ศ0&X ม$&$ฒ' 1&7%nค?cิิ—ASh! DZัขขๆ]ข+ss๊süü…ü
+……
+
+l
+l	ฐ$ั
+ษ@@@o
+๘
+๘
+๘+ขๆๆดดๆoหห )
+ฒ
+ฒห
+Tหห
+ฒ
+ฒ))…ü
+ษ	R…üท@อใlฑฑ
+๕
+๕SSสส
+๕ใ!
+ฤ
+ฤ	M
+ฤ
+ÝÝ!<ลลล
+]kณ๔๔99RR–cu
+ 
+ ำำ์์จ1มำม&๓๓"ฝF4ฝ4๐Wผเi7ฎเWต,pฑ# ^pp็^^‘๖%๏$x"E"E#ผ(!%3+4 ;๓AฯGซAEyDฝ=j1U1U2ฬ;–=ศCคE??=<:N;ล@*IฏIฏB\?n=ศ9c5บ*%1U4þ2>;–/"&X)\ำ!ฤ*3X=-| M?cข๎eธA๑฿$6ััH]ิขดข+ü๊ทท@ท…ü…üททZใ	ฐ	ฐ'……@@ดดดดooo
+๘VVออoๆข))
+ฒ ห
+Tnn)
+ฒ…üท
+ษ@ท@
+ษ
+
+๕l
+:(	~	~SSสส((
+๕ใ;;;
+ฤ
+
+fT!ล
+Nลลๆณ๔๔99RR——จ-Q\\์ฺจำำ&y๓ฝFFFFฝ๐iฮi๒ฎ%E,ต๙pร ฑ^ppp^%เ ฮ#ผ%3(!0๋3)4 >แJLฬKUF4Gซ>8จ71B้H	J๗F’@ถ;ลAก:N;ล=๗;	6ค<€B-Cค71("ฏ+y-ซ-ซ,๐' | |ำ\ึ' :ซGฺCu-|-?๕ขw๎Sสอ(s!ÜญHัZั]ิข๕๕๊ุ“ท@ทü…sü..ใZ'''……
+ษ
+ษ
+=
+=ดดooo
+๘VVออoๆl))))
+Tหnn)
+ฒ
+…ท
+ษ
+ษ@ท@
+
+
+
+ฑฑ(ฑSสSSÝÝ๋ÝTÝÝ;;
+!!ÝÝ	“
+
+Nณ<<V	๑hh	๑hhh&มuu
+þ์์์uu8yฏ^รlใL^^^^ีีีษ@RR`ล*ณoิย%z!ะ&โะ.“!ก *!'โ$พ!r$`2K>:e:eFุN+OEIiBัHญDฆ@A>สK๙N+OขK=HOBEE3=เ9{6/0S12…6๊<ฦ7ฆ-e)ป. 6๊9ุ,ฉ ๑!ญ 6 ๑/ ”2ใC Bข2…"h"h! VH6ข!~ๆZZยl~ิ9๕a=๘..ทท@อออV@“aüใใ'ü
+……ท@……ü…ss) )
+ฒ
+ฒ
+ฒnๅ
+Tหถ-คถ
+%๚
+ฑฑ(ฑSสSS
+f
+fÝ
+f
+f
+f;;
+!!TT
+
+
+ล<ลล฿h฿฿h	๑hhJำuu
+þ์ccฺ์มy(จรL~LLL^ีLใ~ีีRษ.
+้๛ืNก<oย')฿$พ&โพ
+o#*k12(h!ะโ๛(ล;FอF@ABsC๊BE>lG6C/AธC/JN+LดLดIฦCผCผ=เ9{6/3A+2)ป/—8a<:”6๊;O?ด9ุ,ฉ ๑ ๑&อ.Ü0S/—. $๙ธุ*. )ป19ุ7ฉh๑z๑6Hุด.ZHK 6 6Kขaaoท.ออwDอ@ทsüใใ'''	ฐ''ü
+
+
+@ท………ü๊๊þþ)  )
+ฒ
+ฒnๅหB-’--๚
+
+
+
+ใใ(	ÜS	ช!!Ý
+f
+f๏๖;;!ÝÝ
+
+
+
+Nล
+
+h	๑h฿###
+ uu
+þu
+þ์1จำ&ฯ๓L^LีีL:ฑL
+ฅ!ก#ณo]๔}YYg ๆ(9(91=ฅ.ÿ$$`4}@5HÿG”>ส82; ?(@?ใHญFFIIK=FุK๙N็E3BEC A@p4ธ*w+๎2…?ดGGDีFLD,ฉ)ป. +2&อ+๎4ธ6/=.~s…๊Zั)ป6๊8"—ปD wVzaุฅฟฟzั-e*w+๊sทดOทฅw๎wอปw
+üüü''ใZ	ฐ'	ฐ……
+
+@ท@
+ษ…๊“.BB)
+ฒ))
+ฒ
+ฒๅ\หB๚q๚_"q
+
+
+
+lZ{Sส!!Ý
+f
+fÝไm;;!ÝÝ
+
+
+
+Nล
+
+h	๑h฿###
+ 
+þ
+þu
+þucจ1ำJีี^ี~ใLีฑฑL.ทท. *$kกๆๆ*}GG#ิ%K+',,,อ(h(ล8โHÿKํC/:e3อ6ปBCBัHญN็K๙N็N็LดHOK๙IFชCผE๎JSI::”3A.Ü9ุA+KlNZGร@p9ุ+2,ฉ?ดBข/—+๎==0S(ขss๊l๕%V,ุ%…"—/ฦ/'ธป๑s๊ฅ6Vป~llขขsü@ทs๊ททS ”SDDw
+üs…Zใ''…………
+ษ@
+ษ	R…ü.ทหห)
+ฒ))))nๅห
+T
+๚๚_ccึ
+7
+7
+๒
+๒ฎ%TT!	ช<	ล<*๗
+€<ณ&	๔k	–ศ
+Qkโ&
+ฏ
+Þ
+Þ
+ÞU*<<*ํํvํ~ิย22vํ๏x
+Fซหนffxฎฺฺcc Sสฑ๒${…๊=%ฑ๕~ใ#ฟ*W.ผ.^7(=ฟ6l.ผ7GฃJ‘@่<89•?D๏EซG"LþNuNuLþMนMนLþJD4BฝD4JGÝ@?<%?ฯ>XD4AFB970m3[.ๅ687ฏ0\9BM:๚&x๗’ฤ" X4%7%6•1uj)ฒMMฤฤฤ [[ะพถ-?ศ๛้`reฆÜฮWWW>>>>EWเเ
+.ฅaุ
+๊
+๊
+๊aฉ
+ป2
+ปิิvvv	ÿ
+ป
+ป
+ป2ุa
+๊ุฅฅ
+.&&kโGพ&Yฎฎii
+7๋ÝÝ!!!<	ล<*๗
+€<ณ&kโ	–ศ
+QkโUU
+ÞU<<<<	ÿํvํ	ขิย
+ป
+ปํdxÝ"ซÝÝxf%%Iccฺฺ—…สS:(ฟ6üsO=ฑฑ๕l"H. =b>ู8;@ญ?6033!=bC>EMIฒIฒB_<%BLþNuLþKKJJหMนO์LþD4BฝAF>XCxBFfFfEซG"H?ฯCx=.๖)#-$ค#-*€6•<q/Bฎ’M!)jXาภI%j)MฤMMฤฒฤฒm&&YG๐๐’๗ถ้ล!NฮWเฮฃฃ,>WWเเฅ
+.
+๊aaO=ฦฉ
+ป
+ป2ิิvvv	ÿ	D2
+ป2OุaO
+ฅฅ
+.
+ฏ
+ฏโkโY
+ฏ	8kฎฎ
+๒
+๒i
+๒T
+f	ชTÝÝ
+f<<๗๗๗๗<<โY&ศศโYr๛ฬU
+Þฬ๗
+€
+€
+€
+ปฉ2
+ปKิ22dd4"๏fTxฝซ7ฎ7ภ0งฺcSASSฑZั6ัAธุO~๕'i6>A:ั6l85ฑ3Ü6ส;๋F,IฒFฤJmH๖D4HO์QcO0MนLþJJKJหJหEซ<แ9๓<แ?ฯ>XB@BฝLþNuHKG"3[$ตฺ!ถ(ซ/þ*Ý%ฤ_๗$ำxjฝ๓ ๖;;;;โY๐ จ จNณ’-ค๗ำ’WWWWWเ  !{‘ต$$$
+.ฅO&$…2
+ป2ิ
+]vvํํ22ํํoๆุุฅฅa
+๊kkโk&&	๔	๔	๔ฎฎ
+๒
+๒i
+๒ÝÝ!!Ý
+fÝ
+f<<
+€n๗๗<<โYศศโk
+ฏ๛๛UฬCJ๗
+€
+€22ฉ2ิ
+]22ํํฝซ๏TÝ๏
+F4ภ7ภ7งฺcSAสส(HฟฟZเฆ/ุO~๕๕'i),23~:1L6ส9ธ;๋C>H;B_D‘FJNuQcLþLBPงQcNuNuJGÝJหG">X7<แ9๓;j<%:ฎBฝLþKKNuJ6I'ฃ#่ ๚ฺฺ"ฯ--ห*Ý$ฤ#\)8Ý%แ4jj ๖m๖ึฤ;)ÞyโYÞÞ้rคnๅถฮเWWเW $i+ผ๖>$$$
+.“+(697—% 2
+ป	ขิKํํํํ22ํํKฐุุฅฅ
+๊	skkโk
+ฏ
+ฏ	๔	๔	๔PP
+•
+•
+•
+
+f
+f
+f
+fณณ	ล<โG๐โโ
+ฏ&&
+ฏkk
+Qศ<ณ\ศฬU2222ํ	ÿ
+ป2v	ÿ2ฉ 2
+ป2;ฤ_ึIภ|ง••……/({{ฟ6!ผ+ý! 6๒ E!๊!๊$Aü!/'-E+ฮ1ช.ผ2e3Ü3Ü9ธCFCD‘HHKLþJmNาR|QK)IฒK)NK>X9๓;j;ว>ต=>=>BITB=Bฝ;j,&,(ซ!X7%#-3J=7ฏ$uซ"%XFI "I) mmฒMMฤ‘M ๗ถศ๛r<Nถถค๗&โr>,็
+>ตฅฅO+20ข;4Khยิ
+]vv
+ป
+ปKK222
+ป##ฅฅฅฅ
+ฏ&kk	๔k	๔	๔kPP
+•	‘
+T
+fÝÝณณ<ณGv#–โ	๔&
+ฏ
+ฏ&	๔โศ?	ล<๗\þบ22
+ป
+ปvv2
+ปv	ÿ2ฉ—ฉ2
+ป;ฒไ๖Mึภ7|•……”!^{{ฟ$!ผ.๋,ธเ#33~6l5ฑ!/—…!/'.ผ3!1ช.ผ3Ü;/5S5SAฃGAฃCH?ฯBฝG"FJmK)IฒEML NNKAFAFBฝ@,F>ต;ว@B=979๓2 'ฃ*‘-+)f,T)	3J@y4ม%์"ซ4XFไIฎฎ ;;ฤึ;‘‘ฤ;-ถศ๛r``ถถถ๗"}ลr๙๙,>ตตp๙
+”>
+วฅฅุดอ—*
+ษ'Kิ
+]	ÿ	ÿ
+ป
+ป
+]
+]	ข
+ป
+ป2ฉพพ
+
+
+ฏ&kk	๔kkkkPP
+•	
+ฤ;	M;ÝÝ!!n๗๗๗5+ฅ-ืg&&&&
+ฏ
+ฏ&??๛**ณณ1บ2ฉ22
+ป
+ป
+ป2	ÿvvv2222ึึ‘m;;‘๓ภIงง0Üสs={{ฟฟ{{เ EW"w'.^1L$ s!๊%”)๙4>ูA9ธ>ูF,Aว78=๚?qFฤB97<%BH;CึB_CึIฒQPIPIQcHAFBฝGM[KไC@B=@@4า)ึ2 56•:?8ศ&ึ%_(M(M#น"B""þTffm[!Xภึฤ‘‘ึฤ‘;;ถ-??๛r???ถr้-ฮผ3Wตตตตต,ตต
+ว
+ว>
+วฅaุ5##
+ป
+ป	ÿv	ขิ
+]vv22	ะพ
+“
+๊
+๊kk
+ฏ&
+ฏ
+ฏ&&	8PP
+•
+•
+•;
+ฤ;;
+f
+f!!
+€๗๗๗
+"Yÿ1y&&&&
+ฏ
+ฏ&ศศ๛rkY๔*ฬU2ฉ22222
+ป	ÿvvv2222MMึึ‘||ฎ7งงÜสü!ผ)ส#๎#3ฮ{"wส!/)๙"ฆ s!๊A"ฆ.ผAวIีH^IDตGฃ=b5050;H;Cx@BBEM@่@่H;L QPIPIQcNuHD4CCFF@<%=ITGÝ3[&่,ฤ89/þ.%_&ึ#่ ๚T หซ$uTmm|!XไM;MM‘ฤ	ถ??๛ศศศ?๛??ฮช3Wต
+ว
+วต>ตตต
+ว
+ว>
+ว
+.“a
+๊G5	ข
+ป
+ปํ	ข
+]ิvv22	ะพzฅ
+.
+๊
+๊kk
+ฏ&	8&&&
+ฏ
+๒
+๒
+•
+•
+•PP
+•
+•	
+ฏ
+ฏ
+ฏ&&&kkUCþU
+Þโะ
+ฏ&&
+ฏโฌ*้2<'@ะ&&kkKKKK
+๊
+๊
+๊ุ“‘ึM|๓•๕llใ{$ช46๙9,0bัHฟ#3'๙p"ี็$ญ"w/ฆ9็=‘=‘?e<wD=352 :ฎCx>ตFIฒL HCงGQM-LqO_O_O_PึPึNคKถ>ไ3,;;? <ฒ5_6:?B5)I-ฎ/þ*"" $ค.ๅ4ม'’ฤึ’!ๅ€-??þ•Tffห์ÝÝซซฺcฬฬฬU๛ศ?๛ýสS
+SสýýสS
+
+๊ุุ
+๊]๘2
+ปvv
+ป
+ป
+ป2a
+๊aaz
+]K
+]ิU
+Þ
+"๗๗๗nศ
+๒
+๒
+•	ู	ู
+•
+•
+ฏ
+ฏ
+ฏ&kkUUUฬโโ&&
+ฏโพ&0ล'@ะ&&kkิิิิaaุฦ๘ฅ‘_ึ|qึ;lใZใ{+A4ว1ูH!ผ)(ฑ$L!^$$"w2”6๙-t-t/H/H4i>ชD4;j:ฎCxCGNQM่F•GQJ?J๚J๚M่M่PึPึM-Au7‘1ต2q3่5_0๚-P.ว35*ภ,7*"!X%ภ!ถ7ฏA๐7ฏฤ่ค	 n	ศศþu•งนTหuuหÝ"4uuþuบฬUฬ๛?ถ๛S	Ü
+สSb,ธ
+aaุุฅ“2
+ป	ÿ	ÿ
+ป
+ป2ฉa
+๊ุุ๑zยยิ
+]
+ÞUþ\
+€๗
+€ศ
+7ฎP	ูว>วว๚	8&&kk
+Þ
+Þ
+"&&Yk&&yU5โkโ&
+]ิKิฅ““ฦOึึฤM__‘IภIภ’-/ฯ่ใัiใัHญ! เW#๎%e"w18ฮ4i&~Oiเ!ผ+ý9,7ต&!$ช%ร*(/HFธKD4EซJGJmJmM[IF•EฺEฺGQKถNคQ’S	NคI=ห:;๖8M3่*b+ู+ู+ู*ภ/%,๓+|'๏'๏&xฎศ)	8j/ ึ๚_ฤM๚B0"q/ .)Ýหþซ4ซQ-ศ์บฬศศ๛๛rSS
+๙.{*าูOด
+ฅฅฅ2
+ป
+ป
+ปvv2
+ปฅ
+.
+พGKิย'K
+]ิ
+]
+"ฬบก	ล
+€
+€?ฎ
+7P	ู>ต,>่q
+ฏ
+ฏ&&&kk
+Þ
+Þซkk
+ฏ
+ฏ&Yโโk&ิ
+]	ขยK~ฅฅฅOฦMM) ึ	่‘ภIIภ? n!)่๕ใ{๒H$HัHiเ#๎%e#๎2”CD; %ฮ E*1ู.๋*#3$ช%ร*(/H=๎AF?ฯHLþNาKไH๖H๖F•F•EฺEฺHศJ?NคQ’Q’M-B09f>ไF7? 8M0>+ู*b*b)I-ฎ1X,๓2088&xฺQ&ึ&ึM๚๚qq่q๚นง%_;X9แ)ฤ์"ÝÝซ4ฝ44"ฺ$€ถ์CCศถ้๛๛
+สส
+"ร$๖๋ýýุ=
+““ฅ
+ป2
+ป
+ปvv
+ป2
+.ฅฅ“ÿพGKิิKิิ
+]ิ
+"UU<<๗๗ศ
+•
+•P	ูP	ูววเi	{
+๒
+Q
+Q??ศศ
+Q
+Q
+€
+€
+€๗
+Þ
+Þโk	๔	๔
+ฏ
+ฏ	๔k&	–ถถ	ขKิ“aaฅฅ“‘mไ‘ccฺc7%แแ๕lใัุฦsüa+ดุ! &Ü&!-t>LECm-t##':+,Z)l$L+1{5เ7WA8ู8ูCGFfGÝKJIแDJGฎHIJ?HศM-Hศ?B:ÝAาGฎB;;2ฯ**ภ)I+/1ต-P;ถGnA’-Qc ๚&ึ’ถถ?qqq่"%j(ซ*€ ?"44‘Mฤ1cuๅๅ<ณโYY5ะ&
+ฏฑฑฑ(ฑ(ll
+๕
+๕ใHฟZz๑ฦฦดa
+]ิิิGG๑zvv	ÿv
+]
+]
+]ิU
+Þ<<ณ<ศ
+•
+•P	ูP	ูPPi
+๒
+๒i
+Q
+Q??ศศศศ
+€
+€๗
+€
+Þ
+Þkโkk&&โk&rถถ	ขิK
+“aa“ฅฅ‘‘‘ฺคถฎภ๓๓๕llZsssü๊ฦ ขฦ(S)$ช)ส41ู$ช++็!^"%(ฑ0@!8ฮ:EA@,7b.2ý6ICxKLþDADภGฎF•EAu=AuKถHCงGฎJE|>)5ฝ,๓'า&[&น.-P(๋4c=-;ถ/þ ?c	ถ?q่;"% )uþþ"‘ึMบบ์þ๗๗ณ<โYYGะ&(((ฑฑ
+:
+๕
+๕
+๕
+๕ใllใฑ(z฿๕~OิKิิGG
+
+
+
+
+vvv	ÿิิ
+]ิ
+"
+"U
+Þณ	ล<ณศ	
+•
+•
+•PPวPฎฎฎฎ
+Qศ??ศศ<ณ<<UUkkkk	๔โ&5Yโะ-ถ
+]
+]ิิKิ“ฅุุฅM_MM•M€-j|๓|๕l(ธ/๊üฆ็๙W'%e"w! =Oฦ=๙!^+=3:E<wCสFฤ8101ไ:ฎ>XBฝ9ฤ5_<ฒAB์Dc?þ;?BLqO_LqF๓DAา:3)I'า&[%ý0>-P(๋0น20*Ý%•๗’ถศqqึIาmm0ห์;MึMþฬฬnnn๗&&&
+ฏ&((lใ((ฑ
+:
+๕
+๕l
+๕ฑฑฑ(
+5]ยK“z
+พGGGํv2
+ปิK
+Þ
+Þ
+"
+"ณ	ล<ณ
+•
+•
+•PPวPฎฎฎฎ
+Qศ
+Q???ณ<ณ	ลUUkk	๔	๔kk&ะะYY-ศิิ
+]
+]ิ
+]
+.
+.ฅฅaaฅ;_MMQฺ๓๓jฯใl(/ฆa…i$ช! 66$OOOฦ”็$L.4i6=๎?q<;ว7b6I6I42 0๚2q? >)AuEฺAu:"@นHF•Cง>)A9.ว)I$ไ!๖#m$(๋0>.ว,T0น-ห'๏&ึ&J'ม	?qq๚๖mmþ•0";MMึUUnn
+€๗
+ฏ
+ฏ&&
+ฏฑฑlั{(ฑ
+๕
+๕
+๕l(((ฑ
+Gพ
+“““	ขพGGG	ํv2
+ปิKUU<<<ณhh
+N
+N
+##h	๑฿h	๑	๑	ญ$
+iเ๙p
+	P>WWWเ
+
+๙
+ว
+ว>>pp$	่	่	,
+Fฝ
+Fฝ
+ฃ
+ฃฝ4x~~ํํ2 ุOุa5พhปฑฑAธü…aOฦO!^%=	๗$มnygซึM%|(j*๛,r1’5๗?BF•AuB์Dc>5ฝ/แ0๚9ฤF7Aา9=m@[:78“3s3s6@D4-9,Û+d%"$อ!฿)ํ,Û-V1ป2w.#ย '+฿;;*
+ÿo๘
+ฎฎjแ_q??๖‘;M‘(ฑใlý>
+วp ๛ถ	#๔คศa
+๊aO5พGGิK
+ป	D22vv2
+ปิKิิพGG	ะฅฅ“ฬ
+Þ<<๗nhh
+N<
+
+ฌh฿฿h	๑	๑$
+iเ๙๙
+วต3Eเ
+i๙
+ว
+ว>>
+๙$__
+ฃ
+ฃ
+Fฝ
+Fฝ
+ฃ
+ฃฝ4xํํฉฉOฦOุ5พh๑ฑ(((ÜA๊aฦด+ุ/ฆ ข)l#J€๗€gy; (j+X)(--7nF•B0;:">Au>8ซ3่9ฤ>ไ=m6:@[=m8“4., 1ü43.ฐ']+d/ษ+d%#V h"(v(๑0D.&ฟ#! '&79:'*
+ÿo๘๘“77|๓่่ศฺ;M‘(Zใttูต>๙๙ศ#๔!คศซ
+"a
+๊aaพ5GGKิ2
+ป22vv
+ป299KฌGG	ะ
+.ฅ
+"
+Þ
+Þ<<
+€๗
+ฌ#ล
+N
+	๑hh฿V฿
+ฌ
+ฌ$$๙๙>ฃส $ต>็p
+ว
+ว
+ว>เWฮWึึ_ึ__
+ฃฝฝฝ
+FฉฉÛd๘Ko“ฌฌ5พ:ฑll—sุุ ข+ฦ๊üs+/H/ฝ)ฤ;gÞ"1-้*)&'ฏ)&--03	:\>4F222ฯ8ซ:"8ซ4ฃ:<ฒ6ึ7‘DภF๓B8“5ฅ1ü6a;#3ะ+ ล!฿-—&ÿ"z h h$อฐ#,%H '!ยิ …#sฉอๆ]o“7%๓แ??QQmm๖Mึใใ(๋tbýp๙็Wเ
+iเศศ้๛
+Þ
+ÞฬฬU	gaaaazzพGิK	ข22	ÿvv	ÿํv9ฐยzพ5
+ฅ
+.ฅ
+Þ	g
+Þฬ<ณ<<
+Q
+ฌ#ล
+N
+h฿h฿฿V##$$๙๙pต>>ตp๙
+ว
+ว๙๙
+ว>เWEชฤึ_ึ__
+ฃฝฝฝ
+Fฉ—Ûdoยo“#5ฌ5ร:๕๕üุุฦ=ุ๊süaฦ);ฤ;ÞC(9ก9C:บ4Þ3g5๗DG@88ซ749f6x1X4F;=::ADDภF7F๓<ฒ4.?ๆ@ขEHR@ÿ,}N$อ0…)ํ"zz!฿#Vฐ9"Z๕ยKิๆD2D2ิKoฎฎXXศถ-?[[๖Mึ
+๕ใ(týt๙p^๙Wเ
+iเศศ?-๛UUþฬฬU	gaaaaz
+พG
+]ิ	ข22	ÿvv	ÿvํิยยิz5o
+.ฅ
+ÞUUU<ณ<<
+Q
+ฌ
+ฌ
+ฌ#฿hล<h฿
+ฌ
+ฌ$$$$$๙๙>>เEผเเ
+iเเpm&า	่ึx๏x
+ฃ
+ฃ
+ฃ__KKิ99K5#hz=O
+
+ฑ(ใใZH&!!ผ+A#3W6H{_ฤMฤ๗๗&๓53	5๗8*3ล8*FะK5HGAE|KXF๓=m;๖@[I%H=ห9fB0B;;8M3่5GFÛIDฉHฐHฐ1ü&D&ก+-9-9#V๑๑!฿!ü!ü … ]ิÿํํษ+฿&ิM&J nqqค-ฒฤ;f๏"ซฑ((ll๙๙๙๙ต>ค	ศณ<nn๗n๗
+€GG
+ฅท
+๊
+๊2ฉvํ	ข	ข
+]
+]พ55พGGnำn๗
+Þ
+Þ
+ฌ
+ฌ
+ฌ#h฿ล<
+
+h	๑
+ฌ
+ฌ$$$$$$$>>
+iฮฮเเ
+iเเ๙๙‘ไm‘	่ึxTน‘ึึิิิKKK	ะพzzO=“(H$ญญ)'%e1*!ผฟ{ึ;ฤ) \n%|.F'Q'Q3ล2N/`;EYK5NFLฯLฯNFI%DภDภGฎE:Ý7๏7๏/./0๚5G>F >อ?ๆ?ๆ/&D(2Y>อAป4๊$อzz …,=,=!üKยข+vÿÛ(๑+฿ฐo๚%7Þ4๐;qถ- ;ฤM๏xซ4ฑ((เll๙๙๙๙>
+ว๛€'ำถ<ณ๗๗๗
+€๗
+€พพ
+ฅท
+๊
+๊ฉ2ํvิิz
+GพพGGG\มn
+Þ
+Þh	๑
+ฌ
+ฌ##ล
+N	“	“hh##เเ	ญ$$$เเ>
+ว
+ว>เเ>
+ว
+ว
+ว$
+i
+i
+ว>p๙‘‘44"Mึ
+ฃ‘‘‘ิิิKGGฌฌุOOุฑฑ({ญH&Ü EW6ฟฟH๒๗ๅ'ฏ)&#J"%|%ฺ%ฺ'Q'Q%/`<HGI%F7E|D<ฒ>)Aา=m9f5:";.ว't.ว7‘3ะ5G63:ฦ?+4.)ํ+5GCํIษE0…5โR'$."ท!9ข+v ใ%H,lถ๗.X)๓_?-ไ๖;;xf๏xฑ((ใl๙๙ตต>>>
+ว
+Q
+Q๛ืณ’ถ๗๗<<
+€
+€ณ	ลGพzz
+๊	s
+.ฅvd
+ป
+ป
+]
+]ิิิิ
+พ5hGGๅJำnUU-h	๑
+ฌ
+ฌ
+ฌ
+ฌ
+Nล
+
+hh##เเ$$$เเ$$>
+ว>
+วเเ$ต>
+ว
+ว$เเ
+ว>๙‘‘4444ึM‘
+ฃ‘
+ฃ
+]KิKพพพพุa
+๊a::ฑฟ6ฟเัZHฟๅ*/)&!$.ค(ศ!u%)5<@๔CICIE|A2q3่9=m9f/%4F;1ต*b4ฃCI<2Y113s1ü2ท+d-๔5G3ะ<?+9O&ÿะvdd"ท'z9##vl/(6’-ึqQ?m ÝÝÝf((ใlp>>
+ว
+ว>ตศศrr??ๅๅ<<
+€
+€<<พ5hDO
+๊
+.ฅvd
+ป
+ปิิิิKKzพGz๑GG๗n๗nUUศh	๑	“
+ลลลล๘
+h	๑#
+ฌสสSส(ฑl
+๕
+:
+:
+๕lฑฑ
+:
+:>>๙เWเเ๙๙p
+ว
+ว>>ึึ4ฝ4ฝซþ๏xxxิิ
+]ิฉ22ฉํddํยKิิ—a+%e%e{ฆ/ธ/aOฦa-บ6&'€ - -$%|ๅ!ำ'ฏ'ฏ)แ5BLBLBGÝ0m0m3[978ู04t8ู2ý1;Fฤ?ๆ2ท/3s2Y-๔3+ย,Û2ท)2*ฉ38๑4$oํv  …ll ใRRüa V,ส.A"ฯแ|•"ซcQmไ[ใญฟlสธtýWWฮW
+ว>nn๗๗&&&๛vvÛ. 2vvิิ	ข
+ป2	ÿํิิvv2ฉฌGGGaO
+.
+.kk	๔kศศศศ฿h
+<
+N
+N
+N฿h#SSสS
+:ร
+๕lฑฑ
+๕l((ฑฑ>>๙
+iเ
+i
+i
+ว
+ว
+วต‘__4ฝฝ4" ?.ๅ'’งfxxิิKิ2
+ปฉ ÛR.ทยิย—O'๕6๙4iAธ/ฆฦ ข#O|*ฬ0J$’ศ์;"#J \!ำ!ำ %|<%FfITD๏4า.๖0m6I7b17b5๋.5๋=๚=๚7,Û-—/,}((ิ*K)ํ/ษ'ป, (ิ+ย8๑+ย!@ษ)O!ül(6+$@@ุa V'ฉ)Ü"ฯX๓|•••4ซuc๖mlZัZAAýWWWเ>
+ว๗๗
+€
+€
+ฏ&&&rvvdํ22dvิิ	ข
+ป2	ÿํิิvvฉ25พGGaaฅฅkk	๔kศศศศ#
+ฌ
+	“	“
+V฿VDสSAสl	~ฑฑ((llใl(ฑ
+๙>
+วเเ
+i
+i
+ว>
+๙๙__xxx๏f ๚0\+๗ ๚TฝฝKิํํ— ÛR๘!oย๕ธธฆ๙*+ý๒ธ/๙ ข)l&~ุ|๓"ฝ$4&ลr์u_ฒ'ฏ$ม$);!.๖1ไ5;j51)4า<%@่6ง9•;4t7b8ู5๋.R.R6a/(ิ$o(ิ']$อ-—%&ÿ 
+ 
+)+/ๆ2ิ6~,=#ั%H(6ท“'K$]%w"66%ภ7•fÝหBฤM‘‘ฑฑ((ýýWเ>>>>U
+Þณ<
+€๗โkkk
+Qศ??vํํ	ÿvํํํKิ	ข
+ป
+ปvv2
+ปฉ2GG
+
+aa
+.ฅkโkk	–
+Q
+Q#
+
+
+
+h฿DüฆSS	Üll((ll
+๕l(ฑ๙๙>ตW
+iเเ
+ว>
+ึึxxx๏Ýu์BfฝฝยKddü…RÛ@ท9Kใ๙ธA๒iธp':'๕%#ฦ๓|แj๛rฺcึMๅ!ำ ฤ;$)&,/ฒ2 4/ฒ0m=Cึ6ง2B6ง:P1*3'E%4.@ข3s%ๆ']-9+ย$อ!฿$"“ฅN2YB๑HอF<Z&ฟ%H+$ ใทฅ๘"ๆญัZH%ภ7•ง•ÝfTÝฤM((ฑฑWเ>>>>
+"
+ÞUณ<๗nkโโโ
+Qศศศvํvv	ÿvvvKิ22ํ	ÿ	ขฉ22
+ปGG
+
+	saฅ
+.	๔kโโศศ
+
+hh
+ฌ
+ฌ
+
+
+N<
+oิ
+SS	ÜสAสสS
+$$>>$$$_ึ__
+ฃฝฝซซ4ฝ44ฉ
+ปํdย9'.ษ —KK~l{l๕(Zั/ฆ๙$L๙11r$’!ค;M’๗ฒ;ๅ)&%q!.;,ฤ-Ý0ห0188-Ý2B6ง,f"%7`,};฿:h,}-๔<>0' ล)( ล$o:hKปNฉKป8ฐ!ü …)O—ททฅ“z'ใZ่ฺฺ|||Mฤ‘Tf๏x/สส	ÜSSสเเ๗
+€๗๗
+ÞU๛??ศ
+Qvv2
+ป2
+ปdÛ9ย2
+ปvvํv
+ปฉ“a	s	ะGพGkkYโ&
+ฏk	๔
+Þ
+
+hh
+ฌ
+ฌ
+
+
+N<
+๘
+	Ü	ÜSAAส
+S	Ü
+$$
+
+>>$$‘‘_ึ__‘4444ฝ4ฝฝ22Rฅz VทsKK~l๕:ฑใZAธp๙!^!^๙–จ ้ ้#ื.ำ(๗)!!ำ \ฒ)ๅ \•%q&่&)x+ช*3*๏0ห506ง-Ý&"%I๛"<34,}-๔<;#(ิ“(9ฌ;#(*K@DNฉNฉDh.o#s 2ทษษษ'ฐlใ่๚ศฺ|๓Mึ‘BT๏xA//ASสSส$$เเ
+€๗๗๗
+ÞU๛?-?ศvv
+ป2
+ป2ํR9ฉ2vvvํฉฉ]ยฦ
+๊GพพGโโk	๔
+ฏ	8โk
+Þ
+
+##
+ฌ#
+
+Nล
+
+<กฆS
+SสสA๋ý	ÜSเเ
+วต>
+ว
+ว
+ว๙เเ$_ึึึึฤf๏๏๏x๏x๏ฉฉ—ฦ฿'ฉ,๊&,l ด๕~9'$ัll(ฑฑ…a=+'๕9;ผ5เ*n!ค(</'€ฺ??๗)&)แ)#J/.F"ูb#๚&่##%ฮ(ผ%ฮ'E0ห8*3!i ฎIN10'2Y/k(#ณ“!-9=V;฿33ะEdOeLw5ย$.——DอทRRRllz่Mqภภภ7Mึึึ4ซ๏x๋bbbtSธเWเเเเ$$๗๗<จฬ๛๛?ถถศศศvํ22ิิิิ2ฉฉ29KKิ2
+ปvv22vdดุaพGzkk
+ฏ
+ฏ
+ฏ	8โk
+"
+ฌ
+ฌ#
+
+Nลณโ^A
+SสสAbtSส
+$WW
+ว
+ว>
+ว
+ว
+ว๙เเ$_	่ึฤฤB๏๏x๏Ýf2 ฉ 9z's(3ฟ*๕Z๕ฐ$ZZ(ฑ๊ฦ++-ัBSH๋Eý>๐*n%N&ล$’ฺQc	n"ฤ!ำ3g9þ+Xb๋)ึ5*๏"%%ฮ..$W#%!iIภ`%*40'9ฌ3ะ#ณ`(ิ=VAป4.ฐ0โEdLwI5ย!@2D2ปทRRlZ V!อ_ฒ" ่ฎฎ7ภึMึึ4ซÝfýtู ‘&mตAธฮWWWเเ$$
+€nณ๛Cþื้?ถ-??vํฉ
+ป
+]KKK2
+ปฉ2ิิิ
+]
+ป	Dvv
+ป
+ปvvaุaุ5พ
+kk&&
+ฏ	8kโขขขข^
+็ขขE3wธ๏7
+าIแ Mึxxx
+าI
+
+ฃ
+ฃ__xx4ฝ
+.ฅ““๑๑#Ûุฉvdใ'ฉฉ22vdÛd
+ิ 'ย]ิ๘
+F4"ซ&–r -ศ'Þ?NJJJJBเ'—%6Zlรรใ~Ü$-ข*ด ! !+8M3,%ý(๋-P-!"เ7ภ{$W$W1Aฃ;ว1)+M&่ง P1ไAF>X) P#>97F๙D4ฉ '2ป …#sฐ9ขด]]ü““s…@ษ๕2 ทRฉ s*๕1!o  ~	ข๕ย&2๕๑Kิ๙๙๙
+
+๙๙๙ต>ต>
+วต>
+ว>	P
+i
+i$$SสSสฑฑฑ(xx
+F4x
+Fฝxข
++ขขข^
+็ขขผผ w7I
+
+าIX'4แฤ_xxx
+าI
+__4ฝฅ๘]ohzฌva2	ÿํใ".ü&2…ฉฉฉvvํvฅ“
+K'zK“๓แ4&yr1(๗ฺ&-บ@	=2รธป "H%6"H๕LL~w๎ü!๊!ช#ห+%ý!#'t1-!,f"%"เ(ผ"เ-!@,@,4(_%q P&,1)(_bt$ต6Ü6Ü7—&ปD2!ü$ '+“
+
+ ทฅO"+(ย!ol~~l Ûd2ฉ—a@  ~9ฐ๑99Kิpต>ต>>>>
+ว
+ว
+วเเ$$Sส	ÜS
+:(ฑ(Bfฝฝxฯ
+Fxขข
+็
+็
++ข
+็
+็
+
+EEII
+าII7
+ฃฝ4x
+า
+าI
+า___ึxฝฝ
+!.&ฟ฿ฌ# 
+ป2ฉZ)Ü3a*—@Rษddvฉ2a
+๊ุุข#ั '8XF&&ศ&	ถ์ฏ)U3–'Þสe2ฉ"H($*W:ขllDปeสฮฮ"T Ýx !+ู;ว>ต@,0&*๏.0%"%50@่5#๚•"ู๋!ว๋Tfห"2w,*hฐVVd'z9o
+ุaaุฉษษ“*90ั%Z๕~๕Ûdฉ2ํdÛR—2ddKยยิิิิยl~~ิิKิิิ
+ว>>>>>
+ว>ต>ต>๙๙
+ว
+ว$
+	ÜS
+:ฑ
+๕ใซ4ฝxx	ฝขข^^ขขข
+็
+็  EE
+า
+าI
+าIIฤฤ
+ฃ
+Fฝ	III
+า
+ึึ_ึ๏x4
+Fิ)ญ"Z฿ฌ5ฉ22ฉlH๑Ûท.Ûdvฉ2a
+๊ุุOขิ๘XF๐þuuu"69r"w ป2#ฟ ั(รขข๕อD๎eเเxผ!2ýAฃD‘:P6ง8=>Aฃ-Ý7)x/T&่00t!ffห%q)ญ ใ ']฿อÿยK
+aุaุ ฉddR๘"+aฟZ๕dํ ฉํdํdฉ2ddฐKยิิิิยZ๕ิิKิิิ
+ว>
+วต,>
+ว>>
+ว๙๙‘็๙
+ว
+ว$$$
+	ÜSฑ
+:	~l44ฝ4xxxฝ wL^ขผผ	ฮE	ฮE
+	II
+00์c‘_	่
+ฃ
+ฃ
+ฃ
+u
+uง0
+	[
+าxxMึ
+ฃุฦ]๘ฌGzzvํ
+ป2~~~๕dÛRÛKยa
+๊aุzh฿๑ศถ๚qึ;บCบ–*n38.ำถปVอD ฉปปDอ๎wDปปD๒๒%ฎ>,_$ต.๖6I:ฎD๏BCxCx/Tภ7ภ(นB!!๖๖า##ๆิo฿฿DออV#Oุ“๕ ษษas dddํKKKKยK~~ฐ9Kยิิ9ย2222ํv
+ป
+ป
+ว>,๖!W
+iเต,๖ไฃ>>
+ว
+ว>ต>
+ว>Sส
+(ฑ
+:ฑ‘ึ_	่	่x
+ L^
++ขผผ	ฮEEผ
+	II
+งง์
+u
+ฃึ_
+ฃ์์ง0
+
+าI	xึ_
+ฃุุ“5พzzvํ2ฉdํํd9ฐ๕๕ุaaุzhVhQQq่Uฬ)ณ38!คศuDอ฿VDอVVVอ๎ฉ2Dอ๒เ>>๚่ู P!ว,<%3[7ภ7ภ*๏7[๖ฑ๒!งไ ฎ*๏7K๘
+ออD฿h๑ฌฦO“
+๕22ํํ—…asRdํvิิิย9ยZlยKKยKKิ
+]
+ปฉ22v	ÿ
+ป
+ป
+ว>,๖!WเWต>ตฃต>ต>
+ว>
+ว>>
+วสSฑฑ(
+ฃ_	่__EE^^3ผ  ww	ฮ	ฮ
+	[Iง00ึึึ_‘
+ฃ์์c์
+า
+าภI
+F4xึ_ฅ
+.ฅพ55พฉ222ิิิKdํdํ9ฐัั
+“5ฌh๑ฺฺศQศศ2}2}–์DVออ อDฉฉ๎wx!3่ว,ง0๋'ฃ4&่&,&,{(ร:(ผ*3 PtTf($W*๏7ขฦฦO2 …R๑hhVฦO๘Kฐิิํv2ฉd@% ดRํvvKยยย~~'~ิKิิิิ
+ป2	ÿ	ÿํv
+ป
+ป>>p^$$$p>ต๙
+
+ว
+วAAýZlฑ(_ึMฤ
+ฃEE^^3ผww  ผผ
+
+า
+าง000ึึ_ึ
+ฃ‘์์์cฎภภI44xึ_ฅฅ
+.พGพG2
+ปฉ
+ปยย9ยdํํvย9ฟญๆๆ
+“ฌ฿zQQQศQQ"บr ้จc์DVอฉe๎— ปฉธ$"T)ง61ตฤว>Tหt&,&่นtb(:รLฑ{"เ๋ýÝÝฑ๒ภไ+ดOอษÿ฿Dอ๑Oุิ!อยิํv
+ป2ํÛ๊aRÛํํย9ยK~KิKKKK2
+ป	ÿ	ÿvํ22>,ฑw	ญ๙
+
+ว>๙๙
+ว
+วSA
+๕
+๕ฑ(Mึฒ)
+ฃ
+็^^Lี^
+   
+็
+็
+็^
+า
+า
+
+าI
+์์00c
+u00
+
+าภฎ%I‘ึ_ฝฝxd	ÿvvKิGพz๑hVhKย๕lÛํÛÛVD55=๕+ุ•ฺฺQถ_่"C1จ!คถเ(A/ —ธธL(-E6/แ.j9f0!๖,ตPL(า#ภาาI๏%๒๒เฮต,ตPWเ
+“h฿…O๊—ยK9ฐZั๕~Kิ~ฉ—ฉ๕$ (eใK
+]GG
+aุุุฌ5พzhฌG
+ป
+ป
+ป2เE๋'ต:๙๙
+	ญ	ญ$$Wเ
+iเ
+
+๕l
+ว>WWII|งงง|
+็^
+็ีี^ 
+w
+
+็
+็^ีภ
+า
+
+าIc
+u00
+u
+u00
+
+าภ7xxภ‘_	่ฝฝx๏RํvvิKG	ะzz๑๑Kฐญ$RdÛํ๑๑พพO+=ุ•ฺฺศ-!ฤCCC(๗&	Wสฆป2๎ÜLL%๒4,๓ฤ#m ,,,วรฑ๖า["%7&.#ห7๒๒๒ู>วbฎ7{๒ข๘“฿z5s"+ุ…Kยย9๕llญ6๕ย9l~2—ฉฉ~ฟ$lิิพพ
+
+๊a
+๊ุฌฌGzzฌ#ฉ
+ป
+ป2เWฮผ^๙$$$$Wเ
+iเ
+
+๕Zฮ๒>
+วเฮI7|0งX
++ข^ี
++ผEผEข^
+็
+I
+า์
+u์์
+u
+u00III%ฎI	่_
+ฃฝฝฝซdํ22ิKKK
+zGพพ5K'hฉ2ฉ
+ปพ55G““Oa••QQqฤ_UÞฬr.ำ*n ES/ป2DDL^ใ___qต,M_:รฑ{#% ฎ&3่.ผ{{bbงง๒{]ยฌพz฿๊ฦü ยย~~K9H/ธ+SZใั~ฉ ํd๕๕9ย5G
+
+.ฅฅzzz##dv
+ป2ิ
+]ิิเEเเ$$$	ญ	ญ	ญSส
+llัZ>>๙เเเWIภ๓|์์jข
++^ีขขEผ	ฮE
++ข^
+็
+
+าI
+u์
+ucc
+u00
+า
+าภภภI	่_‘ฝฝฝฝvํ22ิKิิz๑zพGพGิิย9ฉ2 2พ555ุุQQ•๚_๚g
+๐ซฬจ&	38)ธธ””ปD2!รขข๚่๚ต,''(รฑ$W2B-Ý%"%+6ึ$i{๒{bt00{3E๒ๆ
+ฌพ๑DO…—ฉKKิยั%w!ใ๕๕~๕— ÛdKยฌพ
+
+.ฅฅ
+.
+zzR5vvฉ2ิ
+]
+]
+]$$ฮ3p
+๙เเ$$	ญ$$$Sส
+
+๕
+๕l
+๕
+ว
+ว
+เเเW
+าI|์์๓
++
+ 	ฮผ  ผ	ฮ
+็	pงง0งIIII00์ฺ
+า
+า
+
+c์์c
+Fฝ4
+Fึ_ึ_vvvํaOOaฅฅaa
+ป2ํํ~ุุaุ
+
+?QQQjj&ÞÞÞUc -ธüüZฟ! $ีL~&ญ(เ(ขดึ่qึ!๖ TÝt!ว$ต Pt !(๋#หฎbู••ู๋%#ห'tเ=+
+“ฌ5ฌทd 2~~vÛษ.RÛvdKK~dํÛdํdฉ2Kิaaz
+
+พพÛ#พKKิ
+]
+]ิ	ข$$WE$เWเเเเเW$
+๕l(
+SS>>๙
+๙
+II|ขข 
+E3  EE^
+็ข0	น7IIIงง์์
+า
+า
+์
+u
+u์
+Fซ44_	่_ึvvํdOOaaฅฅ
+๊
+๊
+ป2vd๕~ั=O
+๊a“’ศQQ๓๓ฏ&Þฬ1บAS……Z+A%eีL๕ฑี+=•_q_ฤ)I!๖Ý0๋WWฎูbง•PP๏)ง!เดขo
+##RํฉฉํdÛRÛdํÛ9Kํvdํvํ
+ป2Kยaaz
+
+GGฌ#5	ะิิิ
+]
+]ิ$$เเ$$เWเเเเWเ$lใ(
+	Ü	Ü>,^๙
+IIขขw wwEผEE
+็
+็
+็ีง000
+I
+า์์์
+u
+าI
+า
+าง0์ฺx๏4ฝ___ึ	ÿv2ข๘“ฅฅ
+.vํ2 ยK9๘“aุฦฦ-ศQQ8ฏฏuบจ์ฬUASlฟข+ขขp๙••วว่Ýนb!!!TB%7ฎ7งงbbbว!*bE๒ฦ=๘
+VฉÛÿ ฉํd~vํddฉฉ—ุhKิvํdv22vํKยัZุ
+๊
+๊
+๊พพพพพG	ะGพพพพ
+]ิิ
+]ิิิ
+]$$
+iเ$เเเเ
+i
+i
+๕l(ฑSS
+ฃI!{Lต
+ว๙
+	[
+าIภII
+าขข
+   EผEE
+็
+็
+็
+็ง000
+I
+า
+uc์
+u
+าI
+า
+า0	น์์xฝ
+F___ึl	ÿvฉs)ญ2w'zoฅ“dํ22KิK9
+“““aุุุศQฺศ8ฏ&cUCCฬ……ธสใZZH+ดดขขp็,>วว๏๏ชชT0งงง๋๋๋biWi๒ฦ=
+
+2)O2ิRฉํd~~dํํํ22"+0s$ป9ิvํvv
+ป
+ปvํK!ญOa
+๊
+๊พพพพพGGพGGพพ
+]ิ
+]ิิิKิ$$$$
+iเ$เเเ๒
+i
+i
+๕l(ฑSS‘-๏1ต
+ว๙
+
+าIIภภ
+าI\\
+þ
+þบ1้
+r้
+r้้้้xx44
+าภ|์cงx
+Fฝxx00
+u์
+าIcฺฺcภ*Ý3ง,Tไ‘‘ุaa
+๊พพzR. ~;ฤฤฤ"UU)ฒ;;&ÞyXฯqถถ?ถqฤYkK9ฐKพ5V฿พฌ #…““!ฅโ๔9ยพะzzzz๑ษRฉ ฅ*9&๊ษํฉ ยKยKึ__ึฤ$ฤ•I
+า
+zaฦ+=ํv2ฉvvvd—ฉ22vํvv
+.ฅ
+๊ุa
+๊ุa	ÜS
+สสสSสส
+	Ü	ÜYY??๛้uถ"Nnn<<
+๊
+๊
+๊
+๊a
+๊ฅฅ\\
+þ
+þบ
+C้`ื`้้้้xx	xฝฝII
+u์ง๏xฝ4xx00์c
+
+าI์c์cภ7[7า‘Oุ
+๊a55zษฅ ;ฤฤฤ"ÞÞ)ฒ;;g&–%CFฯqถถ?ถ๚M๔ฐ'ยยฐ95ฌ๑zG52ฉ.@@@Ykฐ#Gz๑RÛ —@.s—ษÛ ฉKยยKึ_‘‘_ึึMง0I
+าa
+๊aavํ
+ป2vvํษ—ฉ22vํํํฅaaa
+๊
+๊aSส
+SSSสSSSSGGศศ๛þ1บ๗๗<<
+๊
+๊
+๊
+๊a
+๊ฅฅ
+ บบ
+þ
+þ-๗	
+r้	ถ	ถxฝ4
+u
+uง0ฝฝ
+F
+F
+F4ง000
+์c์์
+า
+าIภ‘
+ฃึฦฅ๑zzdRฉฉKิ~€	;ฒฬUUUJJn€"Þฬ"13ล-้ฯ๚ถ?ถ’๗๔}๔Yฐฐ'9๑z๑Gพ๑zddจฐ' hํฌฌฌhhฌRdฉ——— —ü…Ûํ~99‘‘‘‘_ึ‘‘•ccภภพพพพaaฅฅ	ÿv2
+ป
+ป2vÛ 2dvvvํํaaaุa
+๊ฅฅ	ÜSSส
+
+SSSSSS
+ฏGGศ
+QUฬ<<<*
+๊
+๊
+.
+.ฅฅ
+๊a9
+ บบ
+þ
+þ-\n`้--x4ฝxx
+u
+uง0ฝฝฝฝฯฝ	น00B
+ฺQฺ์
+า
+าภI‘
+ฃึ;+O“อV๑zvd22Kิ	€ฤ)–1Cฏฏn€UU&๐(CฝX&?ศถ	 \'ฏYG'K๑zh5พํÛrฐ'ป, ํํ$ü ฌฌRd ü  —sฦ.d9'‘๖Mึ‘‘่ศฺภภพพพพุุ
+.	ÿv	D
+ปฉ2ํd 2vvvvํํ
+๊
+๊a
+๊a
+๊ฅ“ýSสสS	ÜสSSSS
+ฏ
+ฏโโ?ศU
+Þ	ล	ล<<
+๊
+๊ฅฅaุบ
+C
+ 
+ฯF44
+ฯF44ฝ
+F
+ฃ	,์cง0์
+u0	นx
+F
+F
+F4
+I
+า์
+uง•๏"B4|00งM___
+F
+FฝฝพพzV฿#พํํํddÛ— ๗€ฤฒuฺ11?cCÞ€n๗€ศค	คศศศ?๚ฯซ&–-้ฅdrโz๑๑h๑๑1–้#ณ..+ย0'* ๔-ฦ"#~~ยÛdÛd—ุฅdํdRษÝ๏ห•u"๏๏ศ๗ถฺงง“ฅุOพG5G	ขํํvdิKิิKKzzGGzพฌýสสสAสสฑฑ
+๕
+๕Sส	๔	๔kkศ?๛้Cฬ
+Þ
+Þ
+"ฅฅ
+๊ุ5พGG…บ
+C
+ 
+ฯF
+ฯ
+ฯ
+ฯF4
+F4ฝ
+ฃc์ง0þ
+u0	นxฝฝxxฝฝ
+าI
+uþง)•6ฤ3ฝ0งฤึ__ฝฝ4
+FGGz๑zฌ5ํํํdษ๘๊—๗€ฤฒUCþฺฬ€nn	QQถ?QQศ?่๚jFgÞทdจ๛ฐโk฿V๑zhh๑๑๛#ณR.“*NNDVฌ5~~ฐษRdํ—ุ%ิทvํdÛ๏๏T#่$คxxcถถฺ0ง	นุaGพพพvvํÛิ
+]
+]
+]ิิzzGG
+GGสสธ/สธ
+๕
+๕	ÜS
+kkkkศ?ลrþUU
+"
+.
+.
+๊
+๊พGพพฉบบำ\
+ฯFF
+ฯ	____์์์
+u0000ฝฝ44	II	นงง$u4’3"ศ์0‘__
+F4พGzz#5dddd—aü €	€	ซ"ฬบจฬ€๗;MQศ๚qQQถ-ถฏ&FฝÛddÛ'' hv#พ๑h฿RÛ"<.dํษก<ฅ#5zKยฐ'ÛÛ—ฉ a#ขsํv
+ป2xxÝนuซฝฝcถ_c์์
+u“ฅz๑ิิ
+]
+]	D
+ปdÛKิ	ขิ
+]
+
+
+GGSส
+สส(
+๕l
+
+SS
+ฏ&
+ฏ&r"}46ะ)ก–ฬUU
+"a
+๊
+๊
+๊zz2
+C
+C\ำ
+ 
+ yF
+ฯF
+ฯ	__	่ึ์์์
+u0000ฝฝฝฝx
+า
+า000jซ"ฝฺ์00
+ฃ__44xxพG''v@ddv
+ปฉฉฉ€	€	"UU\๗;;Qศ๚ศศค	ศ&ฏแXÛRÛdย'#ํพDฉ@ÛืทํÿํลNฅ#5KิยKdd 22— ฉvํ
+ป2xfหหซฝฝcฺ•ฺcc์ฅฅz๑ป'KK
+]
+ป2ํv
+]ิ	ขิ
+]
+
+zพพสS
+SS
+ฑ
+:
+๕l
+
+SS&
+ฏ
+ฏ	8r6ÿ<ฌ5Y้1บ
+Þ
+"a
+๊
+๊
+๊
+z2	ถ	ถ
+ฯFF
+ฯ์ศr–
+ ์์์์์
+u0ง0ง0	น0ง์์ฝ
+Fฝ
+F4
+Fx
+ฃxฝ4xfซ"ึ_
+ฃ
+ฃ|ภภภIaa
+๊aด&ฟ*h!ฅdฉ	D2ฉÛd€	;ฤ	€๗nþ#.ำ&\๗nqึ-?j๓XF|๓\๗n๗๗๗฿อÿฌพ55พ๔}Kิ9ํํ฿฿
+“``๔KK9Kกกฅฅ“ฅิKKKฉ—ํdฺถ€•งx๏xx‘ิิKิิK9“ฅz๑zGGGGิิ
+ว
+วเเเเ
+ว
+ว๙
+U
+ÞU
+Þ–%<*!ม€\n?ศศ
+
+พG๑	ถ	ถ	X
+ฯF
+ฯฺ%\.โ <
+ 
+u
+u์์์
+u	น00ง0	น0ง์์ฝ
+Fฝ4ฝฝx
+ฃ
+ฃ
+ฃxฝ4xx4ฝ_	่
+ฃ‘jฝ๓II7ุ
+๊
+๊aุ=ๆ๘ษd2
+ปฉษn	;ฤ€	€ๅþc -ฏๅ€๗ฤ)แๅ-j๓4þXำJJ๗๗๗๑ —+“vพGพG}Kิิยv* —๑
+oกลKK9Kกกฅฅ““ิKยยฉฉdท๗-ถ•งx๏xx‘‘ิิิ
+]ิKยยฅzzพฌ5Gิิ
+ว
+ว
+i
+iW
+i>>๙
+U
+ÞU
+Þฬบคคถ’๗ถศศ
+
+พG
+zฅ
+r
+r
+ฯฝื&ื\\์c00งง0งงง์์00์์ฝฝ4ฝx
+ฃ
+ฃ_ึฝ
+Fxx4ฝฝฝึ_
+ฃ‘x|%Ý๘“
+๊aุaุุฉฉ22ฉ.!o\€€			;ฒÞÞฬบn๗;;	'ฏ$ึXjฝ"์!F|\๗€€พํ%ท!Rพะ]ยยิh2ฉV
+K' 9k}ยKโaaฅฅฅ“OุKยํํ a$ำคศcง•ฺ์ฝ4x๏;ฒ__ิิิK~ฅฅฅ55
+
+	ะ5ÛÿพGG
+]ิ
+ว
+วเW$๙๙
+ว
+ว”
+
+"ฬUUU๛
+Qศ`rG	ะ
+G	ะ
+z
+๊้้FF1–\\์
+u0000ง000์์00
+u
+uฝฝ4ฝ	
+ฃ
+ฃึ_
+Fฝฝ4ฝฝึ_ภ7|7%
+ฅ
+๊aa
+๊aa22222ฉÛ@๗	€๗€€ฤ;gggU€	M;?-ฤ;"Fฯ4|   n๗๗๗5ÿพะ]ิยิก฿ฉ 
+o!ฐ#'Yk9ยk}aaฅ“ฦOยKํÛ —?ศQฺถศ"ซx๏MฤึึKKิK
+.ฅฌฌGฌษ1]+GG
+]ิ
+ว
+วฮW๙
+
+ว
+ว
+
+"U
+Þ
+"UU
+Qศ	–G	ะ	
+G	ะ
+
+
+๊`้
+r
+r
+r
+rบ
+Cบบบบ
+Cบ์
+u์
+uc
+uง	น0	นงง
+าIII
+ฃ
+ฃ
+ฃ_ึ	่_ึ_c์0ง
+ุ
+๊ฅฅa
+๊ฅํd2
+ป2ฉ  €€	€๗€		€€ฤ;€
+’	€ฏ&FฝÞg4X๗n๗nฬU"hD#ฅฅ.ท]]กK]ๆิฌ5vhhVV}}}k9ิ]ๆzz๑hzh22ใ~๕9ฐKยฺc•’ nนT๏๏"4ฝฝฉ
+ป — ฉํv
+พพGพGพํ+'
+ิK	ÿ	ÿvv$$$p๙๙๙$$$Wเ
+Þ
+Þ
+"	ล**<
+Q
+Q	–
+
+
+GGGG้
+r้้้้
+Cบ
+C
+Cบบบ1์
+u์
+u์þง	นง00I
+าII‘‘‘‘‘
+ฃ
+ฃ_	่	่_
+ฃ
+ฃ_ึ‘‘c์0	น
+|ฦุ
+๊	sฅ@“—22ฉü๗๗€	n	€
+’		ฤM			€&ฯXฯแ€๗€๗จC"๑อ5พ..ท.ๆๆ]]ิย#55๑zz}}}kย]ๆ]z๑๑อ*ฦ-ด6ใ๕ฐ9Kิงงฺcงศคน0Ý๏ซซซซ22ฉü— vํ
+
+
+พพGฌ5พ#พ
+	ขิK	ÿ	ÿ	ÿํ$$$๙p$$$
+iเ
+Þ
+Þ
+"<ณ<<	–ศศ	–
+
+
+GGGGz---ค’-
+þ
+þu
+þบ1จ1์
+u์
+u00000000
+าI
+า
+า‘‘ึ_ึ_
+ฃ	่ึ___	่__‘ฤึ
+u์ง0
+า
+า
+า7ฅa
+๊ฅทฅÛํ22  €€Mฤ;ฤ;M	๗ฤ	ึMMMฒแแแแแแฏ&€๗	๗uบUz๑..rr]ๆกยKฌฌzG55ฌกกก5Gzzh 'ุ$๊ฟZ'ย~งง00งหห4ฝx๏44dํ2 ํํvvพG
+
+GพzVอDอhฌGGพิิKKvv
+ปฉเเ$$>,$$$
+iเ
+i
+i
+"
+"
+"<ณ๗n?ศ	–	–
+Q
+Q
+
+Gพz---คคuuu
+þบrcþ
+u์00000000
+าI
+า
+า
+ฃ
+ฃึ_	่_
+ฃ‘
+ฃ____ึ_ึึ‘;M์c0งII
+าI““ุaฅÛÛํํฉฉฉฉ	๗MฤฤM;;๗ๅฤฤฤฒ;ฤjXแแFX&ฏ€ๅ\\þศ#ื–.
+@rr]ๆKิG5z๑พพ5พกกกกพพzzอ)O'ุD~ยK0งง00ง0ffฝ
+Fxซซํv
+ปฉํํvv	ะGGพ๑฿!ü$๊฿พGพG
+]
+]
+]Kvv
+ป
+ปเเ$$
+วต$$เ
+iเเ
+"<ณ๗
+€ศ
+Q	–	–
+Q
+Q
+	
+Gพ!!
+%ฎฎ
+7ฎxE
+W
+Wฮฮ
+W
+ต
+ต
+ต
+ตpp็็
+o]กกÿ
+C
+ฬ*กก*C
+ฬÿ•ฺฺ?Q•••8888Q-	?&ฏ๓Xซฤ;€€”O
+ุ
+”—eÜร::รฑ6Zใ๕๙ ข"H.ผ‘,xฮEEผEผ๔ฐzษํบ1]ิกCCCบฉ2
+ปฉท(ย$]ษพGพพฅุุ์์ง์c
+u์ึึ_	่x๏ff(ฑ
+๕lll(ฑSS
+สACC๗nnnkk
+ฏ&Yโk	๔BB
+	
+ไ
+ไEEฮฮpp็ppp
+ต,ฮ
+Wฮ
+W
+ไ
+ไ	m
+ไ
+(
+(BB
+ý[Iý	ช	ช๖๖
+
+7ฎฎ
+7ฎ%%EE	
+Wฮ
+Wฮ
+ต
+ต
+ต
+ตppppๆๆ**
+ฬCก*ก*
+ฬCÿvึ_Q
+cฺฺ่•88
+ม
+มฺศถศ&ฏ๓j"""Mฤ		”O
+ุ”” —Üeฑ:ฑ:ฑฑ({6Zll^ร+(ี‘ฃฃEฮEฮxxEผก,  
+dบ1]ิCC
+ฬC
+ป2
+ปฉÛ@@dพGพพฅุ
+๊์์ง์c
+u์ึฤ;ฤfÝ๏๏(ฑl
+๕
+๕
+๕ร
+:ส	Ü
+ýSสUUCบ\ๅ๗๗kY&
+ฏkโkโ0Bý
+
+ไ
+ไฮฮ
+WEp^	๙ppp,
+ตฮ
+Wฮ
+W
+ไ
+ไ
+ไ[BB
+ý[IýÝ
+f๖๖๖
+
+๒
+๒ฎฎ%ฎ
+๒เ
+W
+W
+WฮฮE
+ต
+ต็ppp,,***	ณCCÿ]ๆ]
+oÿC1M_Qฺ•Q-๚•ฏ
+ม||•ฏฏ||gÞ"MฤMฤฦO
+
+ุO””e	๎— lใ:ร:({Zlใัp๙==l(Lี็EEผผ3ผ9z๛จvิ]บบvv	ÿํํv2ฉdํzza
+๊ุaงงง
+u
+u0งภ#%Ý๏ฝฝใllll	~
+๕
+๕สSý
+UUC๛ม๗n&พk
+ฏ
+ฏkGนý
+
+ไ
+ไ
+(p็	๙p
+ต
+ต็p	
+ไ[
+ไ[
+ไ	mýýBน[[BTÝ๖า[
+๒
+๒
+7%ฎ
+7
+๒
+๒EEผEฮE
+ต
+ต็ppp,,***กCCÿ
+oๆ]
+oÿ
+ฬ
+ฬq?ฺ•QQ•&8๓๓•88||gÞ"ฤ;ฤ;ด==ด”Üe— ~๕ฑ:ฑ:ฑ(ใใใั^^pฦฦข๕L^^EEผช3ผ๏กกK–ํÿิKํํvvํdฉ2ํdz
+a
+๊a
+๊งงง0์์งm)f6•5•๏44ใl
+๕ใlll	~	ÜSý๋ูtUU,4๛&UJๅะk&&	๔โนBtý
+ไ
+ไ
+(	p	๙	๙p	>,p็
+(
+ไ[	m
+ไ[
+ไýýBนา
+ไ	ห;ฒt!	ูP%
+7ฎฎฮฮE3:^p็,
+ต	๙	๙	๙p็็ๆๆๆๆ*	ณ
+o
+o
+o
+oๆิ***กq๚•|๓||Q
+c••ฏ8||Qถ?Q8
+ม๓|gÞซ""""ซhhhอ $ญ:ร::  Üe——SS(๕^๙็3EฮExชEผีรLีๆ]KฐdÛdvK]ิ'&DzKิย9ฐKิKzhz
+๊aฅ์์c
+u์
+uง%2์1ufซ4SS
+
+สส
+ฑฑใ6"ร(^ธฬบฺ+ำ4๛,1*&&&&&	8
+ฏ
+ไ
+ไา[ýý
+ý
+Wฮ
+ต,
+ตฃ,,
+ต
+ต[[[[
+([
+ไý
+ý
+	m;ฒ!!วP
+•
+•ฎฎฎฎเฮฮผL^็p,
+ต	๙	๙p็ฑิๆๆๆ*	ณๆๆๆๆๆๆ**ก*•|๓๓๓ศฺ••8
+ม||Qค	Q8
+มj๓
+๐gซ"ซ"๑๑฿D 6ญร
+L:(—
+ฉÜS——สสฑ:ขใL
+EEEผx๏tผE็รฑLKิิ]ÿdvvยิ]ยzย]ย9'ยย9๑๑zaุ“์์์์
+u์ง0ไÝ๏ฝ4ส	Ü
+
+SS
+ฑฑlญ2เ8ผ2เฬฬuฺฏกณ&&&&
+ฏ
+ฏ
+ฏ	8[[[
+ไýýýtEฮ	>
+ต,,,,
+ต
+ต[[
+ไ
+ไ
+(	m
+ไ
+(ý
+ý
+[๖Ý
+f!!วPPวi
+๒ฎ
+7‘‘
+ต
+ตฃppp^"เยๆ***]
+oๆ
+o**ๆ
+oก*•๚8ฏj๓•••๓|ฏ8ฺศ?Q8
+ม88ซ"ซซ
+๐UฬUh๑ญญญญ
+z๑๕~~๕— —Üส…Zใ~~๙็p
+ุ
+ุEฮEE3!#>tTฃ‘‘‘ิ]]ๆvษdÛฐ]]}กก~ยฐัฟ#พพ5
+•ง0์
+u์์‘ซ4xxสสSSSS
+
+
+๕lฑ{*4W+ฬCบCกก๗๗&
+ฏ	๔	๔&
+ฏ&	8BBtýฮฮ	ฮ
+W	>
+ต็็,,	>,
+ไ
+ไ
+ไ
+ไ
+(
+(
+(
+(
+ไ[
+ý
+
+๖Ý
+f	ชPวPว
+๒	{
+7ฎ๏๖[[ฃ
+ต
+ตpp็็L:K]กก**ๆๆิ]**ๆ
+oก*	ง๚)๐ฏ|๓•••|๓ฏ8ฺฺฺฺฏ888ซ
+4ซซUจ๛–D๑6666
+z฿l๕~๕—๊sSS—üZ๕~~pp๙OOEฮEEผชý๋Bfฃฃฃ‘ิ]ๆ
+oÿRÛRz9ิๆกกกก~9๑)Ü$ พพ5๘;ฒง์
+u
+u
+u
+ฃ4ซxxสสสสSS
+
+
+๕lฑ”็AUฬCฬกก๗๗&
+ฏkk
+ฏ	8
+ฏ
+ฏBBtýฮฮฮ
+W,
+ตppฃฃ,,
+ไ
+ไ
+ไ
+ไ
+ไ[ý
+ýý
+•
+•
+•
+•!ÝÝ
+ฤ;ฮผ!!Ýp็p	๙ะYYะท.rr]ๆก*
+ฬ
+ฬ
+4ซฺCg
+๐
+๐88
+|•qคQ
+’	
+’€;€		งฺฺ๚ 2ซ2ซ sV๑๑””ฦขฦ”$ญอV฿h$ฑ็Oฦดด^ี+Oฮฮผผง0ง000งz
+
+zฐKKิ**กก
+๊ุh …0ข*ฦใKKิKยฐ ‘ึึ	่_	[I
+า
+า
+าI
+าI$เเต>>ต>>๙wkkYโ้้??
+ÞU
+"
+"BBBBBBý
+
+(
+ไ
+ไ,
+ตp็ฮ
+W	หB
+
+
+ýB	หýýBB
+(ฮ
+•	
+•
+•
+•!ÝÝ
+ฤ;ฮฮEEp็็p	โY	โY
+@ทrrๆ]ก*	UCซ"Þ
+๐
+๐
+๐88j๓•คQ	
+’
+’€)๗€•ฺฺ)58,+Dhhฦฦ=ฦ$ญV฿h๑6^pOฦฦด็ lฦฮฮxEE0นBนนนBน]ิ]ิ**กกฅฅaa฿Dปฉl~KKKยKKึM‘ึึ_ึ	[IIII
+า
+าIเเต>
+ว>ต
+ว๙$$YYYโ๛๛ศศ
+ÞUนน	ห	ห
+(0B
+ý
+ไ
+ไ
+ต,p็
+Wฮ	หBt
+ý
+B	หýýBB
+(
+WPPPวPP!ÝÝ;;	
+ต
+ต,,ฮฮ	โY
+ท
+@ทท*	ณ*ก
+ÿCCซซซซ
+๐g||j๓•QฺMM	€);;ฤฺฺ••่ &๓—V$ญ””OOh฿$ญญ6๑hฦฦ
+ุฦ๙L็””Eฮฮผtýttýýý
+ะะกกกกก*ๆๆฅฅ
+๊a#zhZฟยKยKKิึึ_ึ
+ฃIII
+าI
+า
+า
+า$$เ
+i
+
+เเ
+i
+iะ#ะ???
+Q
+"
+ÞUU
+Þ
+ýB	หฎึt
+
+ไ
+ไ
+(
+ต,็pฮEฮฮBBBBBBB	หýýýý
+ไ
+ไPPวPPP!
+fT๖
+
+ฤ
+ฤ		>,,ฮฮY	โท
+@ทท*	ณ	ณ*
+ÿCCซ""
+4ซซ
+๐g|||๓•ฺQMM	€;ฤMQ
+c••๚q฿hญ6
+
+””OOh๑$ญญ6
+z๑OOฦฦ๙””ผEผผtý๋๋ýýtýzYGกกก*K]aุ5zz๕lยKยKKิึึ	่_
+ฃIII
+าIภ
+า
+า	ญ	ญ
+iเ๙
+เเ
+iWG"Û!d5-?
+Q
+Q
+"U
+Þ
+"ฬU
+ýนBฎf/แ(ูý[[
+(
+ต,็p
+WฮฮฮBB	ห	หBBB	ห
+
+ýý
+ไ
+ไ
+•
+๒
+๒i
+๒
+๖
+ฤ;;
+ฤ
+ฤ
+ฤEฮฮE
+W
+W
+W
+W
+ตฃ^็
+`r
+๛r
+กกๆๆ€		
+’€
+’€€•
+cQ|๓8ฏ€	
+’€""ggฺฺ•ฺQญญ6ญ”
+OO
+ุO6ญ๑๑๑	66
+ุฦฦด็^๙=ฦฃ‘‘^็^ีPูIาG#พท..บบ]ๆยิ
+
+O=d#5vํddยิึ_‘‘ฝฝxx์ฺ?ฺ
+i
+i
+iเฮเ$๙
+ว>๙
+ว>Yโ	๔โๅJ*<๗ำ<	หนýýB	ห0•ฃPý
+ýBนฮ
+Wฮ
+Wpp,,นB
+
+BB
+
+
+
+Bน
+ýý
+p	
+•
+๒
+๒
+๒	{;
+ฤ	M
+ฤ;)ผEฮE
+W
+Wฮฮ	>,็p	
+
+ฌ`r
+๛rÿ**ๆๆ	
+’
+’	
+’
+’€€•ฺฺ
+|8ฏ€	
+’€ซซggฺฺ•
+cฺ666ญ”OO	aฦ6ญhh๑๑ญญ
+ุ
+ุO=^ร^ด=‘าภ(ี็Lฃ๚๚Iาะพฌพ.ท..จ11C]ิยฐยฐ+=ÿฌํdddKK_	่ฝฝxxฺฺศcเเเ
+iเเ$
+
+ว	P
+>
+ว
+ฏ&
+ฏโYkknๅณ	ล๗ๅกณBBýýB	หBนb๋bý
+ýBนฮ
+Wฮ
+Wpp,,นBýýBBýýýý	หBtูtýpPPฎฎ
+๒
+๒
+ฤ
+ฤ;	M
+ฤ;๖าฮฮฮฮผฮฮ	๙p
+ต
+ตฮฮฮฮะะท
+@
+@
+@C
+ฬ๘ๆๆ
+o		MMMM	n••
+ม
+ม|๓M	ึ
+’	""ซซQQ•
+c
+c
+cฺ6ญญญ
+ุOOO”6$hhญ6h๑”OOpLีOOpmI-Ý2B#‘•่วPIาะYGYท
+@..vÿÿÿ]K}โ#9ฦุ๑hÿฉ22ฉKิิK__‘xx
+u์ง0
+Wเ$เ
+i
+ว
+ว
+ว
+ว๙็p
+&&&&&&&&ณณๅ๗๗๗๗๗ý
+BBBBนนýýýtBBBB	๙	๙
+ต
+ตBBýýýý
+ýน	ห
+ýbวtý,PPฎฎii
+ฤ
+ฤ
+ฤ
+ฤ
+ฤ;mชฮฮฮ
+WEฮฮ	๙p
+ต
+ต
+W
+WฮฮYYท
+@
+@
+@
+ฬC
+o
+oๆ]		MMฤฤ€๗่	ง
+ม
+ม|๓M	ึ	
+’""ซซQQ๚ฺฺฺ
+c6ญ$$ฦO””OO6$hhญ6๑h”OO๙p็=O
+p๖า*๏2B%,,น๋tา[ะYะะท
+@ททÿÿÿ]]oaaz##ฉ22ฉKิิK__‘xx๏์
+uง0เWWเ>>>,๙๙๙
+ฏ
+ฏ&&
+ฏ
+ฏ&&ณ8ๅ๗
+€
+€ý
+นนBBBBýýýtBBนนpp,,นนý๋bb
+ýBBý
+ýttý
+ตฎฎววPวPPPPนนBน
+(
+(BB
+	
+
+นBp	๙pp,ฃ,ฃ
+๐
+๐
+4ซซซggศฺ
+c
+c•ร
+LeÜ —$——฿๑๑๑6$ญ””
+ุO๑hVVฦO=ขฏ๓๓•"gg""ซ{0ý
+ýýtt๋๋000นýý[[
+ตฃฃฃฮEx๓๓III
+าII__ึึ‘
+II์์c์ึึ‘
+ฃ((
+๕lสAAS W
+i$$
+"
+"U
+Þ
+Þ
+Þ
+"ณพโก<
+€
+€
+ฬ
+ฬvÿ
+ฬ	U
+ฬ
+ฬ**ก*,,pp
+W
+W
+ต,L!i๒ฑ^
+	'YะYY
+ฎฎPPวPPPPPนนBนBB
+ýýýนB%p	๙็็,ฃ,ฃ	y	yซ
+4ซซ
+๐
+๐ฺฺ
+c
+c•ร
+LeÜ—w ฉฉVh๑๑6$$””O
+ุ
+z฿ üดO($,rÞแ๓๚•"Ugซซ""าI0นý
+ýýtttt00ง0ttาา
+ตฃฃฃEผfห๓II
+าIII__ฤึ
+ฃ
+
+า
+า์์์cึฤภไ‘
+ฃ	,((lใ/ฆAS$เเ$$
+ÞU
+Þ
+Þณณกกณ<
+€
+€
+ฬ
+ฬÿC
+ฬ
+ฬ
+ฬก	ณ*	ณ,,็	๙ฮฮ
+ต,0:P8ู0(
+Y	โYY
+เi
+•
+•
+•
+•PวBBýýฑý
+
+týýýý		
+Wฮ	๙pp็pppp
+๐
+๐ซซซซซซ••••ฺ
+cฺฺ	ร
+LeÜ—……ปV฿ญ6ญญ๑๑฿hฦ
+ุO
+ุ๑฿wS=O+0&8••""Ug
+4ซ""าานง๋ýนนนนýtt๋•๋๋{,
+ต,,fÝึ_	่_ฤ_ึ	่
+
+งงc์ึ)'๏"‘
+ฃฑ(ฑต๋เW
+iW$เเU
+ÞUU
+Þ
+Þ
+"<<ณ<ณ<๗
+€
+ฬC
+
+ฬ
+ฬÿ	UC
+o
+o**,
+ตp	๙,ฃ{8ูB_B_:P๒พGะะฌพะ
+๒i
+•
+•
+•วPBBýý
+ýýýýý
+
+
+Wฮp	๙p็็	๙pp
+๐
+๐"
+4ซซซซ••ฺ
+cฺฺ~ร
+LeÜ  Dอhญ6ญญ
+z
+zh๑O	a
+ุO๑฿ฦฦด"ฯ&8•	ง••ซซgg
+4ซา
+ไนน๋ýนนนนýtýb๋ý๒{ฃ,,,
+ึ__ึึ___ 
+
+งง
+u์Mฒ7I‘‘
+ฃฑ(ฑ(ู>ý
+iเเเ$เฮบCUUU
+"<<ณ<ณ<๗
+€
+
+
+ฬCÿ
+ฬ
+ฬÿ
+ฬบ]
+o	ณก,
+ตp	๙ฃ-!<?q7b๒5ะY5dG	{i
+•
+•
+๒
+๒ฎฎ[
+ไ
+ไ[	หBýt
+(
+([	mฮฮฮฮฮฮฮฮMMMM			ึฤ88
+ม8ฺฺ
+cฺee
+ฉ 
+LรSอVฦฦO
+ุ
+z๑h๑
+
+OOญhhแjฏฏ|
+||
+’
+’	€
+๐g[[[[าานBนนýtBงงนนBtt๋ูxฮฮผEIIII4ฝฝฝึ_	่_	น0ccง0งM;)M
+F
+F(ฑ(ฑt
+
+iเW
+iเฮ8n๗
+"U
+ÞU
+Þ
+ÞU**]
+oๆ
+oๆๆC	U
+ฬCิๆๆๆฮ
+W
+WEี^ไ%q+M•f.
+@r
+๛r้ืื.
+๒
+๒
+•
+•
+•
+•
+๒
+๒ฎฎ[
+ไ
+ไ[	หBýt[	mฮฮฮฮฮฮฮฮMMMM		ฤฤฏฏ8ฏฺศ
+cฺee	2
+ฉ
+Lร$eD฿ดฦO
+ุ๑hh๑””””๙็ฦ
+ุญญ๑๑|แ&8|
+
+
+		
+’	
+๐g"[I[[IIนBB0๋b•งนนBýýู‘B
+WEx๏ผEII
+
+II4ฝฝฝึ_	่_งฺศงง0ึึึึฝฝฑ(
+เWเเเฮ\ๅn๗U
+Þ
+ÞU
+ÞU**ๆๆๆ
+oๆๆ
+ฬ
+ฬC
+ฬๆๆๆๆฮ
+W
+W
+W^็ฃฃ๏Ý๏ทท
+๛r
+๛	rr
+@
+7
+7
+•PPPPiiฎ%[
+ไ
+ไ[
+ไ
+ไ
+ไ
+ไBBBน[
+ไ[
+ไฮฮEฮ
+WฮMM
+’€;ฤฤ)ฯ๓ฏฏ••ฺฺ   
+ฉ$=OO
+ุ6ญ๑
+z
+ุ
+ุOฦใp”$66	ฟ๓j๓|๓๓
+|		MM
+๐gÞÞ
+([[นนýýtู!๖qนt
+นน๋ว๏ฮ3๏x3ผ||
+าIxxฝ4์์Q?์c์c‘
+ฃึMฝฝฝฝlใHH
+$$$$
+i
+i
+iเ๗
+€n
+€
+ÞU
+"UU
+"UU
+"ๆๆๆๆกก
+oๆCC	U
+ฬๆ
+oกกฮฮ
+W
+W		pp็็EE
+@ท
+@ท.ท.ท
+๛ฎฎ
+•ววPPWE%ฎ
+ไ[[
+ไ
+ไ
+ไ[[BBBน[
+ไ
+ไ[ฮผEฮฮ
+WMM	๗ฒ4jฏฏ••QQ   
+ฉ		~~ญญญญฦฦฦO6ญ๑
+zOOOฦดข๙66ญ6๓X๓|๓๓๓|
+’
+’ฤฤgÞCUi[[นนýýtู ,7ฤ0ttนนý๋ฮE3ผ|Xj
+าI||ffซ7[‘์์
+uc์cศ?ฤMฝฝฝฝใllZ$$เเ
+iเ๗n๗๗
+Þ	g
+"UUþUU]]ๆๆ**
+oๆCCCบ
+oๆ	ณกxฮฮ
+W
+W	๙	๙	๙็ฮฮ
+@ท
+@ท.ๆ`ฎ%Pวววiii
+๒ว,PP[[
+(
+([[BBý
+
+ý
+ýฮE็^ฃ
+WฮÝฮฮฮ
+๐
+๐ซๅn;ฒ•ฺฺ••SÜ
+ฉ
+ฉ:รรร๕~ร:~~6ญญ6
+ุ
+ุOฦฦฦ””””QQQฺ•••	งQฺ8ฬyExภttý
+ppp็ฮ3ฎาttýýB	หýtBงM|;
+FฝfT่M$1F)๓?ฺ์c์์
+|_ึ‘‘__๙๙pp๙>>WเWเเ
+i๗๗<<
+Þ	g
+"
+"ฌGYะะ	โ
+๛rทท
+@
+@
+๛้็p็็
+ต
+ต,,
+(
+(
+(
+ý
+
+
+
+จN0โ+อ
+7ฎวPPP
+๒
+๒i
+๒Pววว
+ไ
+ไาภBBý
+	tý
+ฮ
+Wี(ภฮEน Pชฮฮ
+๐
+๐ซซ	€ฤM••ฺฺ•๚_/Ü  :รรร~
+Lร~~ญ66	ฟ
+ุ
+ุ
+ุOOO””
+ฺฺQฺ••••Qฺ&Þy๒7๋๋tý็็็pฮEผE[[ttýýBนýtนงฤฤฒMฯ
+Fxf๚;%ฤ%$ศc์ccc
+7ฎMึ__๙๙๙>>เ
+i$เ
+iเ
+innณ	ล
+Þ	g
+"ซ
+"พ	โGะ	โz
+๛r
+@
+@ททrr	๙ppp
+ต
+ต,,
+(
+(ý
+
+
+
+ÿ ล2Y2Yฉ
+๒เวPPวฎ%ฎ%
+•PP	m
+ไ[
+ไ[I
+ýB	หBBนนEEฮฮฃm"เ:Eชผซซ"ซMM
+’
+’
+cฺฺQฺQฤ)แ'๕ü——::::~~~~๕ร:ญ6
+z
+z
+ุO
+ุ
+ุOO๙pLp”ฺฺQQศศQQแ4ฬูbนน,ฃ็็ฮE[า
+ýBนBนýýน0ýt‘ึ_x4ซ่•๚ง์cงง	[Iึึ___	่__๙ต,>>๙เเเเเ
+iเเ<**<
+"
+ÞU
+Þ
+ÞUUพะ	โYYYะพrr
+@
+@
+๛	..ppฃ‘
+ต,pp
+(
+(
+(
+(BBนB
+
+ÿÿÛฅ๑
+๒ฮวPPว%ฎฎ%
+•PP[
+ไ[
+ไ[[
+(ýt	หBนนBBEE
+W
+W
+ตฃL^
+WฮE
+Wซซ
+4ซ	ึฤ		ฺ
+cฺQฺQึ)แ#s  รร::~๕๕lร:6ญh
+zOฦ
+ุ
+ุฦฦี^รี”??q;_ศค€€?jแ&ูbน	ห	>ฃี็Eฮ	[าýtนBBนt
+Bนýt‘ึ_๏fซ4?Q•0งc์งง
+า
+า_M__ึ_ึึ๙,‘,,p๙เเเเWเWW<<<<
+"U
+Þฬฬ
+Þ
+Þะะ	โYYY	โะ
+๛
+๛ททr
+๛ททppฃ‘
+ต,pp
+(
+(
+(
+(	หนBน
+ÿÿํvPว
+๒iฎฎ		ý
+	หB[าBB
+
+
+WฮฮE	
+W
+WฮฮEฮ€		€Mฤ€€•ฺฺ•’ \ั๕~~ 
+ฉ
+ฉ 
+ฉ
+ฉ —SSSSOฦฦO
+”ญญppฦ=þFXฝXแ".F14'ฏj๓ฏ
+มนนBBt
+
+WฮEฮฮฮ
+Wฮýýýýt
+
+ý[[าาfซซþ์ÝÝ๓ภ
+า๓ภภII
+า
+าI
+าx๏44
+ฃ>
+ว>ตp๙>>
+iเ
+ว>๙๙U
+Þ
+€
+€๗๗n๗nๅUU
+"
+YY
+@ท
+๛
+๛
+ท.
+๛r
+(
+(	m
+ไ
+(ๆๆ	ณ*CCÿ
+@วP
+๒i%%
+•
+•
+		หB
+ไ[BB
+
+ฮ
+Wฮ
+W
+W
+WฮฮEฮ	
+’€	ฤ;€€•
+c
+c•ค’l~~	 
+ฉ 
+ฉ	2 —ÜÜสฆ(pฦ+ดO”66ญญ=ด(ศ"jj๓แ"4"9þ3g๗แ|88BBนงqqttฮEEฮฮฮEฮýýýý
+
+
+ý[[าาx๏44uff
+า
+า|jภ
+า	[I
+า
+า
+าIxฝฝ
+ฃ
+ฃ>
+ว>
+ว
+
+วต
+iฮ	ญ
+ว>U
+Þ
+€
+€๗๗n๗n๗UU
+"
+YY
+@ษ
+๛
+๛
+.ท
+๛r
+ไ[
+(ๆๆ	ณ*CCÿท	
+๒i%ฎPP>	ู	หBý
+
+ไ
+ไ[
+ไ
+ไ[
+
+
+ý
+W
+W
+Wฮฮ
+W
+W
+W
+Wฮฮฮฮฮ	
+’	€ฤฤ;ฤ••	งศQฑ
+Lร
+L —Üe  ————สธด^็ฦO66
+zh””OOyXj8ฏ&y!ำ)& \ถ||||	หนB0วว0นฮExýýน0[
+ไ
+ýýt
+ไ[[[xx๏xซ"4ฝIIภ
+า	[
+า
+าI
+าIxxx_ึ๙
+
+๙
+ว>เเเ
+i
+ว
+ว๙U
+Þ๗๗
+€
+€<ณ				
+ÞU
+"
+
+YYr
+๛ท
+@YY
+๛r..
+W
+WฮE
+(
+ไ[[
+ไฑ**
+o
+oCC
+ฬC	
+•
+•	{
+๒ฎ
+7PP
+•
+•
+•วPB	ห
+	
+ไ
+ไ
+([
+ไ
+ไ[
+
+ý
+ฮฮ
+WฮฮEE
+W
+WฮE
+WE
+W	
+’	€;Mฤ;	ง••Qฺร
+Lร
+L
+ฉ Üe
+ฉ
+ฉ    SSฦO”O
+ุ66๑๑
+ุ
+ุ88๓๓
+ม88ถ-ถศ||||B0นนý๋0น
+Wฮ
+tน0[า
+ýýt	m
+ไ[[xx๏xฝ4ฝ
+F
+า
+า
+
+า
+า	[
+าภII
+าx_ึ๙๙
+
+	P
+วเเเW
+ว
+ว
+
+ÞU๗๗
+€
+€<ณ
+€
+€	g
+Þะ	โ
+๛r
+@ท	โะ
+
+
+๛r.
+@
+WEผE[
+ไ[
+ไ
+(
+(**ๆๆCC	U
+ฬ	——99'9————๔๔99
+ต	>
+ต
+ต	๙pp	๙ฮE็p็	๙pp็pฮ
+Wtýนน[[
+Yะr
+๛ท.กก*	ณC
+ฬý
+Bน
+ไ
+ไ[[BBýý[	m
+(ýýBB
+ต
+ต	๙ptttýา[า
+ไนงนน{EE‘็็
+
+นน
+(ÛÛdํิิิิฅฅฅฅฅaa			xTxฝฝ__
+ฃ
+
+:
+:
+๕	~$เเ>
+ว
+
+<<<<๗๗<	ล
+€๗<ณ
+"
+"
+Þ
+ÞÿÿÿCC
+ฬ
+ฬ
+YYะY
+๛rทฅ`้
+@.ิ]ๆๆๆ
+o**
+o
+o**
+ฬC——ฐฐฐฐ————๔๔99
+ต,,,p็็pฮ
+Wp็ppppp	๙ฮ
+Wýtนน
+ไ
+ไ
+	โYr
+๛
+@ทกก*กÿ
+	U
+ฬtýน0
+ไ
+ไ[[นนtt{
+ไ
+ไ
+({WbtBB	,,p	๙ýýtýIา[[นนนนผฮEETI[ี็ýýBBเ๘ษKKK
+]ฅฅฅฅฅ
+๊
+๊xfxxÝ๏ฝฝึึ
+ฃ
+ฑฑ
+๕	~$เเ>
+วณณ<<๗๗<	ล
+€๗ณ<
+"
+"
+ÞฬํํÿCC
+ฬ
+ฬ
+YY
+
+	โY
+๛rททr
+๛
+@.]ๆๆๆๆ
+o**ๆๆ**
+ฬC
+Û
+Û9ฐ	ย9Rษ
+Û
+Û99	ย9p็p็,,ีp
+Wฮี^^ี,
+ต
+ต
+WฮýýนB
+ไ[
+YY.ท
+@ทก*]ๆ
+
+ýýBB
+(า[00b>fฎ
+ไ[[[เ๋ýýý
+Wฮp็็pBBนนนนนBาภภIผ!fฮเฮฮ๏ง,fภ‘,Bนýtาภาภs=!o.~Kิฅa
+๊
+๊
+๊ฅxÝÝ
+F
+Fฝฝฝฝฝ4‘
+ฃ
+SS
+:(
+๕
+๕$$
+ว>๗๗<<๗
+€๗๗๗๗*ณ
+Þ
+ÞþuvÿCCC1C
+ฬะ	โ
+
+
+	
+๛
+@ท		
+๛r]
+o
+oๆๆ
+oๆ
+o]
+o
+oๆÿ
+v
+Û
+Û9ฐฐ9
+ÛR
+Û
+Û99	ย9p็	๙p
+ต
+ต็p
+WผรL,
+ต
+ตฮ
+WýýนB
+ไ[
+(
+(
+YY
+@ทท.ก*
+oๆ
+ÿýýBB
+(
+([
+ไ00ูว%7[า[[ýýýýฮ
+W^็p็งง00น•ง0[[
+ไ[EชÝ
+W
+W
+W
+WÝา๖ฃBนýt7%าาฉ—RÛิKฅa
+๊aa
+.ฅx๏ffฝฝฝฝฝฝฝ4‘‘SSฑฑ
+๕
+๕$$๙๙
+ว>๗๗<<n๗๗๗nnก<
+Þ
+Þ
+
+ฬ
+ฬCCC
+ฬ
+
+YY
+
+
+๛	
+@ท
+๛r้
+o
+oๆ
+oๆ
+o
+oๆ
+o
+oๆ
+o
+}๔
+Û
+Û—
+ÛRR
+Û๔๔๔๔pp
+ต,,,,,
+Wผ๒{ฃฮฮp	๙็pBนBB[	m
+
+๛r
+๛rC
+ฬÿ
+ฬCบC00นนý
+ý
+BB
+tttBนนBนB
+ไ
+ไ[[
+ýน0,,็็‘ฃ
+ตฃ๒EฎาtýBB[ภ[า
+(
+(EEEผ
+W
+Wx‘^ี[าI7
+(KKิิ
+.ฅ
+๊
+๊aa44x๏MMึ__ึxxฝ4สS
+
+:ฑฑฑ
+ว>๙Wเ$U
+Þ\nn๗ฬUUUUUๆๆ
+oๆCCÿYYYYทท``	'	'
+
+๛
+๛ทท	ณกิ
+o]
+o
+oๆบ
+ฬCC*๔
+}
+Û
+Û
+ —	dษR
+Ûk
+}๔๔pp,ฃฃ
+ต
+ต
+ต	ฮ
+WLีฃ,EEp	๙็^น0นน
+ไ
+ไ
+
+r้r้บC
+
+ฬCCบ0BB0tý
+ýBB
+t
+(
+t0นนBนB
+ไ
+ไ[[
+ýง,,็็,
+ตฃ{ผ7[ýtน	ห
+ไI[า
+(fผEชEE,ฃ^ฑ๒[า[[ิิิิฅ
+.
+๊
+๊aa
+44x๏ฒฒ_ึ_xx4ฝS	Ü
+(ฑ(
+:
+ว>๙
+iเ$
+"U
+ÞnnๅnU
+Þ
+"
+Þ
+ÞUUๆๆ
+oๆCC
+YYYYททณ"k฿
+
+๛
+๛
+@
+@**]ๆ
+o
+o
+oๆC	Uบ
+ฬก99——
+ÛR
+Û
+Û——k๔๔
+}	๙	๙
+ต,ฃ,
+ต,ฮ
+W็็็p
+WฮEEpp็็ýýýýYYYYททท.
+ฬ
+ฬ
+
+ÿCCý
+
+
+นนý
+BBBBB••นนBBน[
+ไนนึรpppp	๙ฃtýý
+าI[
+ไ[[ฮชÝEผEE
+ต,็:๒าา
+ไ[
+]
+]
+๊
+๊ฅ
+.
+.“44๏๏ฒ!X[___ึฝฝ4
+F	ÜS
+
+ใ
+๕l
+๕>>
+p
+i
+i
+Þ
+Þณณกซ**ก*CCYะ	โะ.
+@“ๆh
+@ท
+@
+@ก*ๆๆ๘
+oก*
+
+
+C
+ฬCC
+o9'……ษRRR——
+}๔k๔็	๙
+ต,,
+ต
+ต,
+Wฮppp็ฮE
+WEpppp
+
+ýýYYะะททท
+@
+ฬ
+ฬ
+
+
+
+ฬ
+ฬý
+
+
+นนtýนนBBBง0นBนB
+ไIBBงL็ppp	๙ฃภ,•"Týtý
+[
+ไ
+ไ[[[ผผEฮEE
+ต,pี{าาา[	ข	ขิิ
+๊
+๊ฅ
+.
+.ฅฝฝึฒ[__	่_ฝฝฝฝS	Ü
+
+llใl>>
+
+i
+i$$
+Þ
+Þ<<**
+"
+"**ก*
+
+C	UY	โYYททฅ.ท
+@ทท*กๆๆ
+oๆก*
+
+ฬ	U
+ฬ
+ฬ
+o๔kzVY๔hh	๑	๑
+N
+N
+BB
+ý	m[
+ไ
+ไ
+ไ
+ไ
+ไ[ppppฮฮ
+Wฮppฃ
+ต,ฃ็	๙ÿÿๆๆๆ
+o
+๛
+๛r
+๛
+๛
+๛.ทB	ห
+
+
+ไา็็	๙p
+ต,,,[า[ฎI[[[ฮฮฮฮBxI[นBý
+,
+ต
+ต
+ตฮฮ[[
+ไาI
+ไ[า•q>๋า[[[‘๖z
+Gพzzvํvvvํvv00	นงง•ถc4ฝฝ
+F‘
+ฃ
+ว
+ว$ฮ
+iเW
+i๒
+ว>บU
+Þ
+Þ๗๗<ณþþ
+oๆกก*	ณ
+o๘Y	โY	โ
+GYY	โ	โ	โ
+rr้	ะ	โYY**๘
+o***ก
+๛โkโ
+}hh	๑	๑ลล	“
+BB	
+
+ไ
+ไ
+ไ
+ไ[[[
+ไppppฮฮฮ
+Wpp,,,ฃppÿÿๆๆ
+o๘
+๛
+๛r
+๛
+๛
+๛.ทนBýý
+([[pp	๙p
+ต,,,[าา7าา[[
+W
+WฮฮIIาภ0นý
+
+ต,,,ฮฮ[[[[า[าI๚% ๋
+ไ[
+ไ
+ไ‘ภ&าh
+Gพhzํvํํvํvv0000ง•ฺ
+u4ฝฝ
+F
+ฃ
+ฃ
+ว
+ว$WเเEฮ
+i
+ว>จU
+"
+"UU
+€
+€<ณ์ศ
+oๆกก*	ณๆ
+o	โYะY
+พะY	โYY
+rrrYYYYก	ณ
+oๆกกกrโkฐฐ๔๔฿h
+ฌ
+ฌ
+N
+N	“	“
+ý	หB[
+ไ
+ไ
+ไ	m[
+ต,ppฮ
+W
+ต
+ตpp,ฃ
+ต,CCบC
+oๆ*	ณ
+@ททท
+@
+@rrý
+น0[[[[pp
+ต
+ต
+ต,
+ต
+ต
+ไ[[
+ไ[
+ไฮ
+W
+WE{0นBB,ฃ,,
+ไางูý[[
+(ฮฮี%ฮ3น*๏2z
+Gพ#พvv22vvํv00์์ง•ฺ์xxxึ___
+
+ว
+วเเ$ww
+ว
+ว
+ว
+ว
+ÞU
+"
+ÞU<<ณณฬบ
+oๆๆๆ**
+oๆYYYY
+	'
+
+	โะทท
+๛
+๛YYY	โก*ๆ
+oๆ
+oกกr๔k99
+}k฿h#	5
+N
+N
+
+
+ý	หB[
+ไ
+ไ
+ไ[[
+(
+ต,ppฮ
+W,,็็,
+ต	>
+ต
+ฬบ
+ฬCๆ]กท.
+@
+@
+@
+@
+๛
+๛ý
+นB[[
+ไาpp,,,
+ต
+ต
+ต[
+ไ[
+ไ[
+ไฮEEEBนBB
+ต,
+ตฃ[[0๋ý[[
+(EE^/T8,=฿
+พG5พํํ22vvํv00์ฺ•_๗?fxx_ึ__๙
+ว
+วเเ$
+ว
+ว
+ว
+ว
+ÞU
+"U
+Þ<<<<UU
+"
+"
+oๆ
+o
+o**
+oๆYY
+YY
+	'	'YY
+@
+@
+๛
+๛YYะY*ก
+oๆ
+oๆ**
+๛
+ 
+ 99
+}๔
+
+ลล
+ฌ###
+(ýýBB
+ý
+
+
+(
+(
+WEฮEEฮ็p็p
+W
+Wÿ
+ฬ
+ฬๆ
+oๆ
+o
+๛rท
+@
+๛r
+๛r
+ไ
+ไp็็็็ppp
+([[[[
+
+ýýýý
+
+E
+WฮEฮฮนนBB
+ไา
+ไ
+ไ
+Wฮ,,ฃ,ýý
+t00Bน0๋tBBBB
+ต,
+ตฃÝ#๚1)&
+๊
+๊ฅฅaaํv
+ป
+ป
+
+ภ7๓ฝÝึึ
+ฃ
+ฃฝ4$$เเ๙
+๙๙pฮฮ๗๗		
+€
+€๗*<
+€n๗
+€
+ฬ
+ฬ
+C
+ฬทท
+@
+@r
+๛ท
+@ท.
+๛
+๛
+@ททท..`rๆ
+o
+oๆC
+ฬ
+ฬCY99
+}๔
+
+ลล
+ฌ#
+ฌ
+ฌ
+(
+
+BB
+ýýý
+(เฮ
+Wฮผ
+Wp็็pฮฮ
+
+ฬ
+ฬ
+oๆ]ๆ
+๛r.ท
+๛rr้[[
+(
+(p็pp็pppา
+ไ
+ไ
+ไ
+
+ýýýýýýE
+W
+WฮEEBB	หน[7า
+ไ	ฮE,,,
+ต
+týýนนBนนงtý0BBB,ฃ,,xÝ0o“aaฅฅ
+๊
+๊v	ÿ2	D
+าI|ฎ7ึึ
+ฃ
+ฃฝ
+F$$เเ๙
+๙p็ tn
+€
+€๗๗
+€ณณ
+€
+€
+€๗
+ฬ
+ฬ
+C
+ฬ
+
+
+@
+@ทท
+๛rท
+@
+@ท
+๛
+๛ท
+@ทท.ณ้ๆ
+oๆ
+oC
+ฬ	U
+ฬะ—
+}
+}	ย9ลล	5
+ฌ
+ฌ	5
+ไ
+ไา
+ไBBนBý
+
+
+[
+ไ[[ฮฮฮEฮฮ
+ตฃ็็xฮECC
+
+oๆก*้้
+@ททท.[
+ไ๒[
+ไ
+ต,,
+ตp็pp[าาาา
+ไ[
+ไ	หนBBน0Bน3ผE
+W
+
+นนEฮฃ,็็นนýttýýtttนนB	ห
+
+pppp
+WExุุฅ
+.ฅฅ
+๊
+๊ิ
+]vv
+ป
+ป	[I
+|๓‘
+ฃ4
+F
+FฝW
+i$
+
+
+ว
+ว๙w"”"”ๅ๗
+€
+€<<n๗
+€
+€
+€n
+Þ
+Þ
+ÞUบC
+ฬ
+ฬ	'YY		
+๛
+๛
+๛r
+๛rrrท
+@ทท.ทrืณ้**
+oๆ	UC
+ฬ
+ฬY—
+ 
+}
+}9	ย
+
+
+N
+N
+ฌ##
+ฌ[[[[นนนB
+ýýý
+ไ[[[ฮฮฮEฮผ,,ppฮECCÿ
+oๆก*
+๛้ฅท..ฅ.า[{ผภ[
+ต,,
+ตp็pp[
+ไ[[[	m
+ไ	mBBBBนBBนEผ	ฮฮýýBB
+(ฮE,
+ต็ี0Btýtýtý
+
+นนB	หýýpppp
+W
+W	aaฅ
+.ฅฅaa
+]ๆ	ขvv
+ป
+ป
+า
+า
+
+ฃ
+ฃฝฝฝ
+F
+i
+i$
+
+
+ว
+ว
+$  n
+€๗๗	ลณn๗๗๗
+€
+€
+Þ
+ÞUฬบ1ษÛ1C
+
+YY
+๛
+๛rr`ืr
+๛
+๛
+๛ท
+@
+@
+@ท
+@r้`r**
+oๆ
+ฬ
+ฬCCY;;Ý
+f!!
+ฤ;
+ฤ
+ฤÝÝTÝrrททYY
+
+
+๛r้้
+ฬC
+ฬC
+ฬCะะ.ท
+@
+@.ทฅททท
+๛r
+๛r
+๛	r้ฅ.CCÿ]]ๆ]**ๆๆ**ก**ก
+ฬ
+ฬ
+
+r
+๛	
+๛]ๆ
+o]ก	ณ**ๆๆๆๆ
+oๆกกYGG	โ
+rr..**ๆ]
+oๆ**.ฅทท
+@
+@
+@
+@ง000I
+า
+า
+า์์
+u
+u	ะพGGGพพฌ9
+]
+]Kํvํv	Ü	Ü	Ü	Ü
+
+๕
+๕
+:ฑ
+:ฑllโ	๔kkศ?ศศkk	8
+ฏ
+Qศ๛้{ชผI
+ไpp
+ต
+ต,ฃ็p[	m
+([
+ไ
+(
+ไ	m
+ไ[
+ý
+ý[
+ไ
+(ฮ
+ฤ
+ฤÝ
+f!!
+ฤ;
+ฤ
+ฤT
+fÝ
+frrททYY
+
+
+๛r
+๛
+๛บCC
+ฬCบะะ
+
+
+@ท
+@
+@.ททท
+@
+@	
+๛
+๛rr
+๛r้
+@ทÿ**ๆๆ]ๆ**ๆๆ	ณกก*ก*ÿÿ
+ฬ
+ฬ
+
+r
+๛
+๛r]ๆๆๆ****ๆๆๆๆๆ
+oกกYY
+
+ะY
+rr..**ๆ]ๆ]	ณ	ณท.ทท
+@
+@
+@
+@ง000
+าI
+า
+า์์์์GGGGGพพ9
+]
+]
+]v	ÿv	ÿSSSSll
+:ฑ(ฑllkkkk
+Qศศศkk&
+ฏ
+Qศ
+ไ	mpp,,
+ต,็p
+ไ
+ไ
+([
+ไ
+([
+ไ[า๒
+ý
+ý[
+ไ
+(
+(เ
+ฤ;Ý
+f!!
+ฤฒ
+!!
+๛
+๛ททYY	โY
+rr
+๛
+๛CCÿ
+ÿ	โY
+๛
+๛r
+๛r
+๛
+๛rทท
+@
+@ทท
+๛rทท
+@ฅ"๘บ
+oๆ**ๆ]กก**
+oๆ]ๆ**Cบÿ
+Yะฅ.ฅทๆๆๆๆ**ก*ก*ๆ]]
+o
+oๆะYY	โYY
+
+
+ทททฅ
+oๆ]ๆๆๆ*	ณท.rrr
+๛ท
+@งง0	น
+าภ์์00
+GGz	ÿ	ÿ	ÿ	ÿ
+
+
+	ÜS
+	~
+๕
+๕lใl
+๕l&
+ฏโk๛
+ฏ
+ฏโk
+Q?ศ
+Q
+(
+ไ[[
+ไ	m	m
+ต,	>,pp^็[
+ไ
+ไ
+ไ
+ไ
+ไ[[า
+ไWBBBB
+(	m	m
+W
+ฤ;
+fÝ!!
+ฤ
+ฤ
+!!!
+๛
+๛ททYYะY
+
+
+๛
+๛
+๛
+๛CCÿÿ
+
+Y	โrrr
+๛
+๛rr
+๛ฅท.
+@ททr้
+@
+@
+@ทษฅจCๆ
+o*ๆ]กกกกๆ
+oๆ
+oกก
+ฬCÿ
+Y	โ.ฅฅท
+o
+oๆๆ***	ณก*ๆ
+o]
+o]ๆYะะGYY
+	'
+
+....
+oๆิKิๆ*ก.ฅ`Nr้ท
+@00ง0II์์00
+GG
+vvvv
+	ÜS
+	!
+๕l
+๕ll
+๕
+๕l
+ฏ	8kโr๛&&kโ
+Q??ศ
+ไ[[
+ไ[[
+ต,,,ppp็[
+ไ
+ไา[[[[[[
+(0B	ห	ห
+(
+ไ
+ไฮ!;
+ฤ
+ฤ;
+ฤ;
+f
+f	ช
+๛rrr
+YYY	โYYกๆ
+oๆ
+oก*
+
+
+
+@ท้r
+ะYr้rrทท
+@ทบบบCๆๆ]ๆCCv]ๆก*ๆๆก*ก*ๆๆr
+๛ท
+@Yะๆๆ*ก*	ณๆๆๆ
+oๆ]ÿÿCC.ททท
+@
+@
+๛
+๛้้.ท
+ฬC้ทÿะYY	โ00์์00งง์์์์
+า
+าIIaaa
+๊GG
+ิิ
+ป22
+ป
+
+สส
+
+
+:
+:
+:ฑฑ(ฑฑ
+Q
+Q๛-๗’?ศ?๛
+(týtb็pฃ,ฮฮý
+Bน[[BB
+
+ýý	ห	ห	ห	หนBฒ	M	M
+ฤ	M
+ฤ
+f
+f	ช	ช
+๛rrrYYะYะะ*กๆ
+oๆ
+oก*
+
+
+@ท
+๛r	'
+Yะ
+๛rrrทท
+@ทCCCบๆๆ
+oๆCCÿÿิ]*กๆๆ*กก*
+o
+o้r“.	โY
+o]ก	ณ*ๆๆ
+oๆๆ
+oÿÿ
+ฬ
+ฬ
+
+ท.ทททท้้`rท
+@C
+ฬ1๛.vÿ
+GพะYY	โ00
+u
+u00	นง์์์์
+า
+า
+า
+า
+๊
+๊
+๊aGG	zิิ2
+ป2
+ป
+
+สสฑฑฑ((ฑฑฑ
+Q
+Q	–ถ€’?
+Qศ๛r๋btt็p
+ต,ฮฮ
+ýBน[[BBt
+
+
+BBBBBน๖
+
+!!!!rrทท
+GY
+o
+o*กๆ]ๆๆYY
+๛r
+@.ะ	โ	'
+
+
+YYทท
+๛rr้ททÿÿCC****vÿÿdY}**ๆๆกกกก**ท.GY
+oๆK]ๆๆๆๆๆๆๆ
+oÿÿะY
+ทททท.
+@้Nืr
+๛
+๛CCCจ1
+ฬCC๑ะY์
+u000	น์
+u00
+u์
+า
+าฅฅ“พG
+
+]ิvvvv
+
+
+SSSSl
+๕ฑฑใl(ฑ
+Q
+Qฺ
+Qr๛
+Qศ
+Qศศ
+Q
+(
+ไ[๋býý,	>	๙pฮฮ[
+ไ
+
+BB[า
+ไ[	ห	หนBý
+BB	ห	ห	
+!!๖
+๖rrทท	'
+ะะ
+o
+o*ก]ิ]]YY
+
+
+๛rททะ	โ
+
+
+YYทท
+๛rr
+๛ททÿÿ
+ฬ
+ฬ****ÿÿdk**
+o
+oกกกกกกท..ฅะะ
+oๆๆๆๆๆๆๆๆๆๆ
+oÿÿYะ..ทท..ล<`
+๛้
+๛
+ฬ
+ฬCบC
+ฬ	UC
+Yะ
+u์000	น์
+u00์
+u
+า
+าฅฅฅ	ะG
+ิ
+]vvvv
+
+
+SSSS
+๕	~ฑฑใ	~ฑ
+:ศฺ
+Qศ
+Qศ
+Qศศ
+Q
+ไ[ýt
+
+
+ต
+ต	๙p
+W
+W
+ไ[ýýงง
+ไ[
+ไ[	หนนBý
+นนBB
+ýTÝ;;
+ฤ
+ฤÝ
+f
+fÝ!*กก*
+
+CC*ก*ก
+ฬ
+ฬC
+ฬ	'.ฅฅ
+@
+ฬC
+**
+o
+oๆๆ**ๆ
+oๆๆๆ
+oๆๆท
+@
+๛
+๛ะYYYๆๆกvÿ
+ฬC****กกกกก**ๆๆ**ท.
+๛r
+hจบ
+ฬ
+ฬCCCบ๑N`
+๛
+๛ÿvRRบ
+ฬÿ
+	'
+
+YY
+ÿ	UC
+oๆ
+oๆII์
+u
+u์
+า
+าI
+า์
+uงง	ÿvํv	ข
+]ิิิิ
+]
+ป222
+iเ$$$	ญ	!SSสS
+kk	๔โ	ล<	ล	ล
+ÞU
+"
+Wฮ,ฃpp
+W
+Wฮ
+W
+ต,pp[[
+(ýý•,
+ต	๙็ฮEppฃฃp	๙
+ต,[
+fÝ	M;
+ฤ
+ฤÝ
+f
+f๏!*กก*
+ฬ
+ฬ*กก*
+ฬ
+ฬC
+ฬ.ท.ท
+ฬC
+**
+o
+oๆๆ**
+oๆๆๆ
+
+
+
+
+oๆๆๆ.ท
+๛
+๛ะY	โะๆๆ*กÿC
+ฬ****กกกกก***ๆๆกกท.
+๛r
+๑–บCCCC
+ฬCzอ#…"kณ
+๛
+๛ÿÿÿCCÿ
+	'
+
+YYÛv
+ฬบๆ
+o
+oๆ๓ภ
+า์
+u
+u์
+า
+าI
+า
+u์	นงv	ÿํvิ
+]ิิKย2
+ป
+ป
+ป
+iเ$$$$
+
+	Ü	ÜสS
+kkkk<ณ	ล	ล
+Þ	g
+"ฮE	ฃ,ppฮฮฮE,ฃ็	๙
+ไ
+ไ
+(ýýBน,
+ตpp
+Wฮ		pp,,	๙p,‘ภ
+f
+f
+ฤ;
+ฤ;	ช!!!!
+oๆ**C
+ฬ*กกC
+ฬ
+ฬ
+ฬะYทท.ทCบๆๆ**กกๆ
+o
+oๆๆ]
+	U	U	ณ*ๆๆ้
+๛ททะะ
+*กกกC
+ฬ
+ฬ
+ฬก*ๆๆ
+oๆก*กกๆๆ****r`ฅ.YYYGv
+ฬบCC
+ฬCะ5ฉ3ข3DิททÿCบÿYk
+Yะz้–CCๆ
+o
+oๆ๓|์์์
+u
+II
+u์์์22vvิิิิ~ใฉ2ํvเเ
+i
+i$$	Ü	ÜSSS	Ü
+Qศ
+ฏ
+ฏkโ๗n<<U
+Þ
+"^p,
+ตEE,
+ตp	๙	m
+ไBน
+ýpp็^		
+ต,pp,
+ต,m
+f
+f;
+ฤฒ;!!!!!!
+oๆ**Cบ*กกกC
+ฬ
+ฬ
+ฬะYททท.
+ฬC
+ÿๆๆ**กกๆ]ๆ]]ๆÿ
+ฬ
+ฬ*ก
+o]rrททะ	โ
+*กกก	U
+ฬ
+ฬ
+ฬ*กๆๆ
+oๆ*	ณ*]]	ณกก	ณ
+๛
+๛.ทYYะฌ@v
+ฬ
+ฬ
+ฬ
+ฬ
+ฬCYพ฿"&oททÿdrÿะ	โ
+	โYจC
+ฬ
+ฬ
+oๆๆ
+o์์c์
+
+า
+า
+u์c
+u2 vvิยฐฐฉ2ํdW
+i$
+i
+i$$	Ü	ÜSSS	Ü	–ศ?
+ฏ
+ฏkโ
+€๗ณณ
+ÞU
+"็็,
+ตฮฮ,
+ตp	๙
+(
+ไ[Bนtýppp็
+ต,pp
+ต,,ฃI
+fÝ๖
+f
+f!mm
+ฤ
+ฤ
+oๆๆๆๆๆๆ]ÿ
+ฬ
+ฬ
+
+๛rท.
+Gฌก*ก
+o
+oๆๆÿC–}กๆๆ
+
+ๆ
+o	ณก
+๛
+๛rrYะvCC
+
+ๆๆ
+o
+o**ๆ
+oๆ]ก**
+o]ะYYYะทÿ
+ฬ
+ฬ
+ฬCG5“rrÿR"<rบ
+ฬ
+@
+@
+@
+@
+
+
+ÿÿ	ณ	ณ
+oๆI	[
+าIภภ
+า
+า
+u
+u์
+u22vvิ#Dํvvd๙๙
+
+
+๕
+๕
+๕
+๕Aส
+	!
+ฏ
+ฏkk&Yโu?u<ณๅ๗pp	๙	๙ฮE	pp
+ต
+ต,,ppา[
+ไ
+ไBBýtฮ
+W
+W
+Wpp	๙	๙p็,,
+ไ
+fÝ‘
+ÝÝ!tฎฒ
+ฤ
+oๆ
+o
+o
+o
+oๆ
+oÿ
+ฬ
+ฬ
+r
+๛ท.
+Yะก*ก
+o
+o
+o
+oÿบkกๆๆ
+ÿๆ
+o**
+๛
+๛้
+๛	โY
+
+ÿÿCCÿÿ
+o
+oๆๆ**ๆ
+oๆ
+o****ๆๆะY
+YYะ5d
+ฬ
+ฬC
+ฬ
+
+YYท.้้ÿv1บ
+ฬ
+@
+@
+@
+@
+
+
+ÿÿÿÿ**]ๆ
+า
+าI
+าII
+า
+า์þ
+uþ22vvิย๑zํvvv๙๙
+
+lll	~Sส
+
+ฏ
+ฏkk
+ฏ&kโcถ์ณำ็็pp
+Wฮpp
+ต
+ต
+ต
+ตpp
+ไ[[[BBýtฮ
+W
+W
+Wpp	๙	๙็p
+ต
+ต
+ไ!
+ฤ
+ฤ	ช!๋"4แ๖**	ณ**ๆ
+oCบÿCCr
+๛ททะะๆ]**	ณ***Cบ
+ฬบ]]]]C
+ฬ	ณ*
+oๆท
+@r
+๛YYCCC
+ฬ
+ฬ
+ฬ
+ฬ
+ฬ
+oๆกก**
+o
+o*ก๘
+o**
+o
+o
+
+ะะYะÿÿ
+ÿ
+
+
+ททททCCÿÿÿ	
+๛	
+๛
+
+ÿCบก*ก*I
+า	[I
+
+า
+า
+u
+u
+u์ฉ2
+ป
+ป~๕ิ
+]22
+ป
+ป
+>
+ว>>>
+วฑ((SสSSkk&&
+ฏ&kk
+Þฬuณก}ก,,pp
+W
+Wฮ
+W,
+ตp	๙,
+ต
+ต,
+(
+(
+(BBBBฮE๏Bชฮ	pp	๙	๙
+ต,	๙p[!
+
+;;!	ชý)๖***ก*]ๆ
+ฬC
+ÿÿCCr้ทท
+
+ะะ]ๆ***กกกบC
+ฬบๆๆๆๆบC*	ณ๘
+oท
+@	
+๛YY	'CC
+ฬCCCCCๆ
+oกกกก
+o
+o	ณ*ๆ
+oกกๆๆ
+
+ะพฌGvํv
+
+	'ททททบ
+ฬ
+
+ÿr
+๛r
+๛
+
+C
+ฬ*ก*ก
+าIII
+า
+า์์์
+uฉ2	D2
+]ิฉ
+ป2 ๙>
+ว
+ว
+ว
+ว>ฑ
+:((SสSSkk๐&kk
+Þ
+Þณณ<<
+ต
+ต็	๙
+W
+Wฮ
+W,
+ตp	๙,
+ต
+ต,BBBBฮExงtผpp	๙	๙,
+ต	๙p
+ไ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              XTENSION= 'BINTABLE'           /Written by IDL:  10-Dec-1996 15:57:15.00        BITPIX  =                    8 /                                                NAXIS   =                    2 /Binary table                                    NAXIS1  =                   28 /Number of bytes per row                         NAXIS2  =                   13 /Number of rows                                  PCOUNT  =                    0 /Random parameter count                          GCOUNT  =                    1 /Group count                                     TFIELDS =                    4 /Number of columns                               EXTNAME = 'Photometric CALTABLE' /Extension name                                TFORM1  = '1D      '           /Real*8 (double precision)                       TTYPE1  = 'INTEGRATED_SIGNAL'  /Measured Calibration Parameter                  TUNIT1  = 'log10Counts'        /Units of column 1                               TFORM2  = '1D      '           /Real*8 (double precision)                       TTYPE2  = 'MAGNITUDE'          /Physical Calibration Parameter                  TUNIT2  = 'V_Magnitude'        /Units of column 2                               TFORM3  = '1D      '           /Real*8 (double precision)                       TTYPE3  = 'UNCERTAINTY'        /1 sigma physical parameter deviation            TUNIT3  = 'V_Magnitude'        /Units of column 3                               TFORM4  = '1J      '           /Integer*4 (long integer)                        TTYPE4  = 'NUMBER_OF_OBJECTS'  /Used to derive physical calibration             TUNIT4  = 'Objects '           /Units of column 4                               CALCNTXT= 'SERC_V  '           /Context in which calibration is valid           CALVERSN= '15/07/1996'         /Calibration version                             THRESHLD=                  500 /Threshold above sky which signal is measured                                                                                            The lookup table in this extension may be used to infer the                     magnitude of stars on plates within the context of CALCNTXT.  The               log(Integrated Signal) is obtained for a star by summing the                    total counts above THRESHLD above the background.  For example,                 if the background for a star is measured to be 4000 and                         THRESHLD is 500, then the integrated signal is the sum of counts                above 4500. The table may then be interpolated to log10(4500) to                obtain the star's magnitude.                                                                                                                                    "Number of Objects" is the number of objects used to derive the                 calibrated magnitude in each row of the table.                          END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             @ฬฬภ   @0+็€   ?ั๗Z       @   @/mOเ   ?ฦๆ"เ      @ffZ   @.lþ    ?ื”       @33'   @-๏เ   ?ึ6า@      ,@ÿÿ๔   @+”ฐ@   ?Ýÿิเ      @@ฬฬม   @*‘    ?แ	b       F@   @(bญ€   ?แ•e@      Y@ff[   @&2`   ?โ^ภ      [@33(   @$K    ?ไfณ@      L@ÿÿ๕   @"\<ภ   ?ใbฅ`      I@ฬฬย   @!๛€   ?โภ      %@   @๔เ   ?ิ฿M€      @ff\   @ีย    ?ัP                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

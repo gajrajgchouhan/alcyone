@@ -1,0 +1,4712 @@
+SIMPLE  =                    T /FITS header                                     BITPIX  =                   16 /No.Bits per pixel                               NAXIS   =                    2 /No.dimensions                                   NAXIS1  =                  247 /Length X axis                                   NAXIS2  =                  247 /Length Y axis                                   EXTEND  =                    T /                                                DATE    = '27/12/20          ' /Date of FITS file creation                      ORIGIN  = 'CASB -- STScI     ' /Origin of FITS image                            PLTLABEL= 'E1576             ' /Observatory plate label                         PLATEID = '08MI              ' /GSSS Plate ID                                   REGION  = 'XE435             ' /GSSS Region Name                                DATE-OBS= '16/03/56          ' /UT date of Observation                          UT      = '07:03:00.00       ' /UT time of observation                          EPOCH   =  1.9562056884766E+03 /Epoch of plate                                  PLTRAH  =                   12 /Plate center RA                                 PLTRAM  =                   31 /                                                PLTRAS  =  1.8252660000000E+01 /                                                PLTDECSN= '+                 ' /Plate center Dec                                PLTDECD =                   17 /                                                PLTDECM =                   11 /                                                PLTDECS =  5.4904010000000E+01 /                                                EQUINOX =  2.0000000000000E+03 /Julian Reference frame equinox                  EXPOSURE=  4.5000000000000E+01 /Exposure time minutes                           BANDPASS=                    8 /GSSS Bandpass code                              PLTGRADE=                    1 /Plate grade                                     PLTSCALE=  6.7200000000000E+01 /Plate Scale arcsec per mm                       SITELAT = '+33:24:24.00      ' /Latitude of Observatory                         SITELONG= '-116:51:48.00     ' /Longitude of Observatory                        TELESCOP= 'Palomar 48-inch Schmidt'/Telescope where plate taken                 CNPIX1  =                 4671 /X corner  (pixels)                              CNPIX2  =                 1181 /Y corner                                        DATATYPE= 'INTEGER*2         ' /Type of Data                                    SCANIMG = 'XE435_08MI_00_00.PIM'/Name of original scan                          SCANNUM =                    0 /Identifies scan of the plate                    DCHOPPED=                    F /Image repaired for chopping effects             DSHEARED=                    F /Image repaired for shearing effects             DSCNDNUM=                    0 /Identifies descendant of plate scan image       XPIXELSZ=  2.5284450000000E+01 /X pixel size microns                            YPIXELSZ=  2.5284450000000E+01 /Y pixel size microns                            PPO1    =  0.0000000000000E+00 /Orientation Coefficients                        PPO2    =  0.0000000000000E+00 /                                                PPO3    =  1.7747471555000E+05 /                                                PPO4    =  0.0000000000000E+00 /                                                PPO5    =  0.0000000000000E+00 /                                                PPO6    =  1.7747471555000E+05 /                                                AMDX1   =  6.7248194751910E+01 /Plate solution x coefficients                   AMDX2   = -3.6383558991280E-01 /                                                AMDX3   = -2.3020758170280E+02 /                                                AMDX4   = -2.2527741013980E-05 /                                                AMDX5   = -2.1329086863730E-05 /                                                AMDX6   = -3.6698473696500E-07 /                                                AMDX7   =  0.0000000000000E+00 /                                                AMDX8   =  1.8900162581620E-06 /                                                AMDX9   =  2.0137640364620E-08 /                                                AMDX10  =  2.1325831608850E-06 /                                                AMDX11  =  1.8592475205210E-08 /                                                AMDX12  =  0.0000000000000E+00 /                                                AMDX13  =  0.0000000000000E+00 /                                                AMDX14  =  0.0000000000000E+00 /                                                AMDX15  =  0.0000000000000E+00 /                                                AMDX16  =  0.0000000000000E+00 /                                                AMDX17  =  0.0000000000000E+00 /                                                AMDX18  =  0.0000000000000E+00 /                                                AMDX19  =  0.0000000000000E+00 /                                                AMDX20  =  0.0000000000000E+00 /                                                AMDY1   =  6.7257910522210E+01 /Plate solution y coefficients                   AMDY2   =  3.5747524960370E-01 /                                                AMDY3   = -2.2810224537990E+01 /                                                AMDY4   = -2.0256644476590E-05 /                                                AMDY5   = -1.9464768379450E-05 /                                                AMDY6   = -1.8000427042090E-06 /                                                AMDY7   =  0.0000000000000E+00 /                                                AMDY8   =  1.8901439965910E-06 /                                                AMDY9   =  9.5280704056070E-08 /                                                AMDY10  =  2.2090751522350E-06 /                                                AMDY11  = -7.7226842946450E-09 /                                                AMDY12  =  0.0000000000000E+00 /                                                AMDY13  =  0.0000000000000E+00 /                                                AMDY14  =  0.0000000000000E+00 /                                                AMDY15  =  0.0000000000000E+00 /                                                AMDY16  =  0.0000000000000E+00 /                                                AMDY17  =  0.0000000000000E+00 /                                                AMDY18  =  0.0000000000000E+00 /                                                AMDY19  =  0.0000000000000E+00 /                                                AMDY20  =  0.0000000000000E+00 /                                                        Based on photographic data of the National Geographic Society -- Palomar        Observatory Sky Survey (NGS-POSS) obtained using the Oschin Telescope on        Palomar Mountain.  The NGS-POSS was funded by a grant from the National         Geographic Society to the California Institute of Technology.  The              plates were processed into the present compressed digital form with             their permission.  The Digitized Sky Survey was produced at the Space           Telescope Science Institute under US Government grant NAG W-2166.                                                                                               Investigators using these scans are requested to include the above              acknowledgements in any publications.                                                                                                                           Copyright (c) 1994, Association of Universities for Research in                 Astronomy, Inc.  All rights reserved.                                   DATAMAX =                13893 /Maximum data value                              DATAMIN =                 2254 /Minimum data value                              OBJECT  = 'dss84178          ' /Object ID                                       OBJCTRA = '12 35 26.400      ' /Object Right Ascension (J2000)                  OBJCTDEC= '+14 29 46.70      ' /Object Declination (J2000)                      OBJCTX  =              4794.36 /Object X on plate (pixels)                      OBJCTY  =              1304.78 /Object Y on plate (pixels)                      CTYPE1  = 'RA---TAN'           /R.A. in tangent plane projection                CTYPE2  = 'DEC--TAN'           /DEC. in tangent plane projection                CRPIX1  =                123.5 /Refpix of first axis                            CRPIX2  =                123.5 /Refpix of second axis                           CRVAL1  =  1.8886017705096E+02 /RA at Ref pix in decimal degrees                CRVAL2  =  1.4495936218995E+01 /DEC at Ref pix in decimal degrees               CROTA1  =  2.5745264764628E-02 /Rotation angle of first axis (deg)              CROTA2  =  2.5745264764628E-02 /Rotation angle of second axis (deg)                     Warning: CROTA2 is inaccurate due to considerable skew                  SKEW    =  8.2656831481781E-02, -3.1166301952526E-02 /Measure of skew           CDELT1  = -4.7250456194544E-04 /RA pixel step (deg)                             CDELT2  =  4.7258088547478E-04 /DEC pixel step (deg)                            CD1_1   = -4.7250449204156E-04 /CD matrix                                       CD1_2   = -6.8176094984469E-07 /CD matrix                                       CD2_1   =  2.5702101010704E-07 /CD matrix                                       CD2_2   =  4.7258039370898E-04 /CD matrix                                       PC001001=  9.9999985205671E-01 /PC matrix                                       PC001002=  1.4428663863851E-03 /PC matrix                                       PC002001=  5.4386670728085E-04 /PC matrix                                       PC002002=  9.9999895940396E-01 /PC matrix                                       END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Ç|æ1Çö```
+é
+S
+ž4«:::¤ÀÀuu
+ß
+ß
+ß
+ß
+ò
+ò
+
+=iiiiÓ
+§
+§
+	ë
+6bbb­C­%%%»wwww?©ƒ88   –œ2œ,–––œ»»øøøøþþøbbbÒÒÒÒÒhþþþh‡
+ß
+ß
+ß
+ßå{{å8
+¢8
+¢
+|¨>dÎƒƒÎd¯••++p
+Ú%%]
+Ç
+|
+|8dƒƒ,,
+á
+áwÂÂ2œœœ
+áw£
+á
+á
+áw????
+©
+©Š S½
+Ü
+Ü˜.˜
+l::
+ï…::
+ï…½S..ãã@Ö!‹ªªªª--xxx
+â
+â
+_
+_
+õ‹ll!!‘''‘Ürû
+Ï4Êž
+â
+â111ææÊÊ
+é
+S
+S
+é44…:¤
+ß
+ß
+ß
+I
+I
+ß*Àˆˆ
+§
+§ˆii
+ò
+ò
+	ë
+6
+Ì
+bb­
+
+ÚQQáá–,ô^©?Î88Î––áw}ç»ááwç»
+Ú
+Ú
+Ì
+Ì‡””ŽbøøÒÒhÒ<<‡
+ß
+ß*À{§\\ƒ88]]]]ƒƒ88¯údvvœ
+Ú
+Ú¨¨8ÎÎ8,,
+á
+á
+á
+á,
+–œQQœ2œw£
+á
+K
+K
+áŠŠ??
+ô
+ô Lé½rrã˜
+l
+Y
+ï
+ï…Ð:
+ïžžãã..‹!Ö@õõõõYYÃÃÃÃ-
+—
+_
+_
+õ‹‹‹‹‹û‘FF‘‘°
+„44ž--xx
+ú
+ú111ææ44
+é
+S
+é
+ž
+žï…:¤uu
+ß
+I
+I
+ß*ÀÓÓ
+òˆˆˆÓÓˆˆ­b
+Ì­øø­­ppQQá
+µ–,ô^©?Î88Î––áw}çQQwwwç»pp
+Ì
+Ì‡þþøøøøÒÒÒ<<<‡‡‡Vì§§\\ƒ8d‰]
+Ç
+ÇƒƒÎÎ¯Eúdvvvvœpp>>¨¨8ÎÎ8ÂÂww
+á
+á,
+–
+pQQœ22œ££w
+á
+áw  ÕÕ
+ô
+ô LS'rrãã˜
+l
+Y
+ï…Ð:……rrããÄÄ‹õÖ@õõõõïïYYÃÃÃ-
+_
+_
+_
+õ
+_
+_
+_
+_eûFFûû44ž--xx
+ú
+úiøøCC‘
+ûFFll
+‹
+‹
+é4ÊïïïïææP
+º
+o›1|||æu
+ß*À›Pæ11æP­CŽŽÓ=ˆp»Q»»œƒÎd?^ŠŠôŠ  ŠôŠwwwáááább­­CÙÙ­**
+ßVÀuuuuuåOššCCøŽ”þhþÁ••ÁQ»
+Úp]ó‰µµ‰»»»»••++d8ƒ¯ƒdúúúÕÕ?
+©
+^
+ôŠŠÕÕ??Q}ÈÈççœœœœQç2œ22˜˜.½½r
+Ü
+É_ªª____ãã˜˜ãã˜˜fÐÐÐÐÐÐÐYï¤xx@@
+ª
+ª
+„
+„
+„
+„-ÃÃYÊ4
+½
+½ž4é
+½
+rééE
+¯iŽŽCC‘
+ûFFll··Ê`……ïï||æP››1|||æu
+ß*À›PæÇÇæPCÙŽŽÓ=ˆp
+Ú%»»»œ¯Îd?^ŠŠôŠ ŠôôŠwáááwwwwøøCCÙoÙ­**
+ßìV¡åO­­bøÒ<<Ò++++»%pó‰‰‰ó»»%%••++Î
+¢
+íƒ
+ÎdÕÕÕ?
+ôŠ  ÕÕ??Q}^^2Qç2œœœ˜˜.½½r
+Ü
+É_ªªõõõõãã˜˜ãã:ÐÐÐÐÐÐÐÃY:¤ÖÖ@@°°°°ÃYYÃ4ž
+½
+½ž4é
+½žééqÛŽŽŽŽ'‘FF·MMM
+é
+éÐÐïYæ|æPPæææ||11À
+”
+”*Pæ1›››ŽŽÙCˆˆˆ
+Ú
+Úpp»»œ¯¯dd©©©©ŠŠ?©??áKáááwÂÂŽøCCÙooÙVÀ*À¡¡VìVÀ¡0šøŽøb
+ñ
+[
+[‡++vv»%pÔÔ‰‰>¨]]»»ppJJ•+
+í
+W
+¢8ƒƒúúÕ?ÕÕÕÕ Š
+ô
+ô
+ôŠç}}}ÈÈ2œœœœ
+»Qããããrr½½ª@ª@‹!Ö@.....˜
+l
+l…fÐ…Ð:ÃYïYxÃ-@
+ª
+ª@FÜFF¤:¤SSSSžžSSééééÛqŽŽŽŽ'‘FFMãyM
+é:f…ïPææPPæææ||11À
+”
+”*››|1›››ŽŽC­ˆˆˆ
+Úpp%%pddÕ??©©©ôô?©??áKááwXX$ŽCCCÙo‚ìVÀì‚ì*
+ßu0šøŽøb
+ñ
+[
+[‡ÁÁvv»%p>>óó¨]]»»ppJJ•+ƒ
+í
+¢8ƒƒúúÕ???ÕÕŠ
+ô
+^
+^
+ôŠçQQQ22È222
+p	ÚQçãããã
+Ü
+Ü½½@ÖlM·@ª..˜˜.˜±fÐ…:
+¤-ÃÃ-
+âx-
+—
+	~
+ª@FÜ°°¤¤ééSSžžééééSSEÛŽº$ÙÙÜFFF'SÜ44ï…ÐÐæP11VV¡Vì¡P
+º
+ºæææ11V*uuÓÓˆˆbøC­pp%
+%%pŠôô E¯úd^^¯E¯,–ááœ2ççCÙ$Žhhhþ{{{{V**À00šš­­bø³‡
+ñ‡vvàà••JàÎÎddóó]]++••àà++ddÎ
+¢
+Ç]ó]
+ôŠŠ  Š
+©
+©¯¯d
+Î
+Îd¯Eww,,2ÈÈ2£w
+K
+–,ÂÂ½'
+Ü
+Ü
+‘'r±Ý	5y·@ªãããããã..!!õ___žS
+½ž
+r	~
+
+õ
+õû‘e
+Ï-ÃÃY44žž4Ê4žÃÃxxµŽº$ÙÙÜFFF‘‘FF44ï…ÐÐP
+º1VV¡ÀV7¡|æææææ11ÀÀ==ˆˆ
+Ìb­
+Ú
+Ú
+%»»pŠôô E¯úŠŠ©©¯qX–KKpQQCÙ$ŽÒÒÒh{å{{{V*ÀVÆššš­­b$uI‡
+ñJJJJ++àvddÎÎóóóó++••àà++ddÎ
+¢
+Ç]]
+Ç
+^
+ô ¶ Š??
+Îdúd¯wwÂÂ2ÈÈ2£XÂÂÂ'
+‘
+F
+F'½ž±Ý5ay·@ªããããMM..õõ_
+É
+É
+ÉžS
+½ž
+r
+
+ª‹‹û‘ûeÃ--Ã44žž4Ê4žÃÃµŽÙC­­
+û
+e
+e
+û
+û
+û
+°FÊ`«ï……ï
+º
+$
+o
+ßuu7711ææ›1Ç1uˆ
+ò=
+§
+
+­»%%%œŠô?Õ¯úúkkŠŠRÉ3áKKp»»­­C­‡‡Òh\\{{{uu¡{åå{C­­ÙßÒ
+¦
+´
+´
+ÿ+¢àvƒ
+í
+í]ó‰‰Á+Jà+•++ddƒ
+W>¨
+|
+©?¶¶   Š¯dE
+Î
+ÎwwÂX}È2Xî„îXÂ
+áw'
+‘
+Ü
+ÜržéGÝ¾ê·õª@..yãMMããªª_
+É
+3
+3
+É
+3
+rS
+½
+½S
+r
+
+ª@@Frrrï--YéSžžžÃYxjjŽC­
+
+
+e	Ï
+e
+û‘‘ÜröŒ×AïYïY
+º
+$	Ù
+o
+ßu¡¡u››ææ1ÇÇ1¡ˆ=
+§
+
+­»%%%ppœ2 ŠÕk¯ÎÎÕÕŠŠú¼£wááœQ%
+
+
+Òh\\§§§¡åO{C­³³Ò
+¦
+´
+´
+ÿ+¢8vƒƒƒ]ó‰‰Á+àvÁ+ÁÁdd
+í>¨¨?Õ  ŠŠŠ
+ô¯Eúú¯
+ƒ
+8
+8
+á
+á,Â}^ÈXîîXÂ,
+K
+á½'
+F
+F
+ÜéÝGüü‹õ@ÖÄÄyMMãã@@
+É
+3
+É
+É
+É
+3
+r	Ü
+'
+½
+'
+½
+r
+
+ª@lžÊ44YÃÃéžž
+r-Ãxjj«Ð¤
+Ö
+@
+‹!‘½×Å/¸ö
+û
+û
+û
+û·M..rÜ‘‘˜˜˜..ã·˜!
+‹
+@
+@
+Ölp
+Úpp%%Qç2œç}2œQQpÂXîîúdÎÎE¯ƒ
+ø
+b
+b
+øÿÿÿÿ]‰‰‰jÔ››º$ŽŽ$ºÿiŽ$ÙCõõõ!˜ÖÄÄyyÄ..ÄÄ..ZZÄZZ‹‹ªª…ff3É__îXXXîîîX
+w
+,
+,
+¦
+¦
+ñ‡þþI³³³bb
+Ìb
+ñ	Å	Å
+ñþþº$­bŽoÇf:âLÜF‘'„„
+wXX
+w
+‹
+‹
+‹!
+Ö
+Ö!
+‹
+±GÝ	Bš#ËyM···MMã˜˜l····hhAÐ¤¤¤l
+Ö
+‹!½‡ù}c<"‘‘‘‘·Mr''˜...ÄÄã·
+Öl·!
+Ö
+Ölp»»Qç2œQçœQQp–,ÂÂúdÎÎEEŽ
+ø
+øŽiiÿÿ]‰ –]1PºŽŽŽ$ÿiJJºPoÙ‹‹‹‹˜ÖÄÄyyÄ.˜.Ä.ÄððZZZõõ±üüÉ3__îXXXXX
+ÂX9£XX<<
+ñ‡hh‡‡‡øøøŽ
+ñ
+[
+[
+ñhhŽø­ø$ÇwB¾LÜF‘'„„£„„
+w
+‹
+‹!·ll!
+‹
+±GGsn5yM···!·M˜˜˜··!!hhAÐ¤·!
+ÖléÅQ+5-{#…¡FFFF½½''˜.MM.Ä˜l
+@
+Ö˜M·ll!!˜QQQQpQ}È2Q»p
+Úp»»»»KKááddÎÎdÛ¯ÙCCÙii´´¨>>‰,Âó]|P$$ºº´´àvæP$Ž@ÖÖÖÖÖ‹‹ÄÄÄ.ãMMãZðZÄÄÄ@ª
+É
+3ÐüG±~~ÉÉîî££
+Â
+Â9ee„„‡
+ñ
+¦<ÒhÒ<
+[
+ñ<<øøøøÒ
+¦
+¦
+¦<ÒÒÒøø­CŽº¨ò€YFF‘‘££îî„£
+Ö
+Ö
+Ö
+Ö
+‹
+‹!!’(Ýs	ŸT¾.˜····ll·MMM··Iß«Ð¤
+x
+x!·l‡#—2Ó6E)÷ù/«FFFF''½½˜!!˜
+Ö
+Öl˜·!ll!!lQQççœ»ç2œQ»p
+Úp»»»»ááááÎÎÎÎú&EÙCCÙii´´
+æ|]Â„KµÔ|PPP$´´JàPºŽ
+øª@@@@@õõ...˜M
+·ãyðZ.˜..@ª
+É
+3
+¤ÐG±__îî££XX£Ï‘‘°„‡
+ñ
+¦<ÒhhÒ
+ñ
+[<<bbbb<<<<<Ò<<bb­CøøºÔTf—kFF‘‘XXî„£llll!!!!(¾sÝÝG’(.˜··!!ll!·MM˜˜MMßuÊïY
+Ã
+ÃFF‘'¥X*z,"¤V¸`ÊÊ`llÜÜ''''rrl
+‹
+‹ll
+Ö
+û'rr··ll‘‘‘'áwÂÂÂ,,,»%»%
+Ú
+Ú»çwáKK,Âwá^^©ÕÕ©©´´JJ$ŽCCVVVìÍQ?„îK]vàJÿi´JJ´
+Ó
+Ó__ªªffÐ:˜˜ãã˜ž4éSMãããfÐ
+ï
+Y
+~ª‹‹9999îîî„eeeÏ‡
+ñ
+ñ‡­ÙŽø
+¦<‡‡<<‡‡<<<<bøC­<<‡‡Ié½
+û
+û ¶¶¶~~~
+è3É~~··MM˜˜
+Öl!!ll!!llM·
+ü
+ü
+ü
+üGÝ((˜IIÊïY
+Ã
+ÃFF‘'yÑø>œì¦ŒÊ4Ê`ÜÜ
+û
+û
+û'rrl!!ll‘‘rrMM½½½'áwÂÂÂ,––%»»%
+Ú
+Ú»çwáKK,ÂáK^^©??©©JJàà$ŽCCVVVìÍc%ÜóvàJÿi´J´iiõõÐÐ:
+¤
+l˜ãã˜˜˜žS½MãããÐ:
+ï…ªª__££îîXîÏÏÏe³³ÙÙŽøÒh³³ÒÒ‡‡<<
+¦
+¦bøCÙhh‡‡''‘‘ ¶¶¶~~~
+è
+3MMMM˜˜˜l
+Öl!!·
+‹
+ÖM·’’’’Ýs((ll˜³³¤
+ÃYÜÜÜÜ.g)¸öÊÊÊ`Ê··˜'‘F
+°
+û'rÜ·!!!·Ml‘'rrM·½½ÜÜáww,–áápœœp%%––áá––K
+µ©©©^^©?••••$ŽÙÙ¡VìììcçX°XÔ8Á+JJ´ÿÿJJ@ª
+~::
+¤
+¤My.˜˜˜r½½ãã˜˜::Ðf@ª
+~
+ÂXXî~ÉÉ99£9„„°”hŽŽC­ÒhhhÒÒ<
+
+
+¦
+ÌbCÙþh‡‡
+ñ
+ñ‡ÜÜÜFkL¶~~
+è
+R
+3ÉÉMMMMl
+@
+Ö··˜˜l·Mss(’’’’
+ü
+ÖM·³³¤
+ÃYrrrr˜˜yöÊ444``Ê!!˜'‘F
+°
+û'rÜ·!!!·Ml‘'rF!·''ÜÜw£Â,wwœp%Qœœ,,á  Ká©
+È
+È©?••••$ŽÙÙ¡VìVV7 Xî–d+•JJJ´ÿÿJJ@ªª::::ãã.˜˜˜
+Ür½½MM::Ðf@ª
+~XîîX~ÉÉ£££9„„„þÒ
+ñ
+ñbŽC­ÒhÒÒhhÒ
+¦
+¦<
+Ìb­Cþh‡‡
+ñ‡FFÜrkL¶~~
+è
+R3ÉÉÉll····l
+@
+Ö!!˜.·MÝÝ’
+ü
+ü
+ü
+ü
+f
+ÖM·³³Y44··MMãy.˜ÜF
+e
+e
+û'rÜ¤¤……Ê444
+é
+é44Y
+Ã
+x
+x¤YYYï¤
+û'rÜ?Õ  Õ????ÕÕ?ƒ¯úúÂÂX,
+Ú
+Ú»QúÎ88
+È
+È^ô¨¨¨Í77¡11ÇÇ11ÔK£e9»ùÍ7$$oJJiirryãyy½''½SS:
+¤……
+É
+Éªªªªªª¶ ‘'ÜÜ~~~ªªªu
+ßu¡VÀbøøøŽ$ÙÙ{åOOuuÀVååššååOO  —rÜFF‘‘FFkkGGGÝ···!
+y
+Ä
+Ä¥;;¥ZZ¥¥ððZZ
+Ä
+Ä	ã	ã
+žÊzzï44!!!!·MlF
+°
+e
+e
+e‘ÜFYY
+ž444
+é
+é44Y
+Ã¤YY
+ÃY¤
+û'r?Õ  Õ?©©?ÕkÕÎÎ,,––pp»QddÎÎ^^ô^|ÍcÍ7ÇÇ]]ÇÇ¨‰µwwÍ7ÍPPoJJiirržÊ¥yyS½½SÊÊf
+¤
+Y
+Y
+3
+3ª@@
+~
+~ª¶ ‘'rr~~
+è~ªªªu
+ß
+ßu¡VÀøŽŽŽŽøCC{åOOuuÀVOOššOOåå¶¶—ÜF
+°
+°‘‘FFkkÝÝs	ã·!
+‹
+yZZ¥¥ZZ;;ððZ
+.	ã	ã
+žÊ«:4Ê
+Ö
+Ö
+‹
+‹
+‹
+‹llFF
+û
+e
+û‘‘
+û
+Ã
+Ã
+Ã
+-
+éÊÊÊÊÊÊYY¤:ïYY
+Ã
+Ã
+Ã‘'''·M?ÕÕ?©©©??ÕÕÕdÎƒƒ–  –pƒƒÕÕ?©|‚Í¡|¨>¨¨¨ÔjµµùÍ7Í›º$ÿÿ´´ré¥yyééž4ÊÊf
+¤
+Y
+Y
+~ª____
+~  
+Õ
+Õ‘‘Ü_33Éªªªu
+ß*ÀVÀÀÀCCŽøb
+ÌbøššOåVÀåOO
+¹
+¹O0š
+Õ
+Õkk‘
+e
+
+°F
+°
+°Üâ¶kssTTã·
+Ö
+ÖZððð¥¥ZZZZ†²†ðZ
+.	ã
+y4`ööñ[¤4Ê
+Ö
+Ö
+‹
+‹
+‹
+‹llFF‘
+û
+û‘‘
+ûYY
+Ã
+-
+éÊÊÊÊ``ï
+Ã¤…ïïY
+Ã
+Ã¤¤'‘''·M˜l©??©©©?ÕÕ?©©Îd– –,œ2ƒƒEkk?©|‚cc¨>Ô>¨¨¨>ÔóócccÍo$º••JJrSSyãyyéé4žžžé’Ð
+ï
+ïªª
+É
+É
+É
+É
+~
+~
+~
+Š
+Š
+Õ
+Õ
+û
+ûFr_33õÖÖªu
+”**
+”*VCCøbb
+Ìbøššå{VÀåOO
+¹Oå0š
+Õ
+Õk—'
+û
+
+°FÜFrxL—		TTM!llð†††Ñ¥ZZZZð†††ðZ
+.
+yÊÊö"[4¤:
+
+°‘‘F
+°FFll
+Ö
+Ö!M··…ï
+Ã
+ÃY¤¤ÊÊ«ïY
+x
+x¤:ïï::¤:‘‘ÜrƒƒÎÎôôôŠƒƒ©©?Õ,–,,,ÂX,©©Š  Šôô||]]]óÔ Ô¨]c777ÍÍÔÔ‰‰+ÿJàººººS½žS½yyyã''é(ü…
+Yª
+ï
+Y
+
+¤
+É_
+É_    FF‘'Ï99ûMM@ªåO
+n
+nO{CÙøb­­Oå{{0ššuu
+ßÀììV ¶—-'‘
+û
+ûkLLrrrTê5Ÿ˜ll«A«ÊÊ¥Zððð¥¥
+ÄZÊÊ`ŒñÅÊ¤¤
+x
+°F''ÜF
+°
+°
+Ö
+Öll··ãã…ïïïY44«ïY
+x
+x¤ïïÐÐ:¤‘‘ÜFllÎÎôô^ô©©©?Â,––,ÂÂ–©©Š  Šôô||ÇÇ1Ç>jÔ¨]óÍÍÍÍcc®®jj•iJàººPPéSž4éSyyyã
+‘
+‘½éüü
+ïª
+ï
+Y	x
+
+É_‹!â¶¶¶FF'½Ïeeû··Ö@{åš
+nååCÙŽø­­ÙÙåOååš
+n
+n
+nuuÀÀVÀ¶L-—'‘‘‘kLLÜÜr¾T5Ÿ.˜
+Ö
+é«``
+y
+ÄZ
+Ä
+Ä
+ÄZÊÊÊÊ//Ê
+ÃYY
+-
+e‘''ÜF
+°F··˜MMMM:::::¤4Ê`Ê¤¤¤¤¤¤ïïY
+Ã
+û‘‘‘!!··ƒ88©????©^ôáá– –,– ©Š kÕôô11||
+æ|¨¨óó¨¨ÍÍcccùjjÔÔJ´Jà›Ç1444žSé¥¥y
+Ü
+Ür…
+ïª…
+ï
+
+¤
+ÉõÖlâL—‘'r9ÏÏÏõõõ_000š
+¹
+¹OO­Cøøø$oÙååš0š
+n
+n*VÀÀÀÀ¶LxâÜFFÜkk¶LÜFrrs	ËaðÄ·
+‹
+éÊÊ``
+yZðZ
+Ä
+Ä
+Ä
+é
+äz4
+ÃYYY‘‘‘‘F
+°
+°FMM˜.yM··:::::¤¤¤4ÊÊ4¤¤¤¤::YYY
+Ã‘'''····ƒ
+í
+¢
+¢©??ƒƒ?©^
+ÈKw,––  
+j©ôŠÕ?ôôÇÇ|||óó¨¨ÍÍÍÍÍcÔÔÔÔàJàJo›444žSé;;¥žrr…
+ïª…
+ï
+¤:_‹ÖlâL—‘'rÏ999ÉÉÉ_000š
+¹
+¹OO­bbŽºoÙååš00š*VVVVV¡¡âxxâÜFFÜkk¶LÜFÜÜÝŸO²Z··
+é44``;¥†Z
+Ä
+.
+.
+é
+é
+S
+äz
+Ìbøˆ==
+
+
+Ìb­CÙoC­­øøøø­­ÀÀu****··MM‘
+ûFFl˜rrÜ
+÷
+÷
+÷²HÞHýgBB
+÷
+a²Þ“ýýg
+Ñ
+ÑBØýý²H‚‚‚‚7Í‚‚JJiÿ++••‚‚‚®®>¨ÇÇì‚ÍÍ!!ÖÖ@ª‹·····l@_õJ´ÙoC
+Ó
+Óiio$$—--—ââ„î99£XîÜÜ‘‘¶¶k
+Õ£ÏeeÏÒh³øøøøåå{00åYïâ
+û
+e
+û'99îîXXîî|>w9,PPæPPPP|¨ãM.˜GGGG
+é
+S
+ž
+ž
+S
+S
+¬B
+6
+ÌbˆÓÓ­
+
+Ìb­CÙÙCC­­
+Ì
+Ìbb
+­ÀÀ¡
+”
+”**··MM‘
+ûFF
+Öl˜.žÜF
+÷HÞÞH²²ýgBB
+÷Ht)““ýggBØ##ýýHÞ‚‚cù®®à´
+=
+Ó••••‚‚®DD>¨ÇÇì‚ÍÍ!!ÖÖ@ª‹·M!!!l@õ‹J´o›Ù
+Ó
+Ó
+Óÿ›1ºŽ—--—LL„î99£XîÜÜ‘‘LLk
+Õ£9ÏÏ9Òh³bbbbOO{ÆšO{ÃYxL
+û
+e
+û'ÏÏîîXXXXæ¨áj|
+º
+ºæ|ææ|||ãM˜GGGG
+é44
+é
+éØB­
+6
+ÌˆiÓ
+
+6bCCÙC­CC­
+Ì
+6
+
+bbuì*
+”
+”
+ß
+ß!!!·FFFF
+Ö
+Ö˜½'F
+°
+÷
+÷
+÷ÞÞ“““)tHØØBBHttÞÞÞÞÞ¹#nH²HtÍ77Í®DDDvJ
+Ó
+Ó´JJJ7ÍÍÍÍcDD>¨¨7ÍÖÖ‹‹ÖÖÖl·‹@@@@‹õÿÿiÿ››Ù
+ˆ
+Óÿ››ÙÙLL-Ãâ¶¶¶£££
+ÂX££Ür''¶ 
+?
+?Xî£9„„îîhh³­
+n
+nO{åOšââ—‘
+ûFÜîX£îX
+Â
+Â›Ç]ó1
+º
+$1Ç]¨1›·!GGGGÊÊ4Ênn­­
+6
+Ì´Ó=
+	ë
+6b­­­­C­
+Ì
+6
+
+
+
+bb
+ßuÀ*
+”
+”
+ß
+ß!!
+‹!FFFF
+@
+@
+Öl'‘F
+°
+a
+a
+÷HHýý“U tØØ
+¬
+¬HHÞÞÞtt¹#nÞHtt7¡7Í®DDvJii´JJJ7Í77Íc®®>¨¨7ÍÖÖ‹‹lllÖ‹‹ÖÖÖÖ‹õÿÿ•+››Ù
+ˆ
+ÓÿooÙÙLL—-â¶  ££
+w
+,
+Â££ÜrS' 
+Š
+?
+?Xî£9„„îîÒÒ³­­­
+n
+n
+¹ååOš0ââ—‘
+ûFÜX
+Â£„îXX
+o1Ç1›
+$	Ž	Ù1ó>¨Ç1˜˜M·GGGGÊÊ4Ênnbˆ
+ò=iJ´==
+Ì
+Ì
+ÌbC­
+
+øøbb­­uuuP
+º!!
+‹!lll
+Ö
+
+FÜ''‘‘B
+¬BBgýýgý¿tHØØ
+÷
+÷
+÷ØnOåš¹¹š0š77cc]ó>>J´´JÙÙoo¨>>Ô®Í7]]|Ç‰‰ó@@Ö		(’!!MM·!@@àà++và•ÿ´
+ˆÿÿÿÿÜÜ''k
+Õk££
+w
+,
+,Xî—-  kk~~~îî££bøCCøøøb
+¹
+¹šš0Æ½SS'   ¶3
+3É„„îPP1›
+o
+o	Ž	Ž
+$
+ºæÇÇÇ]TT¾¾l
+Ö
+Ö
+yZ
+Ä¥;nn
+Ì
+òˆÓÿJˆ==øøbøC­øø­­CCøøCCuuuæP!!
+‹!lll
+Ö
+
+Ür''''ØBBBý““ýý“Þ²BB
+÷
+÷
+÷ØnOåš##nnnšÍÍcc]Ç´Jàoo>Ô –D®Í7]]|
+æÇ‰‰óÖÖÖss(’····!‹ÖÖvvÁÁàJÿ•J´
+ˆÿÿÿÿÜÜ''k
+Õ
+Õk££9£
+Â
+ÂXî—LL~XXbøCCøøøbOO
+n
+n00Æ½SS¶¶¶LÉ3
+3„„îPP›
+o
+o
+$
+$
+ºPPP››1Ç¾¾((l
+Ö
+Ö¥ðZ¥;ØØbˆˆiÿ
+ò
+§
+§
+Ìbbb­bøøø­bbCCCC$$À**ÀPPll!·˜·
+‹	Ï
+eÜÜ''rr#ØØHÞýýHÞH
+÷##Øn¹¹nn
+÷###¹O¹ÍÍ‚]Ç´´JàºP11µ– ®¨¨Ç1>Ô>Ö@!!üüüüÖl!‹õ‹‹õ••àv+•´J•ÿ´JJii''''k
+Õ  £î£9k¶L————ªÉ
+9îX­CÙCCCb
+Ìššššš0'Sé-—~
+R
+Rî„9£PP››PP
+º
+º›1PP››æ|¾((’llll¥;†Z¥¥¥BØbˆˆÓiˆˆ
+§
+§
+6
+Ì
+6
+6	ë
+bøŽŽC­
+Ì
+Ì­­­­ŽŽVÀ*Àææ››ll·M˜M!
+e
+ûFF‘‘ÜÜ#¹nnÞHýýÞH²
+†
+a
+÷#¹¹#n¹ØØ#¹¹¹OåOÍÍ‚ìÇ]¨¨àààvæ|11µ j‚>>ó]¨Ô jlÖ!!ffüü˜M‹õ‹‹õiiJà+•Jà•ÿ´´´ii''½½k  £99£
+Õk¶LªÉ
+9„îCÙoÙCCbøÆÆÆ0šš'Sé-—~
+è
+R
+R
+Â„9£PP››PP
+º
+º1Çææ››æ|¾((’ll;¥ð
+Ä
+y
+¬Bb
+Ì
+ÌøŽ|æ1
+º
+º
+o
+
+ø$$Žøø*
+”uuuìì|1111æP
+û‘ÜrlYY¤:ËËËË€<zz	Ÿ55êê€Ë5êêÞt)“HÞtt®®ì¨]]cùcù––jÔÔÔ‰¨>‰Ôjó¨Ô –Ñ¥ZÄy¥Ñ;¥Z.VV¡7Í7ÍÍ+•iiCCÙÙªªªõ_3399£
+w
+Õk——kkkLâ-ÜÜÜÜ0\\\Æ0åå{{uuuu„°F°„„„„£
+Â
+,
+É~~›ææÁÁ+ÁÇÇÇ1››1ÇM·!!GÝÝsl
+Ö
+Ö
+ü
+ü
+ü
+ü
+÷
+÷b
+Ì
+ÌøŽ|æ››PP›1CC$P$ŽøøÀ*uuuìì|11››P
+º
+e
+ûFÜlllYY¤:ËË€€55€¦¦¦¦Ë555êêê€Ë5êêÞt)“HÞttDDD¨]]cùù––jÔjj‰ó¨>µ–,KÔÔ –g;ZÄy¥;¥yZZ‚‚ÍcÍ777•ÿiiCCÙÙªõ‹õÉ£Ïî£
+w
+Õkk
+Õ
+Õ
+Õ¶L——ÜÜÜÜ0000Æ0OOå{{åuuîî„îî£X
+Â33
+è
+è›ææÁÁ+Á]]Ç1››1›·!!!GÝÝslll’’
+ü
+üC­CŽŽ|æPPPæ||ŽøŽŽŽø­­u
+ß
+ß
+ßuVÀæPææ
+o
+o
+e
+ûFF!···
+ÃYYY¤:55ŸŸŸŸ5Ë[ñÒhB€êê€€€ê€))““))))cùD¨¨®®®Dµµ‰‰ó]ó‰Ôj––µµjjµÑ;¥¥¥yyZZÄÄð†®®7¡¡7J´
+Ói
+ø
+øŽ$__ªÖ@£ÏÏ9X
+Âkk¶ 
+Õ
+Õk‘'''ååšš{{åå{{åå¡¡ÀÀ£î„„î
+Â
+Â£~
+
+æ|1›Á++Á|æææPP!!ll’’Ýs˜··’’
+ü’ÙÙCŽŽæPPPPæ||øbbbbø­­u
+ß
+I
+I
+ßuÀ*
+ºPææ››
+û‘FF·MM!
+x
+x
+ÃYYY¤555			Ÿ5ñ‡þ”B¬¬€êê€€€€))))UU)ý7Í¨¨®®®Dµ‰]]ó‰‰Ôjjj‰‰j–Kµ;¥;;¥ããÄÄÄÄ†D¡¡´
+ÓiŽŽŽ$õõªÖ@£££9„î££kkL¶
+Õ
+Õk‘'½½ååšš{{{{{{åå¡¡ÀÀ£
+w
+wXîX
+Â
+Â
+Â£ª33Pæ1›WÁ+Á||P
+ºææPP··ll’’Ýs˜··’’
+ü’##ˆˆPPÀÀVìŽø
+
+Ìøøø›
+oPææP›11|æ››!!!·
+Ö
+Ã
+ÃYïïï::€€Ë5TT	5Ë÷ØB€aa¦[Å[ñ<<ttt
+ëUÞ²ì‚ccó]>cÍ‚cÍÍ7¨Ôj ùD®jÔ‰‰%Ú®44ÊÊZZZZ¥¥ZÄ4`ö®Í7Ç1||ÿii••ÿJJªªõõõõ~££î„ª~33 ¶——rr‘
+ûÜrrÜ ¶LL00åå\ÆÆÆ{{š0\Æåå£
+wXX
+Â
+Â
+Â
+Â£ÏÏ£+Ávvvv
+•
+•víW((
+±G
+ü
+ü
+±Gll((ÝÝ¹#
+òˆˆ
+ò
+òææ››ÀÀÀVŽø
+
+Ìøøø1›1Ç|æP›11|æ››··!·ll
+Ö
+Ö
+Ã
+Ãï…ÐÐêê5ŸTTŸŸŸË€ê€aa¦<ñ[Å‡Ò¦ttt
+U¿HH‚ccó]¨ÔcÍì‚ÍccÍ>>j %D®>Ô‰‰ùD4444ZZðggð.žÊ`Ê‚Í71Ç¨¨ÿiÿ+Á+vv@@!!‹_~
+èî„33
+Š rr'‘ÜrrÜ 
+Š  00ååÆ\\\{{Æ0Æ0åå9££XXXXXX£9ÏÏ9£+Áv¢++
+àvWÁ((
+±
+
+ü
+ü
+±G˜˜¾¾ÝÝ#¹
+§ˆ
+ò
+òˆ|æ11VVu­Cø
+Ì
+Ìbøø11Ç]|PPPææ|Ç1ææ·!
+ÖlMM
+Ö
+ÃY…fÐ…ï55êT	ŸêT
+¾TŸŸŸa¬ññ‡‡ñ‡Ò¦HHÞt¿)ÞÞùùcÍ]ÇÇó‚‚Íc®®‰‰‰ùDÚjÔ‰ó®DD®é¥ð†¥žÊ`Ê‚cÍ|ó‰•i´àvvÁÁ@@ÖÖªªª~î„õõª~
+Õ
+Õ ¶''ÜÜ''rÜk
+Õ
+?
+Õšššš0ÆÆ0{{åššOå„îîî£££9Ï„„99Á+++vv¢Á+++++(¾’
+ü
+ü
+üGÝ˜˜ãã		ÝGÓˆˆæP›Çìì¡CÙø
+Ìbøøø11Ç1|æPPPæ|]ÇPP!
+‹
+Öl·ã˜lYï±Ð:ï…ËË€êŸ	TêêTŸŸ5Ë¬‡‡‡‡‡ñ<<HHÞt¿)ttùùcÍ]ÇÇó‚‚ÍcDD‰]]ÍcD,j‰ó®DD®éé¥ððZ¥444ž®ù|]ó•iJàà••ªª@@ªªªª££î„õõª~
+Õ
+Õ ¶½½rr''rÜk
+Õ
+?
+Õ00šš0ÆÆ0{åOOå„„î„9££££9„„££+
+•
+•
+•
+à
+àvÁ+++
+•
+•’(’
+ü
+ü
+üGÝ˜˜MMssÝG
+÷
+÷M·!!
+ž
+ž……………ïY¤¤¤ÊÊÊÊÊÊÜF'Sé'
+°
+°==iÓ´iÓP|ÇÇÇ1ÇÇAAööïY¤:rÜÜr''Sé‚ììVV7ÍŽŽ$ºooo#÷÷÷÷UëUU{\Æ  ¿¿åå0òO#Ißß³{{§\\BBBBhÒ<Ò§=§
+t
+
+O#n¿)ÞÞÎdúú>¨‰‰dÎƒ‰‰ó]A×""ÞÞHHËË5Ÿ		
+¾TœœQ»•+vv¯>¨ó]A×A×tÞHH×AŒ"““²HI³	ñ
+<
+<
+Ò
+Ò
+ÒhþhhhÏÏ„„99ÏÏ©©©©ôô^^
+ºPÜ!
+‹
+‹
+‹
+4«ïï……ïY
+ÃY¤44``ÊÊÜF
+û'½'
+°
+°=iÿiˆiÓææ››Ç1ÇÇAAöö…ï:Ðrr''½S‚ìVVVVÍcºº$ŽÙÙo#÷÷#O¹ë§ò\  ëëå0Æ##ßuuu===§§§\\ØØØØhÒÒh§=§ 
+66å¹šU¿ttúddd>¨óódÎƒ‰‰ó]A×""HH²²555Ÿ		ê€œœQ»
+ÿ•vv¯Ô>]
+ÇA×A×tÞHH×AŒ"““Þtuß³
+‡
+<
+<
+Ò
+Ò
+Òh”þhhÏÏ„„9999©©©©ôô
+È
+ÈPæ
+°
+@
+@	õ
+‹
+é«YYï…ï
+Ã
+-
+Ã¤:Ð`Ê«Ü
+°FF'‘‘‘ˆiÓˆæP1Ç111«ööÐ:Ðfééž½½½½777¡ì‚‚ºº$ŽÙo$$ØØBBØ¹ëëëòò=§666Ì§{\\##nn*À¡¡ˆˆòò=§\\n¹#þþ””òò{  66åOš0U¿UUúúúÔ>ó‰úd‰‰>¨A×"¸ÞÞH²Tê5ŸŸŸêçQp
+Ú
+i•vvddÎÎó]¨Am""ÞHgg"ŒŒ"“)6ø‚*³
+‡
+<
+<³³ßßI³
+Ò
+Ò99ÏÏÏÏ„^ôŠô
+}	ç
+}1
+
+@
+@!·
+Ã
+ÃYï…Y
+ÃY¤:fÐ`öA«FFFF
+û‘''ˆiÓˆ´´æP›Ç]Ç››«``ÐfÐfé4žSS''7cÍ7‚‚$$Ž$oººØØØØØØ##UUëˆˆ=§666Ì§§ˆˆååšn”*ˆˆˆˆ=§\\š¹#””ÀÀòò{
+
+
+6{0Æ¿UëëúúúÔ>ó‰úd¯¯jÔm×"¸ÞÞÞHê€aË55€€çQ
+Ú
+D
+i•vvdddd‰ó¨>mm""H²ggŒ"¸"ý“ÌºDÀI	¦	¦
+‡³IIII³hh
+£
+£9eûû°^ôŠô
+}	ç	ç
+}››
+Ö
+Ö
+@
+Öl
+éÊ`
+é4`…ï¤¤Ê`A«`öŒ`YY¤!!!!‘'ÓÓøø$$|æ›1VÀ**::ÐÐöŒŒöyZÄž'']ó]]$$Ùo›æP#I³I§=­CbÌ6Ìbøˆˆ{{åO¹¹šøøøøÓ§{u”þ³Iuu§§\Æšš{§{Æ\{EEE¯dújÔµÛÛEEÞÞÞÞHHHÞ¬¬¥¥¥àJ
+´
+´pQQdd>>‰‰""×××AŒŒý“ÞHmmz<ì*þh	ñ	[	ñþþhh³³þþ9
+
+£Ïe''û„„ÏÏ
+î	Â
+
+£˜ll
+é4Ê``…::Ê`«Ê`öÊYY:¤!!!!‘'rrÓÓˆˆøøºº|1›À**VÐÐÐÐöŒŒöMãÄ.r½½]ó]]ºº››1|æ¹OššI³I==ÓiCÙŽøøŽ$º´´JJ{åOOšŽŽbb=Oåu”þIßßß\ÆÆÆ§§§Æ\{EEÛEú jµÛÛEEÞÞÞÞÞÞ²HBØ€yàJJJœ2}Q88óó""×
+«
+«AŒŒgýHÞmmNäÀ*þh	ñ	[	ñþþ
+Ò
+Ò³³þþÏ
+£
+£
+£9û'û
+î
+î99
+î
+î
+£
+	Ù	ÙããMÊ
+ž4Ê«``ï…ïï````ÊÊÊÊ¤¤¤¤!!ll‘'rÜÓÓˆ
+òbbCÙ|æ›1À*u7fÐ::««AAMM˜˜rrSSóó¨ÇÇ›››PPOåOOI³þ”òˆÓi$$ÙoPº•+ààò\Æš0Æ0Æ$Ž­C\0ÆÀÀ””**ßI00{{§Ói=\0å{{{0Æ&údd&µ‰‰E¯ýýý“ttH²¬€T.ÄyyàJJàQ}çQdd
+í
+W
+|óó"¸"
+ö
+
+«AA²ý“""×*”
+‡	ñ	ñ
+<h³³
+‡hhhþ„9
+£
+îeÏ„
+î
+£9„„9
+£
+$
+$MãMllÊÊ4Êöö…ïYY````ÊÊ``¤¤!!'½rÓÓˆ
+ò
+Ì
+Ì­æP›1VÀuÐ:¤¤««AAãã˜˜SS]]¨>¨|1]›››ººoo#¹OOßIhþòˆÓiŽŽo]µ‰|WÁààò\00Æ\\òPºÙCˆòˆÀÀ**ÀÀßIÆšå=iÿÓÆšOååå0Æúúúµ‰ó‰úú¯ýýgýttH²ê€€T.ÄàJJàQQQ»ddƒ
+í
+|óó"äN"A
+«
+«
+«²H“ýŒŒ××þh
+‡	ñ	ñ
+<h³³
+‡
+Ò
+Ò
+Òh„Ï9„„Ï9„
+î
+£9„„Ï9
+$
+$·ll
+é
+éYY:Ð˜
+Ö
+Ölr½'rÜFÜ'½½'Mã˜||1›*ÀVVVÀ*À…ï¤¤:Ðfffffffÿÿ•+P$Ùcc®¨>>>Æ\ˆˆˆò§§u¡ÍcòòiWíà´DDcÍ77¡¡ÆÆ=®‚¡ååå{Ž$$b===§åå=Óˆn¬a÷EEjÔ‰µíÁ++Qç2HHýýÞHýý““H²g““ýóó¨¨¨ƒƒ¨óóm™ä¸
+ö
+ö
+öŒê€€êTêŸŸBB
+÷
+a	Ë
+¬BBB
+÷
+÷
+Ò
+<
+Ûqqqq„„„
+î©ô^
+•
+•·˜˜
+é
+S
+S
+Ã
+Ã¤l
+Ö
+Ölr'‘ÜrrS½½Syãl||1›Vì77¡¡‚‚ìVÀV…¤¤Ðff’’fffÿÿ•+|PÍÍ‚>ÔÔÔ\òˆˆ´ÓÓ¡Í%iÿÁÁJ®®ùcÍÍÍÍÆÆ=D7¡{Ž$$b§ÓÓ={{§=òˆB÷##ÛÛjÔKƒWWW}^2HH““ÞHýýýýÞHýýýgó>¨>>¨
+|
+W
+íƒ>¨]]m™ä¸ŒŒŒ"ê€€€55ØØ¹#
+a	Ë
+
+¬
+¬
+¬h
+Ò³³q
+Û
+Û
+Ûq„
+}ôŠÁÁlllÊ
+ž
+ž4¤¤YYl!!·M··rrÜÜÜr4S½½éã·M|››¡ÍÍ7Vì®‚ì¡7ïï::¤:fü’(G±•++ÁæP›‚‚>Ô§=Ói´Ói‚ùù=ÓÓi´J´ˆ®‚‚ììÍ7{{Æò®‚VìÆ0øøC­ˆˆÓ§\\ÆÆòò\\nØØnnnØØÛEEÛóÔ 88©?©})))))“““ýý))“ýgg>ÔÔ>>>]
+Ç
+W
+W8dÔ¨m™ä¸×AAAŸ5ËË€êêØnnØ
+	€	Ë
+a
+a
+aBBhhhþ¼
+
+ÛqeÏôŠ¢¢lll
+Ö
+Ö
+ž
+ž4Ê::ïïl!!MãMMrrÜÜÜr½'½éyMMã|››7Í7ì‚‚‚7¡ïïf’fÐü’¾(±…±+Á+ÁæP›1D®®Dj µµ=Óiÿ´iÿ®ùÍ§=iÿˆòˆˆ‚‚‚ìì¡7òò‚VÀVÆ0ŽŽCÙ´ˆ==ˆˆˆˆò\\ØnnnnØE¯¯E‰]>j8v¢©??)))))“ýýýýýýýggg>ÔÔ>>>ó]
+í
+í8dÔ¨×¸¸×AAAŸ5ËË€ê
+(
+(
+¬BØB
+	€
+a
+÷
+÷
+÷
+¬
+¬
+Ò
+ÒhþR&
+Ûqq„„eÏ©©ôŠ··M··
+xYYYï…ïll!!‘''½ÜFÜrrFF!··ã½‘‘'VÀ*À|óó]Ç]ó>>¨Ê`Œ"…füüüffŒŒöŒ›››1ÇÇ1ÇD®»KK  ´´ÿÿiÿÿ+òòò\Æ\ÓÿÓ=cc®®Ó=\Æ7cùÍVV¡§{{Ž$oÙC­bøooo´ˆ\\##¹””””EE¯ƒ¯E2œœœ¢íW¸"™)“²
+ö
+ö
+öŒ‰jÔ¨¨óó¨]ódÎ
+íƒýý²²²²HHyZZy	·	·
+¬BØØ
+¬	€
+a
+÷BØ
+÷hþââââ¼¼¼&99ÏÏ^ô??ÁÁMMããã¤YYYï…ïll!!‘'½Sžr
+°FÜÜFF!···‘‘‘'VÀ*À¨‰‰]Ç]ó¨¨¨`öŒ"…füÐÐf’¸¸"Œ›››1]]]ÇÚD»áá––ààÿÿÿ•++òòò\\òÓÓÓi´´ÚÚÿiò\ÍùùÍìì7¡{Ž$oÙCŽ$oo›Jò\\##¹””””qq&&EEEÛÈ2và+Á"Œm)“²
+ö
+ö
+öŒó‰jÔ¨¨óó>¨]ódÎ¯“g²²HHyÄÄy
+M
+MBØnnB
+
+a
+÷Øn#³³h
+ÒLLââRRR¼99ÏÏ^ôÕÕÁÁMMyãY
+Ãïï¤¤::·!llFÜ½SF
+°
+°FFFÜM·ll
+û
+û''uÀV]]¨¨]]¨ÇÇ`ö""ffüfÐÐfü¸¸¸"›ÇóóÚÚÚ,ÂÂ,••iÿJvÁ+=iÿiiÓ=§=iÿiÚÚÚÚJ´Ó=®D®Í¡\\==ººPPoÙÙÙŽŽ$Pÿ=\\nš**uß&&qÛÛÛ&¼?QQ+••+m××)“²²gg
+öŒŒŒ¨>Ô>¨ó‰jj>>dddúÞ²²H“ýyyyÄÄ
+ã
+ãØnnØ
+÷
+a
+¬BØØØØI³
+¶
+¶âx„„eeÕÕ??ÁÁ!Myã
+ÃYïï¤¤::M·llFÜ½SrFFFFrãM‘‘½½¡ÀVÇÇ||]]¨11ŒöŒŒÐÐfÐÐÐfü""¸"1ÇÇææDpÂXîX•iÓiàÁ+=i•++i=§=i•ÿÚÚDD´ÿi®DÚppcˆˆiiPPææoÙÙŽŽººi§ÆÆØ**ußEÛqq¼R?ççWÁ+Ám)“HHHHýý"¸¸¸¨>Ô>>¨óµXX–júúdÎ²²²²HÞ“ý
+ã
+ã
+ãyÄÄyyØnØB
+÷
+a
+¬BBBØØ³
+¶
+¶âx„„ÏÏ©©©©ÁÁ
+òÓÿÿÓæÇ11Ç||ˆCCCCããM·FrSS««::ÐÐ˜˜˜½½ÜÜÜrS½˜˜y>¨]ó]Ç77‚®®444Ê«44Å[ñ³hÒÖ@@ÖGÝÝG`"mA1]>¨íWWWiiˆ®DÚÚp%ÚÚ11|Á•àà77‚VuußßII***”äNää/[6 ¿)¿U¿);Ñ†ð¥;;¸¸m)))“‰‰Ô>d¼¼¼íà
+´p»»+++
+ÿ
+Ú
+Ú%%»QQQ66 
+
+N	¸
+Nznnþhhh©©©©^^ÏÏ„
+X
+
+£
+î
+î44
+\
+§ÓÓÓ|¨]ÇÇ1ææˆ
+òˆˆCCCCããM·ÜÜ''
+éÐÐÐ¤ll˜½½ÜÜFÜ½S..ãy¨ó‰ó]ÍÍ®®®®®44Ê`A«ÊÊÅñ‡³þh˜˜GÝÝG`"×««Çó>¨Á+WWiiJ´®DÚ®®Dœ ÕÈœ]1|íÁvvÍ¡V*uuuuß³³ßÀÀ*”zä™m¸¸™Å6 ¿)¿UU¿ÑgZ¥¥¥""m))“)Ô>dÎÎíÁv¢àp%%
+ÿ
+ÿ••pp»»»QQQÌÌ 
+
+N	¸
+Nz”þhh©©©©©©^^ÏÏ„
+X
+
+£„„44
+§
+ò
+ò==1]]]æ
+ò
+ò
+§=­CCC˜˜lFF‘‘
+ž
+žÐf…Y
+Öl˜½½½½rr½éÄ˜MMÇ]‰>>®®Dùùù``ööŒö™Åñ‡<ÒMã.ÝsÝG«Œ""ŒA«>‰]vàÁWÿ+8%cÍc%?::x–¨]óWÁÁìÀÀ**uÀ”ßuÀ*ßu¦/mäzU¿tÞt
+U¿Ñ¥¥;;ŒŒmm““HÞÔÔÔÔ¯¯vvWÁ+WW+»»»%
+ÿ
+ÿ•+»»»»»Q6 UU
+N
+N
+äznØþh³³©©ôô^^^ô„
+î
+î
+X
+£
+£9ÏÊ4=
+ò
+ò==›››Çæ
+ò
+ò=Ó­CÙÙ˜˜lFF‘‘ÊÊ«Ðf…Yl˜''½½žžééÄ˜ããÇ]‰>>®Dp%ù%ööŒŒö`««/[‡Ò<‡³M·	Ÿ	s«AöŒŒö«A>j‰]vWíÿ+¢v»Q%ù7ÍQ2^#¬4–ó‰W•ÁDD‚V**¡V*uÀ*Ißz/mNä¿)HÞt
+U¿††;;;ÑÑÑN"mm““Þtj>>>ƒƒààÁ+++++QQQ»•••+QQ»»%» 
+
+¿
+¿
+ä
+äz##ØB
+ÒhII©©ôô^^^ô
+î
+X
+X
+î
+£
+£9ÏÊ4­ÓÓÓ=
+ß
+ß**ÀÀuu====bŽÙÙ½½'‘·M··«::¤¤ÜÜÜrMM˜.žSSãã..ì‚ì‚‰Ô>Ôj–,%DD«×"Œ†ðÑgê÷###yM·MËËŸs«`Œff…ójÔƒíÎÎpDJàJˆ§Ói´J8~@úvvà+WpÚÍ*ÀVìåOOåÀ”þ”ë¿)“““ÞÞ¸NäääN;;¥;ðð†ä¸mmHH““úú>¨¨>QQvà++vvvà
+ÿ
+ÿJàÁ+Jàvà
+ÿ
+ÿz////ÅÅ##ØØ³³”þ^^??ÏÏeÏ
+î
+X
+X
+X
+È^^^¥­iiÓ=uu**ÀÀÓÓÓ
+§bŽCC½½'‘·M··«¤¤::ÜÜÜrãã˜.ž½½ãã..‚‚óµ jÔj–,»%Ú®«×"Œ²ý“B##¹OO¹yyãyË÷5	«Aö"((ÝG]‰–,Û88ÚÚDD´JJˆ§==Óˆòò´8v´´JÁÁD®7u*ÀVìåOåO**”*ë)“““ÞÞNääääN¥¥¥;††ð†N"××HHýýddÔ>>ÔœœQQvà••JJJ
+´
+ÿ
+ÿJà+•Jàvà••z//////##nnIIh
+Ò
+È
+È©ÕeeÏ9
+î
+X
+î
+î^ôôô¥bÓi¡ìVVVuu´Ó=øø­­ÜÜ‘‘··l«ÊÊ……½‘Ü..ããžžr˜˜ãyDùÍ¨ÔµK,,ppÚÚAm"Œ²ÞttBØ#Øå¹.ÄZZËË5ŸŒŒŒNT¾¾¾‰‰µKEƒ¢¢ùùD®´i§§ÓˆòòˆÁ•iÓàÁÁÍ¡ìì7¡åå0IuubÌ t))ttN¸™/NNN¸ððð†ÑÑ††¸"mmHHHHƒ8Î‰‰>Ô22à
+´
+´
+´
+i
+ÿJJJJ•+àà•+ÁÁ+•zz/
+™
+N	¸
+
+™ØnnØ³³
+‡
+È^^ôeÏ999Ïôô??;¥bÓi¡7®D‚Vuu´Ó=bb­­FF‘½MMl«44…±±±½‘Ü..ããžžr˜˜yDpc>>‰  ÚÚÚÚAAŒö²Þ Ìš#nšå˜.ZZ5		ŸŒŒ"ä¾(¾¾‰]]óƒ88D®òˆÓ===òˆòˆ++•ÿJƒW‚‚cc7¡ååÆšßßßuÌbÌ ))  N¸™/NNN¸ðð†;;ðð¸N™™HHHHƒ
+í8Îóó¨>22œp
+´
+´
+´
+´
+ÿ•vvJJ•+àà•+ÁÁ+•zz/
+™
+N	¸
+
+™nnII³
+È^^ôÏ999Ïeôô??;¥øˆˆ­Ù|ÔÇÙøø››P
+º
+ßu¡¡«…ï¤¤M·
+‹
+‹.yã'‘''ržÄÄ˜l˜.Z1ÇæPPºPææ|¨]]	ŸêTz¦þÀš##u7®‚mm""ööŒ"€€¬B€ËË‰]¨>>>>àà•i®®®®›o›WÁàJòòò\òˆˆˆ§§§‚‚Í7šš{{ußßI¦¦Nä÷÷BB÷÷÷aËË¬¬ËËËËZ†Ñ¥êTŸ5ƒÎú>¨¨ddƒ
+íƒ¯jj>¨¨¨¨¨ó‰¨BØ
+÷
+<
+<I[Å[ñ<¦Å/
+È
+È^ôŠô999eûû°
+ü
+f
+Ì
+ò
+ò
+ò
+òC–óŽŽ1
+ºPu¡¡ï…¤¤·!
+‹
+‹l˜yã½'''r44žÄÄ.˜˜˜oPæPººP|¨>]]¨¨Ÿ5€¦Òþ”nØ##ßuìì¸ŒŒŒ"¸€¬¬€ËË‰‰¨>ÔÔ¨¨àà••pD®®›1Wívˆˆˆòò\šš{{{V‚7¡å¡uß¦¦zäzzØØ÷÷÷aaa¬¬ËËËËZ†Ñ¥êTŸ5E¯dd>¨¨ÎÎƒ¯EÛµµjjjÔ¨¨]ó>¨Øn#hhIIÅ/Å[¦Å[^^ôŠŠôÏÏ99e‘F„
+ü
+f
+ò
+ò
+ò
+ò
+ÌŽæ¨1ÙCÙÇ1›144¤¤¤:·!!·˜.yrrrrž4žãyyã...˜$$o›ºP|¨Ôj>¨Ÿ5¬<Ò÷÷hþ*ÀmmmAŒ¸™¬B€€€Ÿ	]]‰óÇÇJ´iiùùùæPææ8Î¢ÓÓ==ˆ\åå{§§‚‚‚Vš0\‚ì<¦zz[ÅzzBØnØB¬÷÷÷÷÷ËËaa¥¥¥¥55Ÿ5ddƒƒóó>¨ÎddddúÔ>ÔÔÔjj>ó]
+|
+|¨>>nØØØþþþ”z¦¦
+È^?Õ?
+È^„„ÏÏF°„
+±
+±­ˆˆbø$ºÙ­­CÇ]Ç1ÊÊ¤¤:ÐM··M˜.yžžžžMããyZZZÄººoÙ›æ|¨jÔ||	Ÿ¬Ò<ññaa÷÷Òh”*×××«ö"™¬€ŸÝ››ææ]Ç´i=cùùùæPPP8Î¢ÓÓÓÓò§§§===‚‚Æ0Æò®¡¡Ò<zz[ñä¬BØnB¬÷55ËË¥¥ËËË5ÎÎƒƒóó>¨8ÎÎÎdúúú>¨¨¨¨>jj‰ó
+|
+|¨ÔÔnØØØhhþ”¦¦<<¦
+ä
+È^?Õ?
+È^
+î
+îÏÏF°„GGCiiÓÓˆ´´
+ò
+ò
+òÀVVV:::ÐM·llMã.ÄÄÄyã.˜''žZð¥vàJºæÇ]8¢íÎ8TTËaËË<<ÒÒ¬ØnnA×"Œ±G’ü;ððaa€(ææÇ]ƒíàà´´ˆÍc®DÇ1››Ç]Ç›®®®DÓ=ˆ®cc§ÆÆ7cÓ§{{Žb6 [ÅzNaØØÑÑý““g†€êêê55Ëa¬¬¬€Î8Îd¯¯dÎ¨‰‰‰‰>¨¨¨]‰µµE
+í
+W
+íƒhhI³BBØnz¦bÌU
+¿
+î„°°©©©©^^^^eûee(’i••iˆ´´´ˆ
+ò
+òuuuuÀVìì«::¤:M·llMã.˜˜Äy.˜''rÄZyàvàJºæ1ódÎíÎ8êêËa55BÒÒhhØØØØA×"¸s	(’¥Ñð55T(|¨ó]íWvv´J´ˆÍcDÚÇ1››Ç]1Úÿ=òˆ‚ÍùÓÆò¡u¡Í§{ååbbÌ6Å/ää÷#Ø¬;;gý“g†ð€êêê55ËaBB¬€8
+¢8úÛÛúd¨>‰‰‰‰>¨>>óµµE
+íƒƒ
+í
+íhh³BBØn¦zÌ6U
+¿
+î„©©??ôô^^Ïeee(’CiÿJii´iiˆ
+ò
+”*uuu77``…ïYY··MããM˜.M·MyðZyãÜÜrÄÄ..••JJoæddÎdÎWíŸ555÷#³IuuO¹÷öŒ×êê	Ý†²²ð€êT¾¨>]ÇWWv•ÿÓ=cùDÚ1››ó‰177Úi§§=Í7Í´ò=Ó7uVòÆ{{ÌÌÌ6¦zzBØØ¬††ÑgH²;¥€€ËË€ê5Ë¬¬a58
+¢
+í¯ÛÛE¯‰ó‰ÔÔÔ>¨¨>>>jjj¯¯¯ƒ
+¢
+¢
+Òhh
+Ò
+¬ØnÅ//ÅëU 
+
+î„eeŠô?ÕÕ?^
+È„„„GGÙÿiÿÿ´iiˆ*Àu¡¡ÊÊïYYYMM·MãM˜.ãMãZÄyãrržÄÄÄÄ++ààoPP8ddÎ8¢WíŸ5€€Ë÷¹Iß¡¡O¹÷öŒ×êêŸŸHH†€êT¨Ç1íí¢ÿi§=cù®D1››1]Ç›o77®D=§§=cÍù»Jˆ=Ó7¡Úòå66Ìb<¦B¬¬¬††;Ñ²Ñ;aa€ê5Ë55Î8
+íƒEE¯‰ó‰jjÔ>>>ÔÔjjjjEE¯¯¯ƒ88hþh
+Ò
+¬Øn/
+™
+™/U
+¿
+ „ûû Š©?Õ?^
+È„ÝÝ6ëUëxâÏÏ°°ôôŠŠ§§\
+Æ§\ˆiiò\òòò''rž½'˜.ããrr½SXXXX£_‹‹õ„°°ëbø´J••®%%cì‚¤:f˜˜˜lÄ.y·ÖÖÖ@þ”³Ž$ŽŽh<[‡ÒÒÒh„îî„îXÂXXîÉ3É_ª@‹‹ªR,,î_3¼&üü±±±±±±L   kk¶¶000šuVÀññ<¦¦¦[ÅðZ¥;gg††ÝG’(ãMMã||Ç]óó%DDùc®®++•
+i
+Úœ%%•
+ÿàày¥¥ðZÄZH²HHÞÞðð ëUUëxxâL3ee°°ŠŠŠŠ§§ò\§ˆ´ÿÿˆòòˆˆ‘‘ÜržS½˜.yyrr½SXX££XX£9õõ_É°FFŽ$àJÿÿ‚»%ù®DÐfü(Z†Äll·!@@@ÖÀVI³Žøø$þÒ‡‡hhþ”„„„îî„ÏÏ„î33Éª@õõèÂÂX„_3èR((±±GG±±xL¶¶k—xLššš0¡7ìV‡‡¦[ÅZ
+Ä¥;ÑÑ††sÝ(¾ãM·Mææ1ÇÇÇù®®ù®®••
+ÿ
+ÿpœp»»œœ•
+ÿJJy¥¥Ä..ÄÞH²²ÞÞHHZZ6  ëëââ——Rè3ee?Õ Šòò=§\\ˆ´ÿiˆòˆˆˆûûFÜrÜ˜yžSéî„„îXX9e!õeûFFbŽo++JJ‚®%Qç»%ï…f’ÄðM_ÖÖ‹‹Ö@õ·ìVßIoCøŽþh³Iu°ÏÏÏÏÏÏ°°„~èè~_õÉ3£9£9~~3ÉT(’’ÝÝüüxâL—xâååOåV‚7¡ñ[Å[ñ¦¦¥¥ðð††††¾¾		ã·!·æP›1›11ÇD®ccùùcc••
+ÿ•%%»»pp
+´JJJy..
+ãyÞÞ“)tÞýg666ââ——¼RÏÏ©?Šô\\§=\\\ˆÓ=ò\òˆòòûûFÜÜÜÜFlãyrSéî„„îîûû‹_~~eûFŽŽÙoÁÁvv‚®Q}ç»ù-Ã:fll_ªªõõÖ@‹M®IooŽ$hÒ³ßF„ÏÏÏÏ99„ª~è_õè39ÏÏ9~~_õ€TTTŸŸ(üâxx-—âx{O¹OÀìÍ7ñ[ñ³h<;;ðð††††¾¾		M!·M|æ›1›1ÇD®cccccc•••
+ÿ
+Ú
+Ú%%%%
+Ú
+Ú
+
+´ààyÄÄ¥ÞÞ¿6tg
+Ñyy[ññ[[RèR¼ô^ôô„„996Ì\\§=ˆò§=Ó=§§l··FFû‘‘½½SrÜÂîÏ9°„~3É‹‹õ!ˆˆÓÿºæææ==Jvv´ÓÓRè@Ö@É„„ÏÏõ_õ·¨Ô|$³IIIŽ$º$Ž$Pæe9F°„3É~„îw£Ï£3ÉXX99ÉÉª@¥yyy¥;ÄlââÃYÃ-xâ{O¹¹O{\\ññ‡Ž$Žb««;Ñ†ð˜˜ãMlMy|æævvWíJˆˆùùc
+Í
+ÿ•••
+ÿ
+ÿ
+ÿ
+ÿ»%
+Ú
+Ú
+
+
+ÿ+êêêêêêËËHHt6[Œ
+öTêÅÅÅÅÅRèèRô^^^„„996Ìòò§\ò=Ó=§§§l··ÜÜ‘'½½½SrrrÂÂ9Ï°„î~è3Éõõõ!òò=iPPæi=JJˆ§Ó~ªÖlÖ_°°ee‹!‹õP|P$³IuuºP|æ$ŽºPe9°Ür££É3~„îwá99ÏõÉÉ3,,9õÉª;¥Ä˜ÃYïYâLååOO00‡‡‡øbbbAA««;Ñ†ð˜˜ãM˜yy|æææWí´ˆ
+ò
+òùùc
+Í
+i
+ÿ•ÁÁÁWW}ÈœJJ++êê€€êê55HHÞ /Œ
+öTêz///[è~R¼¼¼©©^ôÏÏÏ9666bˆ§§==ò\§§!!l''''rrržS½žžÂ,X„°FeÏª~3__@=Ó=ÿæPæ|iÓi•ÿ=\ˆª‹!!‹É3ûûûeÖllªÙPºþ”VìæP1›Ù­øŽ°F'‘eÏ_É_‹°„ÂX9ÏÏe‹õ_3wwî@Éõ††¥yyy…YY:¤-—Æ\åššåO<ÒÒ<bbbø×A««†††yyyã··ããPPPP8ƒíÓ=
+ò
+ò®D®Jà¢¢8Õ?ôôƒúÎËË€€êê55HH““mŒŒTTz//Åñ~èR¼¼©©ô^99ÏebbÌÌˆ=§§==òˆ==!!l''''ÜÜÜS½žÊîXX„FÜûel@É3ÉÉ§iiÿPæ|iÓÓÿÿ=ò@Ö!·‹É3ûû‘û@Ölª­Ù$º”*ìVPºÙoÙ­bø„°°‘S‘Ï_õ!MrF°½'ûeõ‹‹‹ÏÏè3_¥ãMMy;s±YY¤-—\ò§{ÆÆ{hÒ<¦ÌÌbøA«««ðð²yã··ããææææ¢ÎƒíÓ=
+ò
+ò®DÚp8ÎJ
+´J+W}çœœWíú&O#¬€€€55HHýým""TT
+¬BnšL¶ÕÕ°âââLqqRèbbÌb==ˆòÌŽCC::ïï¤¤ïï::……f’—LLx-Ã‘‘e9É_õ‹ˆJ••àvWíÚ®®DÚÚDœ««4žy·‹õeûrF‹‹ÖªÆ\ÆÆ\ò==§§\\åš0RèR&q3è&—Ã…Ð:ÃY˜!‹FFûûõõÖªÂ,Â„aËê(·My;¬Tüfff±±ßß*”þþþh¡ußßß*Àyã˜··..ggÑ;ZZ;ÑùJ´=
+§=Ó´à¢Rƒ
+W
+|¨>vvàvÁÁÁí“¿)ýB¬ËË“ýý“N¸mýg³
+¬BØ¶ ??„„„LLLâqq¼R666Ì­­==òˆbøCCff……::……::ï…±ff—LLLâ-Ã''ûÏÉ_!·´JÿÿJàÁWDDDÚppÚ««4žy·õ9ÏFF!!Öª\ò\00Æ§§òò{{0Æè~R&Ûq¼&—ÃY¤YÃÖ@õ‹FFeeÉÉ@@XÂXî5Ÿ(’·Mãyêê(’üüGGßßÀ*þþhÒuußß*À¥.˜··;;gý†Z¥;ùJ´ˆˆ=
+§=Ó´vú8
+W
+W
+|¨àààvÁÁÁÁ¥¥ýUÆa“ýý“¸"×A
+Ñ
+;³
+÷ØØŠŠŠôÏÏÏÏL
+¶—¼¼q6Ì=§òˆ­bøÐf……:Ðff…ï:Ð±Güü¶L-—âFÜÜ°ªª!·´Jiÿ+ÁÁW%»%p»4`éZ.lª„„ûûÖ@‹õ\ò\00Æ§{šÆòò¼&¼¼¼¼—Ã¤xïÃõõõ!‘'Ü3É@@Ï9„îT(((ãy˜˜	Ÿ	s(((üIßuI³³‡*VìVuuuÄ˜lZð²ÞýÑ††c
+ÍùiiÓÓˆˆ=Óÿ+ÁÿÎ8
+
+¨¨¨>àJàvvÁÁ
+ãy;¹nn ÞýýA
+«
+«
+«
+;
+;³
+÷ØØ^^^ôÏÏeeL
+¶
+k¼¼bÌ
+ë
+ë§=ˆC­bøÐ:ïï:Ðff…ï:Ð±’’Lâ-—âFÜrF@@‹!´iÿ+ÁWíQç%Úp%%4S½˜˜lFF‘‘lÖ‹õ\òòÆÆ\==Ó{0\3&¼RR¼èYY¤:¤ïÃõõ!!û‘ÜÉ_@@eÏîXê¾((y˜lÝs	s((¾’ßII‡*V‚ìußßãã˜˜lll
+Ö
+ÄZ†Þ“g††ùùùùiiÿÿ´ˆÓi++ÿidÎ
+¢
+¢¨¨¨>àJJvvvÁÁ
+ã
+ãyŸŸ€¬ 
+ý
+ÑA
+«
+
+
+Ñ
+Ñ
+Òh³³
+È^©?eÏeûL
+¶
+¶
+¶—-x¤Ó=§§§§\\ÌbCÙˆ=i…ïïï…ff«`öŒŒ"¸----qÛq3FÜ'‘Ö@@Ö=ÓiÁWWWíÁÁ+ÿ´´ÿ•MããMM·rrrrl@@ëë­6bCÙ~RRRèª~ÉÉ~R9eeeÏeûÏ~‹õ„„££Ä.(¾ÝG’((’GÝsGßßIš0{åååO¹l··l
+Ö!·4
+žÊögÑ;;DDÚD®D%»D®DQ%DDƒ88>>óóp
+Ú%Qœ2çQŸ		ŸyyÄÄý))ýýg
+Ñ
+ÑA×
+Òh³³^ô?ÕÏ9ÏeâL
+¶
+¶-Ã=§§§§§òòbøC­ò\§Ó…ï……±ÐÐA«`öŒŒŒ"——ÃÃEÛFÜ‘ûÖ@@Ö=ÓiÁƒƒWí••++´´•+M·ll·!‹!ÜÜÜÜlÖÖÖëë­­­ÌÌ­è¼q¼¼R~@ªª33è¼9999£999è~õ_„„99ZÄ˜l’(sÝ’(’ü±GGGuuß³Æ0åOåååO.˜MMl·MÊ44`Ñ;;;®®ÚD
+‚ù®Dp%ùDDƒ88>>]]pQQœ2Q»Ÿ	Ÿ5ÄÄg“UU)“““×Ahhh^ôkk
+î„âL
+k
+k—YÃÃòò§§§=ÓÓCCøb§§=¤¤ï…ffÐÐA«««A×Œ"¶Lx¼&&Rûû°°@ÖÖlˆˆi+íƒ88ÿ•ÁÁJ´••!!ÖÖõ_õ‹FÜ‘ûª@!·bÌCøÌ­6 ëqqq¼RÉ_õ_3&&Ï999££îî33ÉÉî„ee¥¥ã			ssÝ(’’üGGu*”þhÆ0OO00ååy.˜MM«««††ð®®D®
+‚	ì
+Ícù%»%úd8
+¢¨»QQ»pTTŸ5¥yy²H¿ Þtt"
+öhhh³³ôŠkk°„„âL
+k
+k—---ˆˆ§§§=iiCCŽø=§§=¤¤ï…ÐÐ::«AAAA×¸"¶LLâ¼&¼¼ÏÏllÖˆˆÓ•ÁW¢¢iÿ++J´ÿÿ!!ll!‹‹õ°F‘ûÖlãMb ¿ëÌÌ­ëë6 ë3¼~__3É_É3&&Ï99999„„ÉÉÉÉî„ee;;55	ss	TêT’±±uÀ*”þ³³Æ0ååÆÆååy.˜˜˜ããAA«A††ðDDD®
+‚cù»%ùùÎdÎ8¨>Q»Q»œêêŸ5¥
+ã
+ã²Hý¿Ì6ttN"âqqèèxL—-R¼
+Û
+Û&¼¼¼bÌ­CCVVVVVÀÀÀ··M·lMM±G±ŒŒ××LââLqq¼Ree°ÜžrFÖÖÄ¥¥ðð˜.yy....11||¡uIIß**›1]1”Ò‡Ùææ6ÌbøˆòÆ6øoCPæ1IÒh 666h<Òhþþ””++Á+ààÿi‚ÍcÍßß!·ÖÐ:ªª_õ@@ª@íÁ•ÿÿ••ÿ%%DDððZZÊÊ`öA×ö`¥¥pp
+Ú
+ÚJà••»»»»•+€55¥
+ã
+ã××Œ" 6
+Þêxqqq¼¼
+¶
+¶—-R¼
+Û
+Û&¼¼¼6Ì­­­VVVVÀVììMM·!lãã±±öö×âxxâRè''rrž4žrÖÖÄZZ˜.ããÄÄÄÄ]]||¡ßI””o››”þ³ÙææŽ$øbˆò\\6øÙÙæ|›o³³ÒhÌbCCbbC­þÒÒ”**ÀÀí•ÿ•JJ•+‚7¡¡·!l@Ð:_õ@@lZÉEW•ÿ•+•ùùÚÚ†ZZZÊÊö``Êpp
+Ú
+ÚJà••»»»»•+vv€ê55;¥yy××Œ"²HHH€€L
+ÛqqèR¼&
+¶
+¶qq¼&&¼qq666Ìbb*VuÀV7¡M·ll˜..Ð:::«A"NÃ-Ã-è~3É'½rr½SéSM·My¥¥˜˜.ÄZyã||1]‚Vu”””hÙoººI³³³o›1›bbbø$ºC§­$$|P$ßßßuŽ$ÙÙøøŽøIh”ÀV¡¡í+Jvà´Jv‚ìVVÀÀVìMMÖÐÐ…ªª@MÑ_ÛJ´´JJD®®D%»»g;¥
+S
+SÊÊ»»
+Ú
+ÚJàààQçœpJà+•Tê€€ÑÑ;×AA×gý€€LqR¼¼&LLq~è¼&
+Û
+Û666
+ ÌÌ
+ë
+ë
+þ*uÀV7¡·!lll.:¤:A×"N——è~_É‘'ÜÜ‘'SéyãMy;;ll.ÄM·ææ›ÇìuþþþþÙoPPßußß›››bbøŽŽ$CCiÓÓ§C$$¨æPP77ÍPºCC$$$ŽuIþþ*ì7íWvvvJààVÀVVÀÀì‚yy.ff±ªª@!M¯WJ´´´´´ÚDÚD%QQg;¥;
+S
+SÊÊ
+y
+y
+
+
+D
+DJàvvç}2àvÁ+ê€;gÑ¥×AA×²
+†gý€€——-âLLL———-ÃÃÃxL
+¶
+¶§6Ì
+ë
+þ*VÀÀÀ77M!Öl·!·M`ÊÊ`öŒ¸N&úEÛR~_É!·l·Mãyr'S¥ããGÝ’’¾¾ÝÝuß*V]Ç1$$$$ooPæußßßuCCŽø­­CC´JÿÓ­CoóÇ||¡cW•´´•+•iÀ*””7¡ß}ç»»Á++•ÇÇ||¡¡7Íê€ê(‹‹@É_ª@ff±±Áÿÿ•%%%ÚÚ•ÁÁ•;¥¥;¥¥;¥
+Ä
+Ä;ÑÊ4
+ž
+	ù	ù	ù
+
+ÿ•+Á2ÈçQàvy¥¥Ñ;gg²ÞÞH²Hêê-—-xxxâââ-—-ÃYYâLL=ÓÓ§Ìb­”ÀVÀ**¡ÍyMlM··MöŒŒööŒ¸N¼ÛqR~É3õ‹ÖlMããMrÜ'S¥ãã±s((’’ÝÝßI*VÇ1››ººººooPæßI³ßßuÙÙøbCov+ÿCÙojj%»»»ƒ¢¢WÁ+ÿVÀVVu}ç»+Á+•óó¨¨ÍÍÍc€ê¾(!õõ‹@ªÐÐïï•ÿ•+%ÚíWÿ
+y¥¥¥;¥ZZ;Ñ`Ê4
+ž
+
+	ù
+
+ÿ•+Á2œQ»à¢yyy¥¥y
+Ñ
+Ñ²Þ
+tHÞ€T-xxxL—--Ã——-YïïïÃ--=iòÌb
+ëIßÀ*ßu¡7ããÄÄyMŒ"ŒŒ×mNNq¼èèèõ‹Öl!MMMrÜÜ¥;¥ü’ÝÝ’’’’**ÀìÇ››››ææPPPæÀ””*u¡$$oCbbÇ¢Á+ºPæ|KKá2œQçE¯Î¢WÁ‚‚Í¡¡¡©©}QàvàJ]ó>>Í7TT	sÖ‹!ÖõõÐ:YÃÿ+++%DÚDD%çÁi
+Ä
+Ä¥¥;†ð¥¥ð†`Ê%%
+Ú
+Ú••v}QÁíúú†Ä.
+˜
+ãy
+ã
+†²ÞÞÞý“5	—xxâ
+¶
+k—--—-ÃÃÃY…ïÃ--==ˆ\6Ì
+ëIßÀV¡7¡·ãÄð¥yöŒŒŒm/zz¼¼RR‹!lÖ‹···ÜFFr¥;Ñ¾(ss¾¾((VVV‚óÇo11ææ||PºIuVV*À7cºº$$›]¢Wí|>Ô££È2}q¼E¯pÚpccck?çvààJ]ó>‚‚7¡¾¾s	..ãMÖõõÐ:YÃÿ+++%DÚÚÚ%çíí+ÿðð;¥¥;†ðð†ö`QQpp••JàççÁEÖ6Ä.
+M
+ã
+ã
+ã
+†²²²²gý5	qââ—
+&Rè°e'½û„””I
+³
+ÙP$6bø$$ººø«öŒm×««…±[‡[3qqèè‘½'ûûû‘‘‘‘FÜ.Ä¥ýZÄyyêê¾¾ÓÓÓ•11C|1››oÙ0\Óibb›]]óócùDDjj –Káw£ÈÈ}ç,X„„„ÏeÜÜû9ççœ jjjÕ^2vv®7¡]]ÇÇ.˜Mãyy˜lÃ-âââL¶ ]ó>¨¨¨»%%»àà•ÿMã˜lGGÝÝ!!(’’(>>óó
+Ç]‰‰¨¨jäh$Hð.
+¾
+(
+s
+s
+†ggŒ"××€êLL-—&¼¼R°eû'‘„
+î””ßIo›ææbbø$ºPPŽÊ`«A««…±G™Å[[É33èè‘½½‘ûû‘‘''rÄZ;g.Äê¾===ÿ11oC|æ››11›ÆÆ§iøøo]]]]ÍÚÚ–Â,–Káww2}Âî°ÜF°Ïe r r‘ÏççœÂ,, —kôÈ¢8¢®7¡óó]]˜·MããÖÃ-xxxâL]ó¨>>»%%´´ÿiMã˜lGGGG··’
+ü
+ü’¨¨]]]óóó>>jîöNøHðZT
+¾		²gg"¸mm¬RLâ--RRRèF°ÏÏ°°„ßuuºP||C­CÙoÙÊÊÊÊ«««Ðf’’NzäzèèRèûûÜÜ°°ÜrržðZ††MMãa÷5Ÿ´JJJºP$Ž1››1]]|æòò=ÓCÙo>Ôóóc»»ww, –,áKÚ©?„ ' 'F„î‘ ½ 'û}eû£w¤â¶ôíƒ¯ícÍ77óó‰ó˜˜˜llYÃx——¨¨¨¨ÔÔpiiiÓl˜ãM’’ÝGl˜.(’
+ü’ó]]]]ó‰óó>>‰á„Þ†ðð€€5Ÿ²"¸¸¸ËaèâL¼èè~F°ÏÏFrÜFuuPæ||C­­CÙCÙÙ``ÊÊ«««Ðfff"NN¸¼¼Rèûû°°°ÜrÜÜZÄÄÄ!!·ãË÷a¢à$ºº$›o›Ç|æˆˆ=ÓCÙoÔjccù%áá,,Xîwç©°F ' 'F„î '!S!é ½kkÕ? ' ½ûÏf¤â ¯EƒÍ77cóó‰ð.˜˜˜˜ïYxâ--ÔÔ>¨¨>Ô 2piiiÓl˜ãM¾¾sÝl˜.¾(’(ó]]]ó‰‰óó>>óóÔj†ZððË5²Œ"¸¸Ë5~-
+k
+kLx-—¼RRRÕ??ÕžÊžÜ›oºPPæææÓÓøbCÙ……¤Y…Ðf×Aöö×mmm¶Lââ—-ÃÃFFûe‹··‹û‘'Sž½SffGsZ²ÞHó]1JJ+ÿ›oÙ1|æøø­CÙÙÙ›  µK]ÇwÂÂ©?©È2}©Š ¶ L¶ŠŠ L!S!é"Ê"4!x" — !x!x!- —TÐâÎùÍ‚¨Ô ¬€TT		ÝGYÃx-—‰>¨¨¨µW•ÿ•J´MM˜˜¾¾sÝ’(¾¾¾¾¾¾dÎƒddÎdƒƒ¯¥¥¥¥ZZZZm×Œ
+öA×¸¸Ä.R-
+k
+k
+¶â—&¼¼¼?©?``FPæ|æPPˆˆ==bøCÙ……¤Ãïfü×Aöö×mmmL¶¶â-ÃÃÃFF‘û‹‹‹‹eûû'žSéüüÝ	Z²tÞ]Ç›oJJ••1›o1|ŽŽÙoCCo], ‰‰‰á£Âî?Õ?©È^ôŠŠ ŠŠ¶!x!é""Ê"4""¤"Y!Ã"¤"¤"Y"ï"BêüÐèè¼ú%%ÚDÔ>>j¬€TT		G…-Ãxxx-—ó]¨]ó+••+àJ´´ãã¾¾ÝG
+ü’((¾êê¾Î8
+íƒÎÎÎdƒ
+íƒ¯;;;....A×Œ
+ö
+«A"".
+˜¼—
+¶L——¼&ôô©ééÜææ›ºº§§=bŽ$Ž……:¤Y±±Œ"""×AA×LL—YYÃYYFFF°‹õõõeûû‘½½S’(T€Ñ“tH|æPº•ÿ´´Ç1Pº1||CÙººŽŽPÔá Ôj,X„e9î  Õ©ôô?ÕÕ??ÕŠ  â""Ê"Ê"!S!x#:"ï"Y"¤#:$$"Ø!¬ê(‹õ~R}çQ»KÔÔË5ŸŸê¾±YïYÃÃÃ——>¨||´´´J•ÿÓÓ··ssGGGGsÝsŸŸs8
+¢
+WƒÎdƒ88Î8ÎdððZÄ
+ã
+ã
+˜
+˜
+ö
+ö
+ö
+`
+`
+öAA
+M
+M¼
+kLâ--3R¼^^?‘‘„ooPPoºº§§ø$º$……:¤ï±GŒ"¸¸A«A×LxÃYYÃÃÃ°°°!‹õõeû'½SSé¾TT€“U
+Þ|ææPíWà´]ÇPº›Ç¨|CÙ$$$$|Ô,,Â„°Ü ½‘°Ü!Ã —kk L L  — — Õ?Š L"¤"¤#`#`"!S!x#:$#…#:#Ð%G%G%0"Ø!¬êM·l?©}»µ‰¨¨Ÿ5	Ý((G±……ïYYÃÃjÔ¨¨¨¨´´´•ÿi=llMMssÝÝÝÝÝGGssG
+¢
+
+WƒdÎƒ
+í
+¢
+¢ƒ¯dÎ8ÎZZÄ.
+ã
+ã..
+ö
+ö
+öŒŒ
+ö
+«
+«
+M
+M—
+E
+E&¼þþßI”””þ³³
+Òh¹#B
+¬
+ª@‹‹‹‹Ölxx««··ÖÖFž4Œ"¸"±ü’(TTTT¾ÝÝ¾¾ss		((j–ÂîÈÈ}©XXX„˜ð†ÄyMllããÖªrÜFFMyãrrã†H55€€†H¿ ë"!!"­#C"­!Ì"b"u!ß"*"*"›" Ù­‘!é"#$#…!Ã"Y##«#«#«#`#ö%¸&ä&ò$š## Ë˜˜·õYÃ—Õ^œpÚ…YYY¤:±Ð¤YY¤’fï…ÐÐïïF°eekk?©&¼3èèR¼qq&&¼R
+Û
+W
+W
+í¯88
+´
+•++•JJŒŒAAgý²TTŸŸ5Ÿ		
+°
+°—
+Û
+Û&¼””ßIþþ”þIIhþ¹#B
+¬@Ö‹‹!!l¤¤é!!ÖÖFržžŒ""Œ±G(¾TTTTêTss¾¾		ŸŸTT  ,X22}}–ÂX„Ö.†Äã·ll··ÖªrÜFFMyžž;²H55êÞ¿ ë"#Ù#Ù%&1%›$º$$$Í$7#ì#ì$]#Ç#1"!é###«$±$"ï#…$×$A##"4"Ê$Œ%¸%Æ%Æ$å#¹ ðÄãMÝG…Ã¶Èœ±±ïïfüG±:ÃÃ¤:(ü…f:ïïÜFûûÕÕ?©¼RÉ_èR¼qq&&¼Rqƒƒƒ¯¯88J
+´
+ÿ••
+ÿJJ
+ö
+öAAgýH²TTŸŸŸ5ŸŸÜÜ—
+Û
+Û
+Ûqþ””þhh³³IIþþØØBB‹!!·····YY¤:Ê4žžll!!Frž×AAAfü(T	ssŸ€T	ŸT¾¾(	ŸêêáKáÈ222µá9õM¥yãã˜˜l@½½''˜žž4ÊH))Ë5Ë÷Þ!6"b"b#Ù%›&1'](>&|%æ%P%&D'%'%&$ó$¨$$Œ%"%"%"%’%’%G%Ý%"$Œ#«#"Ê#`$A$A#¹#¹$"Ø ZÄ  ŸŸÝï¶^}}(’…fü±GG±…YÃÃ¤Ð	GÐÐÐ¤Yï'‘ûe??©©q3É~èRRR¼¼¼¼RdÎƒƒ8Î••JJ
+ÿ•àJŒŒŒŒ²²²²êêŸŸŸ555rr-qqqþ”þh
+Ò
+Ò³³³³þþBBBB
+õ‹!·····YY:¤ž4ll··ÜÜžA«««fü’¾	sÝ5ês	êTT¾ÝsT€áµÈ222‰µá_‹ãããã..ª~~SSSS˜.ÊÊÊ`H¿ë÷¹!6#Ž$$$$%›']'ó)* )j(Ô'&Ú(**)&µ' &j&N&ä&ä&ä'T'T(5'Ÿ&ä&N%m&&N$Œ#!é!a""B!Ä Z!;!;!÷!÷ 5Gxô}}(’±fü±GÝG…YÃÃ:f	GÐÐÐÐïY'‘ûe??ÕÕqR¼R~èRRRèRdÎƒƒ
+í8Î••JJ
+ÿ•àJŒŒŒŒ²²²²êêŸŸŸ5ËË---—BB
+÷
+÷hþI³#BØnB
+ª@ÖÖFÜ''``éSSž4FF'½··MM……:f±Ýs	¾(¾ê5sÝsäzÅ/((êê%%QXXdú&è_‹ãã..M‹_õ44é¥¥ÑÑ;¥†²
+b¿¿ U ë"ø$$%&1'ó)µ*K*á++*¼)*9+e,Ü+°)X'–(w(w'z&ä'Å([(€'T&s'	'T'ê'Ÿ'	'	$±"Y!- ¥!Ñ"g!;!Ñ!Ñ!†!†"ý#“".…kÈ2mŒö±GÝ±:ž4`Œs±ÐÐ‹‹ª~?ÕŠŠ?Õ¶ ¼¼âL-Ã--ââƒÎÎÎÎÎ8JJJJ••••AAŒŒŒŒA×ÄÄyÄÄ¥—ÃÃ-—
+¬
+¬
+÷#þ”I³
+÷BØÖ@@@FÜûûÊÊé4ÊÜÜ½Sã···ïï:fGs	s’(¾êŸÝGÝNäÅ/¾¾¾¾»Qçç££îîúRÉõl˜ãã..·!‹!ÊÊ;¥¥;ggÑ;†ÞÌ!$""#C#Ù%P&|'](‰)µ+w,,£,É,É+è+è-'-'.,Ü+)X)£)£('z(ñ)‡(€'T&s%Ý'T))a(Ë(5%Ý$"ï!Ñ ¥ ¥ ¥"g#“" ð"g$)#Þ ðG-ô2™"Œ±sÝ±Ð¤Ê4Êös±ff‹‹ª~?Õ¶¶kÕ Š¼¼xâ—-q——xxƒÎÎdÎJJàà••••AA
+ö
+öŒŒ×A..yZZ¥k
+ÕRxx—
+¬
+¬#II³³¹¹
+÷¹Ol@@Ö‘‘ûež4ÊÊÊÊ4ÊržM··M:Ð…±GÝsÝÝs¾¾¾’’(äzäNÝG’¾Q}^^99££ÛE¼3‹MMãM..MMlž4ðZðýg²HÞ6 Ù"›"ø$º%æ&|'¨(Ô)µ*K*á-9.e.û.Ö.@--ª,‘-½-½,‘+û*Ï*„)î(¦()‡)‡)a(Ë)a'Ÿ(Ë**)a)a'Ÿ&s%G#H!† ¥ ¥"g"ý!; ¥!†#Þ#Þ Z-ŠÈ/™N"ü(’fÐ:Ê4AÝ±fü!‹_3 ¶LLk?©qRRxââRRâxÎ
+¢
+í¯Ed++++JJ••A×AA××"Œ
+ã
+ã.ZZZ¥  èâ—BB#II³³#OO###l@@Ö‘‘e
+Ïž44ÊÊ4Êr44žãMMãfüGGGÝÝss	((((’ü¸NäNÝGü(Q}^^9999qè‹·M!·M..ãã˜ž4ðZZ†gýt6Ìø"#Ç$º&|'¨(>(Ô+,,,£-9.e/‘0'0/l/l.Ö//.S-'-'+û+*„)Ò)<*+I*+#+#**,O,O+#(Ë(5&s%G$t"²!Ñ!Ñ!Ñ!; ¥  ð""ÄGY¶ôÅ[äGÐüüÐ¤4žéÝ±Ðf‹õÉ ¶¶¶kÕ?©qRRxââèèx¤¤d8
+í¯úúÁÁ++JJ
+ÿ
+ÿA×××××"Œ
+ã
+ã.Zðð¥¶¶Ãq
+Û
+Û/ÅÅ[[[z¦¦[[¦//S
+½žÊ¤x
+â
+â°°F!!!·r4ÊžMMMãSSSSž44ÊZðZÄ±Ý¾T/™¸NdÛÛ&¼R°F½fü…Y·ãyyã·llZÄ.Z††ÑÑ	Ë¹åš Æ#$à&Ú()2*^+Õ-.x//F/Ü1S1é1é1é0r0r11/Ü.°.Ö.@-õ-_+ñ+ñ,‡,‡,<,<+[+[+6+Ì+*ë)t'²%Z$Ä$¿#“" ð ¥ ¥ ¥  €TŸ	ÝïLŠzzÅÅÝ±Ÿsüf‹!ÖÖ‹‹õõÐ:YÃYYYYx-—Lâ---Ã--¼¼Rè~~ó]¨¨ÎÎúúdÎÎdó
+Ç
+Ç]TêêêŸŸTT
+†gýHH“ýXX—q
+Û
+Û/Åñ‡ñÅz//¦Å
+™
+½
+'4¤x
+â
+â°FÜF‹‹‹!ržr!!Mã''''rž4ééÄZðZ±Ý¾T/™NädEE&¼RFÜ'éfü±…y¥ãM!@@Ä.˜Äðýý	ËO { Æ!ò#$à'p)È*^+Š-—.Ã0:0Ð0r11é23«2241241110/l.‹/!-³-³.I.I,Ò+¦+[+[+6+Ì,+* (Þ&†%ð%ë$¿"² Zãã ¥!; €T	ŸŸÝÐâzNÅÅ	Ý±±	Ýüf‹!l@õõ‹‹fÐYÃÃÃYYx-—âx---Ã--&&¼Rèèó]¨¨ÎÎdddÎ8Îó
+Ç]óêTT€55TT
+†
+ÑgHHýgXX¼R¼&//ññÅÅÅÅÅ//ÅÅ//
+r	Ü
+rÃ-
+—ÃFÜ''lÖÖlÜrrÜÖÖMãrÜ‘''½SééSéZðÑÑ¾TTTzääz¯¯dúEEEqû‘‘½…Ýs±;;MM·!!¥¥Zð††HH5a¹å!!§#ÿ&W)2*ô+Õ--â0:0…1±1é1é243`3«33`2Ê21é1S1é1Ä0˜0M/·.ß.I.I-+++[*Å*ë*ë+*ë)¿))'%Z&6%
+"Ä˜. ¥ ¥ 5ŸT €"B"Ø 5…<äääsG±±¾’G±!·Öõ‹ÖlüÐ¤¤x——xâÃÃxR¼qq¼R33¨¨¨ƒúdƒƒó‰ËŸŸ5Ë5Ÿ	
+†	ð
+Ñgý“ýgXX
+k&¼¼&//ÅññÅÅÅÅÅ//ÅÅ//
+r	Ü
+r-
+—
+—ÃFÜ''llÖFÜÜFllMãrÜ'½S½'½½S†ýýTê€€¦¦Îd¯ƒEÏ‘'SsŸÝyãyã·;g²††Ht÷÷# {"=#ÿ%Á(*^*ô,k-—/1f2G3s3«3«3ö3ö4×4A4Œ3ö321é22Z1.1y0ã.ß.I-³,‡+¦+¦+[*Å*U*U*U)¿(“'ý&†$Ä#H ðÄ˜˜.  Ÿ	¾ê"B&\& 5*¦ääsG±…((s	y.!‹Öl’f::::¤¤¤——x¤¤YYxR¼qqRè__>¨¨¨¯dÎƒƒƒƒ¨¨‰ËŸ
+s	Ÿ55Ÿ
+†	ð
+;
+ÑgýýgXX
+Û&¼
+
+t 66 
+ [[z[Å/
+™
+½
+½	Ü
+r--
+âxûûFF‘'ÜF·MMM˜ãã½'ry˜˜S«Agýýýz€€ê8¢ídd¯E©kâxsT(€êŸ	Tê¾’×"ö`ŒäzBBO!§#i&W'ƒ(¯*9+e,‘.S/ï12’3(43†4²5H4²44g4g333321é2410V/À.”-h,­,­,*ë*/*/)(m'ý&Ñ%ð#˜ ð˜MM˜yãããMM 5#¹$å ËìhÅ/zä"ö.¥;.’üGÝ’f:¤___ÉïYxâR~YÃxxq
+ÛqRè@ªÔ¨]óÎdó]ƒ¯EE€ê
+s
+syy
+ö
+ö
+«
+«²²²É_q&¼
+
+t
+ 6 
+ ññ¦[Å/
+™
+½
+½
+r--x
+âee°°e'rÜ·MMM˜.yM'½ryÄÄ«A«gýgg¦¦zê€êT8¢íEÛ©kâx…ÝTT¬êŸ5T¾¾¾«mN"Œ¸äzBnå"=%+()Û+*Ï+û-½/12G3¾4T44²44²5H4²4ý4ý4A4A3«3«3«32410ì0V/À.”-C,,*ë)™)™(m&«%¥$y#˜"l Z!!lM‹‹···Ý	 Ë 5À[zN"..¥Ä˜’ü±s¾’Ð:_‹õ_ïYxâ¼èYÃqRèª>]óÎd‰óƒƒƒ¯€ê		yy
+ö
+öAA²H²²_õ¼¼¼qUUëëëUU¦¦¦¦¦//SSSSÃ-°°ee°Ü'‘ll··l˜˜rrr˜ÄZÄÑÑ;ÑÅñ<zTTŸŸƒ¯&&EÛ?Õ¶â:(Ÿ	÷555€êêTŒ¸™m×m/Øš!§"Ó$à'Î*&+è,F-r/Ê1Œ1ü2’3s3s3Ñ4g4g4ý4ý4ý4²5Þ4×4A4A33«32410ì0V/u-³+*ë*U'ý("(¸'A%$.!Ö!@ ªy·ªª‹··õ!·‹‹ü’ÝsÍh¦z™m¥¥¥Z.ÝGÝË÷5G…@l‹_YYÃ-~xx¤èRqq¼RèR]ódddd>¨]óƒƒ¯€€êêÄÄÄÄŒ
+ö
+ö
+ö²Hýý@ÖRRRqëëëUUU<ÒÒÒ<[[éé¤¤YÃ°°ee°°‘'Ö‹‹@Ö.žžr˜ÄðZéé«ÑÑ¥;/[z¾¾ŸŸ¯¯E¼¼EÛ©? xÐ¾5Ÿ÷aa€êT"N™™™/[ 0!ò"Ó"Ó$à&¢(ú+è-r.ž0`2"1ü2’3s3s3Ñ4g4ý4g4ý4ý4²4²5m4×4×3«3224240ì/*.I,‡*ë*U))&Ñ%Ê&`%#½"l!@~èãM@‹·!‹!·‹_Ð:ï…7¡þ<z™myy;;¥ÄÄsÝ5{•§Ë±@@õÉÃÃÃYÉ3èRââxèRqq&¼¼&
+|
+|]óÎÎÎÎ>¨]óƒƒ¯€€€€ZZðÄ
+ö
+`
+ö
+ö²Hýýª@³ØØØØ°Ï9^^^^ô ¶¶¶ ŠŠYï¤ÃÃ°°ûû°°FÜFFee@Ö·y"ŒA«Œ¸mààv¢8µK  %%pœ¯Eú¼R¼&R~_!Êö`
+Þ))²ggÞ
+66 6­!Ì#Ž$º%P&í(¯*&+è-_/!1.1.24243`3ö4p4p555Q5Q55œ4»4»4p4p4 2Ô1]1]0`.ž,Ü+°*9*9)'K&j%Ô$]"›"* þ ñ¨|oÙºPÙCoÙC­­CÙC Þ#÷êfü(’ŒŒö`ïï’š!Æ	ïfÐ:¤YÃ:Žbëëñ‡ÌÌ6 
+
+UU
+í
+íƒƒ
+í
+íƒàà••JàÁÁ""mm"¸m×		TêÄZ$$
+¬Ønn„
+î
+£9^^^^^Š   ŠôôxxYï¤ÃÃ°°ûû°°°FFF‘‘ÖlMãŒöA×""×A´´àµ  »»¯Eú&èèRèõ‹ÜžÊ4ÞÞ))²ýýÞ6øøøb­!o"ø$º%æ&|'ƒ)E+R--õ.‹1.1.243`3`3ö4p4p555Q5Q54p5Q5Q4p4p3j2>1]1]0`.ž,Ü*„)£)£)'K%>#|"!o!”!” ³‡1o$ŽC­CÙC­CÙÙCC­ Þ#÷€Tfü’üööö`YYfêB€G…’Ð:Ð…::øÌñ‡bbbÌ6
+ëë
+í
+íƒƒ
+íƒvv••
+´JÁÁ"N™™N¸m×ŸŸTêZðŽŽ
+Ò
+¬ØnØ
+î
+î99©©©©^^ôŠŠôxxYïYÃx°°°FFF‘‘ÜFÜÜ!!MM`"×AA´´àvÁWÔÔj œœppdúEEÛ¼¼Éª@‘½ž4tt¿¿““)““ C Cøø Ù"$$%æ''()E+è-ª.Ö01Ä1Ä24243`3ö4%4»5œ54p4p5œ5œ5Q5Q4»4»301/P0|0ö/4-'+e)X(Â'–%>$"P Ž Ž h<[ÅPæP$øb­CŽøøŽÙÙ$Žbb t¹÷€êfüG±««öŒÐ::ÐÐÐ::Ý±f:YYÌÌ[[¦ÌÌbb6   
+¢8ƒƒÎÎÎÎàààJ
+ÿ
+ÿàv™äzä¸""TTêê¥¥¥­­h
+¬
+¬
+¬B„„99
+È
+È
+È^ô^xxÃYÃ-xÜÜ°FFF''rÜFF····`öAA«×àààv+ÁÔÔj ÚÚÎd¯Û&&3~e‘Ê
+
+UUUëUU Ù Ù Ž Ž Ù"$$'(>(>(¯)Û+è,~.@/l0˜1Ä24242Ê3`4»4%4p54p4p554»4»4%4%1ó/-Ž/æ0`.ž-'+e)î(,%Ô#|"æ"P Žb¦z™º$ºŽbÌÌ6b$ÙÙŽøbbÌ OTÐfÝGAöŒfÐ¤xxG……:ÃÃÌÌ[[¦   ÌÌ6
+
+
+¢8ÎÎdd
+´
+´
+´J
+ÿ
+ÿJà×m"¸¸Œ
+ö
+ö
+¾
+¾êêy­­
+‡	ñ
+<hôô©
+2
+2
+}
+}
+È
+È„„ÏÏSSSSSéél!!!!·MÜFû‘½½''…fÐÐÐ±›ºº1Çùù»,,KK>¨¨ÔÔÔÛÉõMUUë6 6Ì­ Cø!º"""›#1%'](>)j*K*á,£.e.Ö.Ö001S1é243`333Ú54 4–4á4á5œ4p4p3Ú2Ô/æ/P/æ/-â,k*(,' $]"›"À"À ÅäNmm+•ÿÓ\\òˆCCÌ6§==§šBË	«×™f:¤¤:¤YÃž4éSfÐ::É333­ÌÌzzz¦¦¦Å/88¯dÎdd
+i	=
+JJJJàýýýýgg
+†
+†
+¾
+¾êêyyÄÄÒh
+÷
+‡	ñ
+<hôô
+}
+2
+2^^„„eeééééééÖl··‹‹‹!ÜF‘'½½''±fÐÐÐ…o››ºº1Çùùù%––áá¨¨¨¨¨¯ÛÛÉÉ‹yUUU6Ì Ž!$!o Ùø!º$]%‰%‰$ó&1'](Ô* +w,-Ï.e.@.@.Ö00½1S24242ù2ù3Ú3Ú4 4–4K4K4p4p3Ú3D2Ô1/æ/P-â-â+Õ*©(Â&j#1!o!”!”["¸AAÓii=ÆÆòˆ 
+§§¬Ë	Amm×f:¤¤¤ïY4ÊéÐ:::_É33­ÌÌ¦¦¦¦Å/88¯dÎÎÎ
+i	=	ˆ
+´JJJàýýýýgg²²TTTTyyÄÄhþ
+a
+<
+<
+‡
+‡
+È
+2
+2
+È^^ôô©9Ïee44éS@l!!‹‹@Öû‘‘'rrÜF¤:…………ï$ºPºPP1ÇÚÚ––,,ó]¨>óÇ|¨¯Eq3‹y­Ìø!$!$!º!º!$"P%Ô'–'K'á'¨(>(>+,,£-9-„.-ª-.‹/·0r11241‚3D2ù2ù4 4 4K3µ4%32ù2c31ó01.o-—,k+?)}'–$¨!o C h</m¸¸««§§ÌÌëU{§òòë
+
+ÆÆÆÆ¬5ŸA×ŒŒfÐïYYïïYžžÐÐÐÐ_Éè~­ÌÌÌÌ¦<ñ[ÎÎddƒÎÎJ
+´
+
+´••••²²²²g
+Ñý“5ŸTT.Ä³³
+÷
+Ò
+Ò
+‡
+‡
+}
+}
+2
+È
+È^^^ôô©ÏeeežžSSSSSéÖÖ‹‹‹‹@Öû‘‘'ÜÜÜF¤…………ïøŽ$ººº›1pp%%,,,,ó‰Ôj‰]>¯Eq3ªª!!o Ù­ø!$!$ø Ž"æ$%>&j' 'K))j(Ô(Ô+Â,£,,î-„--ª.‹/·/Ü0r/Ü122®2c2c3j3j32‰2c2ù2c1Í1ó0Ç/›/,k+?*'%$"P Cëzz™¸¸AAÓå{  ¿)å\0Uë  00\\šB5Ÿ×m""fÐ…ïï…ïYrÜrÐÐÐÐ_É~C­ÌÌÌÌ<Òñ[ÎÎddƒÎÎàJ
+´J++••²²²²
+Ñ
+;
+ÑgŸ	
+¾
+¾ÄZ/U
+¿
+¿
+¿
+k
+kqq©©©eûûeÖ
+ª
+ª
+ª
+õ‹@Öéé4žÃ-ÃÃSé4ÊÊÊ`"Œö``VVì‚‚ì‚¢¢8ƒƒQç2œ,–áá>j–X_‹·ã²  "ø"ø""! U!§#ÿ&&¢'ƒ((ú*&*Ï+û+e,‘,‘+û+e,‘-'-½.ž/4.Ã.Ã/¤0:1]1ó2>1¨1ó2‰2>2>2+2+0´0/ù/c-V,À+Š)È(Q$Í"æ!$)€ZÄ˜˜Øa÷‡<<Oåšš0\§§§§§å÷€€Ëaa5yy˜l··lÖÖ@õ_—ââ-—Lâ§{O¹ßßßuåå¹#”””þ¨>‰‰óóóóppp»Qyyy
+s
+s	ŸTT
+s	yÄ./U
+¿
+¿
+¿
+k
+k
+Ûqq
+Û
+}©©Ïeeûl@
+ª
+ª‹
+õ
+ª@ééÊ`ïYÃÃSé4ÊÊÊ««öŒŒöööVVì‚‚ìì‚vvƒƒíí%»pÚ –KK¨Ô–,Éõ!Zt#Ž$º"­! ë ë!§#ÿ&&¢((¯*&+R+û-',‘,‘-',‘*Ï+û+û,‘,Ü.ž.-.-.x/0Ç1]11¨1]1ó0|0|0i0i/ˆ.ò.7-¡,À*þ)2(œ'%$Í#|!º­ëB¬ê.˜nB÷³<<O¹nnšÆ==§å#a€€Ëaa5yy.!!ÖllM‹—-ââ—-x=åOßßßuOOO¹þþþh¨>‰‰‰‰óóœ»Q¥
+ã
+s
+s	ŸTT	
+s
+ãyÄ.
+n
+n
+™
+¿U
+¿
+¿
+k&&qq^^^^„„ÏeÖÖ‹‹‹
+õ
+õ‹ééÊö:¤x4Ê44ÊÊ`A«``««`ö¡7cccÍÍvƒƒí%%%%KµµáKáK¼èªÖyý!Ì"b ë¿tt Æ#$à&()Û+,É,‘,‘-r-r-',‘+û+û+û+e+e,‘--—-L/0|/æ/›0Ç0Ç01.o-Ù.§.§-{,å,*+”+I(ñ'»&$‚#V"› ÙbÌ¹÷ê¾..Ø¬¬<Ò‡O¹ØØO{=ò0¹#B¬€êŸ5Ÿ	ÄÄyyl!!!MM!x¤Ã—LL——{å**IIn0šI³
+Ò
+<
+|>Ôó]pp»QQ»pÄZ
+ã
+s
+sTêêêŸ
+s
+MyZÄOO/ëU
+)
+k——&&ôôôô„„9ÏÖÖ‹‹‹
+õ
+õ‹ééÊÊ¤x4Ê4žÊ`«ÊÊÊ`ucùùùù¢¢¢íƒƒ»»»»wáKwKwwRR~ªM¥H²gg²Þš!ò$J&¢(¯*q+,3,‘-½,Ü,Ü+û+e+û+û+û+e*Ï*Ï*©+?,¶-L.$-Ž-Ù//›/,­*ë+#,O+¹+#)<(¦'Å&™%c$7"À!” Ù C6tË5¾’l˜˜l¬¬Tz<‡Oåšn¹å§Ó\n#n¬êT	ss	..yy.˜M!‹‹··Ã—LLkkO¹nn**IIš0šI³
+Ò
+<	æ
+|¨>ó]pp%»Q»p
+Ú.Ä¥y		Têêê5	
+ãðZ{{ë<Ò
+N
+&qq&¼ôô©©99
+£9
+„
+„
+õ
+õ@@žÊSSžžSéÊ4ÃÃï……ïïYÊÊæPæó––Ç1ÇÇÇ]óówáKK}}çÂXîîXÂ£(€ËËB¹O {"=#ÿ%Á&W'ƒ(ú*&*©+Õ,¶+Š)£)*Ï+e*Ï)£(Â)X)2*^+?*©*Å*Å+ñ,‡-h,Ò+[*/)‡**h)<'Ÿ'	%’$f"›" Žb¦¦/mTê	Ý’¾s±55Ÿ	ê€ËË)¿Þ²²ÞU HÞ
+šBêTM··ã			s˜˜ã!±GÝsââxxâÕßIIInnššnØBB
+W
+íƒ‰óóó»»pp»Qp..ÄÄTTŸ	yyyŸ5€ååU¦z
+ä
+&qq¼R
+Û
+È
+È©©ÏÏ
+£
+
+„
+„
+õ
+õ
+ª
+ªžÊéSSSéÊ`ïï…ïï…ïYÊÊ««|æ||ÇóÔ ]ÇÇÇó‰óáKKKççç–X„„XÂ£’ê55¬Ø¹O {!"="Ó#i%Á'Î(ú)})})È)È)(w'K'á'K'K' '–'p(œ)}'»'A(m)™)(¸)N))(ñ([(¦'z%Ý%G#Ð!x­b6ää/mTêŸs’’G…ŸŸŸ	TêŸŸý“²²“)ÞÞ
+6Æn¬êM··ãŸŸ	s˜˜ãMÝsÝGxLâxxâ—kßIßßnnnnnØØØ
+í
+W
+íƒó]óóQQppQçœ..ÄÄTT	ŸyyyŸ5êTåå
+t//
+™/&&&&qqq
+Û
+2
+2^ôeÏ
+£
+£eûûû‹
+õ
+ª
+ª4ÊéžžSé«::…ï:Ðïæ||¨¨Ô||Çó>Ô>µKKK»ç»»á£XXî„’¾¾ê¬nšå {!"=#i&W'Î(d(ç(ç(ç(ç'–%Ô%‰$ó%>%>$ó%‰%®&Ú&%ù&`'Œ(m'A&ö&ö'A'×'/%m%m$A$#…"¤ LUmAÝsT¾’üYsŸ5s(¾TTggH††ý)Þt¿¿O#B€yM·MTTTT.˜˜ssG±--xxâL—uußn¹¹O#B
+¬
+÷
+í
+W8Î>¨ó‰»»ççQ»yÄZŸŸT€ðÄ..êTTTOå
+
+™
+™
+™/&&&&
+Û
+Û
+Ûq
+2
+2^ôÏ999û‘''!‹@@4Êé44žžé¤¤ï…Ðf±…æ|¨>¨PP1]¨ææµKKQQ%%ó‰áX„„üü’êB Æ 0Oå!#i%+&í'8&¢%ù'%'»'»' %>$]$ó$¨#|#Ç$]#ì#ì$7$Í%Ê%Ê&$é$ž$ž$é%&$A#!é!- —¶Šëë¿Aé±G(’fÐï-Gs5Ÿ¾(TTÑÑHH²²“¿
+t““ØyyãM((TTllÝÝ±ÃÃxxL¶—-¡¡ßnššååO#B
+¬
+a
+÷
+íƒÎd>¨ó]%%»»»Q¥ÄZŸŸ€€ZZÄÄêT
+¾ê{å
+î
+X
+£9
+¬B
+‡
+‡hhB
+¬
+÷h
+Ò
+ÒþzzÅ[5	ss		¾¾ŸŸ	Ÿ–,wwqÛq    ŠŠŠŠôôk—ÛE&¼Rèx——ÏûÜrMMllMyÑýýgô Y! !; Ÿ Ë"$O%Æ&\%0$š$¬%Ø&¹&#&I$‡"Å"Å$¬#€#5"Ÿ"T!¾"T#€$Ò$Ò#¦#¦#¦##[$‡$t"² ðÄãM˜Ó=§{{Ø€€BØB<¦zNÈô?Õûeee––ÂXÉ_õ—k  °F‘9œœQ»%»Q»ÑÑ†ðÊÊééyyZðààÿÓ=Óiÿ¡¡VÀo
+Ù	ø
+Ž:Ð………
+ï…::_õ77ììÇ]>>óóóóÍ7¡7¶ 
+î
+X
+£9
+¬B##³³hhØB
+÷h
+ÒhhNN/Å55Ÿsss((			Ÿ,Â£wÛEÛŠŠôôŠŠŠŠ^^?kÛE&RèR¼Rxâ——e‘ÜrMM˜˜..y¥;;Ñ;^Šk—_MããŸ!÷###¹$#n#n$#€#€$÷%$‡"Å!!#€#€"	 Gü ’ü!("z"z!ä!ä!ä!N!™!™!† ð˜l!·l§O¹OO¬TTB¬<¦ää^^©Ïee9j–,Â3_õ‹Ã—  °F‘9œœ}ç»QQ»ýýZAA«``¥¥ð†àÿÓÓiiÿ¡¡VÀo
+Ž$Ð:
+ï……
+¤
+¤
+~ªõ_¡¡VVÇ]>>óóóóÍ7¡7¶ 9
+î
+X
+£
+£
+¬BØn””³ØnnØ³³
+mä5ŸTT		¾(s	TT –áKÛE&RŠ^©ÕÕ?©^^ô EE&R¼¼ââ—-ûûFÜ˜˜ã¥;ÑÑôŠŠ¶èª_õ(!"B$#¹""Ø$#Ë#5#Ë#Ë#!N ¸ ¸!s"	 ’Ð:f± " ¸ " ¸ m× "ŒãMM‹ª@@@§å#÷5	5÷÷a[/™}}çX„îj–,Âª@ÖïÃ¶ ûûe£QQ}}Qçœœýg;¥××«ð†ððvJÓiiiVVußoo$$……ff±±±::ª@@ªVVÇóó]]óóó77ì‚kkÏ°ÏÏBØØn**ßIššßII³™<Ë5êê55T¾	Ÿêê– µKq¼èŠ^©?Õ?ôôŠ¶EE¼RRxx—-ûû°F˜.˜ã¥;gg²²¶  Lè~3Ð¾!¬$š%{$O$š$š#Ë"	"	"	"z ¸!N!N Ý Gü:¤Ð…`ööŒ×A`Ê·!M·@ª~~{å#÷÷÷ËË÷÷5™mmççÂîîÂ ,ÂXªª@Ã—¶L'ûÏ9çççç}Èœýg;¥«AA†††à´´Ó=ÓÓVVußºº±±üüGGG±ÐÐ@ÖÖ@ìì¡¡]‰ó]Ç]óóÍÍ‚——ôÕÕŠô#ØØ¹¹nnþ**”¹OØ™/¦êTTêz™™Têêê– Káô^ô &úÎ¯ÛÛÛ¶LxYÃâx‹!llMãyyžžžÊ²HL¶ LRRª˜!Ñ#“%0%0%0$"ê"T"	"	!¾ ’!(!¾ m×öÊ4öAéŒŒÝ±ü(Öq³³þþØBa÷÷÷5ÝöŒ""£9„îXX£w9„î~__rÜÜrkÕ??©}œ2ÈÈ}QAAöö`öAAö`;;Ñ;›oo´ˆòVVuuææ›GÝ’ü·MMMM!@@!!Ö@]]]]‚Í77Ícc‚77&¼^©©ô^
+÷ØØ##ØØhhhþ#¹nB™äN¾((¾äN
+m
+m(¾TT jµKqqqq^ÈÈôdúúÎƒƒEEEúú ¶Lâ-ÃâL_õÖÖ!·!MrrÜÄð† Šôô¯Eú&èª·yê!"B"B"T"ê"	 ÝüÐfüÊžžéSéS½4`é…Y¤ÐRE¯ñhh¬5Ÿ		s`öŒŒwXÂÂ–K£XÂ~33°°?©}Qp»```öAA`ÊyÙCCC´ˆˆˆ**ßßºº›ÝGfÐ‹!··M!‹‹@ªÇÇ11Vì
+u¡77ìVdú^ôôô^BØ##ØØhhþþ#Ø
+¬
+m™¾¾(¾N
+¸
+m
+m
+Ýs	ŸµµµµÛq¼¼©¢Î¯Îd¯¯úúE¯Õk¶Lââ——ª@Ö@@Ö!MrrÜÜMyZ†?©d&èèÖ’¾ Ë"#€$¬"ê!¾fÐ……éžž½'r4žr'SS‘--Ãïq¯¦<Ò¦TTÝGü(G±ŒŒ××ÂÂÂXXÂw9îîwáÉõÉ3e9ÏÏ}}ççQQQQQpD«öŒ×Aö`é.˜˜˜CCCÙ´ÓÓ**uuººPÝG…_õ‹!·!ªªª||
+æ
+æ
+À
+*
+À
+ÀVV¡¡V
+Àdúôôôô^
+¬B##ØØþþ**#Ø
+¬
+m
+m¾¾¾TäN
+Ýs	ŸKKµµÛqRR?©©}8¯dúEEúú¯©?Š ââ——@ÖÖ@ª@‹·ÜÜÜÜ·ãZ†}}}ƒƒd&¼¼èÖ’’ÝŸ!¾"ê!¾ ’ ’Ð……éžžS‘Üžžr'''‘--ÃÃqE¯¦¦z(ü…f’±""mmXXXîîX£eîÂáwÉõ_ÉeeûÏ}çç}}çQQQQœp««öŒA«`ÊS˜llCCÙo´ÓÓ**ßßººPæG±…
+É_õ‹‹õ	è	è
+~
+æ
+æ
+æ
+æ
+u
+u
+ÀVVVVVìVdúR&
+Òh³³hh
+Ò
+Ò
+ bøÌ 
+¿
+¿
+ð
+Z
+
+¥¬÷÷¾¾¾(
+Ý
+Ý¾T^^^ôôô?ÕR¼¼&EÎd¯EŠŠ?©ô ââ¶L-ÃÃ-xÃY'½rÜ'S4öÚDÚ–,,ÂÂîFžYÃÃï G Gff " "«:¤x½'r4YÃxâ¶¶Õ?R&dƒnnËyy..±±ÐÐfüÝsKµ jEÛ&¼ÏÏ°—¶ 3ÉK>ÔÈ2ççQQpŒ`ÊÊð†††ž.˜lløøøŽŽbbb66Ð:
+ï…Ð:
+ï
+Y
+
+
+¤
+¤
+À
+À
+ÀV1
+›1Ç•ii
+Ó
+ˆ
+ˆiiœ¼¼hþ³³hh
+Ò
+Ò
+ bøÌ 
+¿
+¿
+ð
+Z
+
+¥¬
+Ë
+Ë((¾(
+Ý
+Ý(¾^ŠŠô^^?ÕèRR¼Ûq8¢ƒôô?©©©Š¶LLLâ—--—¤Yï'½rSSž4DDÚp,Â,– ,r-—-ïï::``¤::¤S½Ê…ïx¶ŠŠÕ?qq&&úÎíƒnnË	MyÄÄffÐfGÝKµjÔEÛ&££Xî©?ŠôÛqáµ>Ô2œççQQpöÊÊÊð†«žÄ.bbÌbbb­­bb66Ð:
+ï…Ð:…
+ï::
+¤
+¤
+À
+À
+ÀVÇ11Çÿÿÿi´´iiœ2¼¼¼¼¼IIþhIIhhëëU
+
+;
+¥
+Z
+ðB¬
+Ë
+Ës	¾(
+Ý
+G
+Ýs©?ô^2ÈôŠ3¼¼qíW¢8^^©?ôŠ Lx-—---ÃFÜržžr‚»ÂÂ––î°kk?ÕLâžÊö`Ð¤éSž4¤¤â ??Š^qEEÛEƒ¢8¹¹a	˜...…üü…füµ&&&îXÂÂÈô?EÛ&&KµÔÔ222È2œ×«ÊÊ¥¥ZðééZÄM·bbÌbŽø­­­bbÐf…………::::
+ï
+ï
+u
+u
+æ
+æ11iiÿÿÿ•´œ2&&RRRII”þ³³hhëëU  Ñ;
+ð†ØBaa	Ÿ¾(
+Ý
+G
+G
+Ý©^È2È^ô3RRqW
+Á¢^^?Õ ŠŠ¶kkâ¤¤¤Ã-—„ÜrrÜì‚ù%áá,,––Xî©©}ç^ ââržÊ`± Ý ’fSrÜLL¶ ©©^2¯¯EÛ¯íva÷ËÄ.˜˜…ff…füóó‰&î„XX^ŠÕ©q¼‰>>2^Šô2ppœmA``;.ÄSéSS.˜M·øøCCbøŽø­ÌÌÐ:………………::
+¤
+¤
+ï
+ï
+u¡
+æ
+æ11
+Ó
+Óiiÿ•´œ
+¶—--þ”*”ØB
+÷ÅÅzz
+
+ë†
+ð
+ð†¬TT(
+’(
+’
+’(ÈÈÈÈ¢¢íí¼¼––– 
+v
+v¢©©Š¶&EE LÃÃÃÃâLâx°FÜržžcÍ®Ú%D®Ô £îîwXÜÜ¶¶——é«Œöï-kÕeûFÈÈ}Qíí¯¯ƒW€€€ê¾(Ê``ö±üÐÇÇó‰µKµ?^^©ÕkÕR¼Û¯>>‰£Ïe9»ÚpggÑgA4žSSr··˜JJÿiii´=§§§\
+Æ§Ð::Ð……_õõ_
+~	è
+~ìì
+u
+u
+u
+Ó
+Óiiiÿÿi,,
+¶
+k——hþÀ*nØ
+÷
+a
+™
+™zz
+
+ë†
+ð
+ð†¬¾¾
+’	ü
+’((¾ÈÈÈÈ88ííqq&&––– ¢8©©Š¶&EE L--——L¶k—ÐrFÜžž4ùc®Úù‚jKáX„£ÂXôô©©e'r-—k©£9„Xœœç»WWWWWW88êêêê€T’Ê``ö±Gf:ÇÇÇ]áKµ?ŠŠ???ÕR¯¯ÔÔ‰w£9%ù®DÑÑÑgAA`Êé½rÜ··˜.JJiÓÓÿJ´iÓ==ò\§Ð::Ð……õ‹‹õ
+~ª77ìì
+u
+u
+u
+Ó
+Óiiiÿÿi,,—
+¶LâLhþ””nn
+÷
+™
+™ÅÅ
+
+t
+¿U;;
+ð†BØB((	ü	ü
+G
+Ý(¾^^ƒƒ8¢qq&&Ká– 888Î??ÕkEEk——ââ— LxF°Frrrž®®DÚD]ó‰µÂî£ÂÂXXÈô^È9e°  ŠÈwááKpppWÁ•ÿJvË5€ê€ê(üéAüüüf]óÇ]‰K– ©k ŠÈ2úddú‰‰>>,ÂXXpDù²Œ`é½žãã.ÄJ´ˆ\ò´••ÿÿ´ò
+ï
+ï:Ð::õ!!õ__lÄ»ù‚ì
+À
+*
+ÀV
+ˆ
+ˆiiÂÂ—âxxâ
+ÒhhhØØ¹#//ÅÅ
+
+t
+)
+¿ÑÑ†BØBB¾
+’
+’
+’
+G
+Ý(¾©©^^ƒƒ8¢qq&&Ká– ÎÎÎd??Õk&&EEÕkkkLx-—¶¶Lâ°FÜÜÜÜDÚD»pDó]]‰ ,áwÂ–––œÈ2œ9Xîôôô^K‰ó®®DÚWÁÿiJJJJËa€êT¾’fé«üü’ü‰óó‰µ –©?Šô2pÎdÎdÔÔÂ,ÂÂÚ%»HHH²Œ`éSSž4yM˜.J´´ˆˆÿÿÿÿ´ˆ\……
+¤:±±::õ!!õ_‹$©D‚V
+À
+ÀV´´
+ˆ
+ˆii,,â--ââ  
+¿
+)
+¿UI³³³³
+‡
+‡TêŸŸ//äzzäN
+¸
+Ý
+Ý((^^íííí^^©^ô©©©©^ôdd¯Û„„XÂ33--—¶¶—ÃÖ@@l‘‘û‘×N¸Nä™Ë55Ë¬¬a÷ggý“ýg///[÷a¹5	T€a÷¥y˜˜˜.ðZÄãMÖÖÊ`ÊöŒŒ××QQ}©??©ô^?ÕÕ?}%«×mmÞÞ¿UÒ¦[Å¦ÅñúÎ8íí¢vàJàà$øøŽÙoÙÙ´ˆ´J$$ŽøÌ666½½
+Üržž½'rž½«þ Š 6ª8àÙC
+­
+­CooCCCÙÙwwx--ââ66U
+¿
+¿UëëI³³ßß³
+‡TêŸŸ™™
+¸Näzzäss((22}}WWWWÈÈ©ôŠ©©©©È^ÎÎƒ¯îîÂ,33k—-—¶¶—ÃlÖ@@ee‘'AAŒöŒ"maËËa€€Ë5ðýýgÑÑ;/Ÿ	((aaËŸT€a÷ã˜˜˜...ÄyãöŒŒŒööAA»ç©?ÕÕ?ô^?—?»Am™™ÞÞUëh<[ÅzñúÎ8ƒƒ8J´´´$$øbCÙÙÙ´ˆˆŽŽøb6
+ 
+ 
+ ''
+Üržž½'ržSì.R8àÙCCCCoÙCCCCwwâââ--ëë    UUþhh”ß³s		sN
+¸™™zz	s((22
+ç}88íWÈÈ}©?ô^^ô©©ÎÎ¯w,,3èRÕââLLLx··!õÏeÜrööö`Êö×m€€aËêTTTÄ†²Hð¥¥mmmmÝÝÝGŸ5€ŸŸ€Z.MM˜Ä.˜˜˜.yyMM«AöŒŒŒAAœ2©ÕÕÕ©^^©Õ¶¶Õ}NNÞ²)UÒ<ñÅ/Åñ‡úÎƒƒ¢¢W+´´iiÙÙŽbøøbbˆòòòbbb6
+ 
+ 
+U
+U
+Ü
+Ü
+‘'½S½'½½Sö¸Wà´ÙCCCŽºoÙCC
+­
+­wwLLL——ëë ÌÌ UUþhhhII³³s
+Ý
+ÝsäN
+m
+mNz	s((ÈÈ}88íW22}©?ô^^ô??ÎÎ¯áK,XR¼©Õ¶âxxLL‹·!õÏeFÜ``öŒöö×mêê5Ë€¾¾¾.Äð†ð××××±ÝG±Ÿ5€êssTê.!!Öl˜.˜˜˜MM··«`ööö××2È©Õk?ÈÈ©Õ  ?™™¸¸Hg“<¦ñÅ™/[Å¢¢WWÁ•´´ÿÿÙÙŽbbbÌÌˆòòòÌÌÌÌ66
+ë
+ë
+ÜS½'½½SSSSSž•ÿ´´oÙCC$PoÙCCCC££LLL
+¶
+¶zÅ[6
+
+6#BBØØØØ™
+m™™
+¸
+¸™/			s2È©È2
+ç
+ç
+ç}^ôƒ8¢íƒ¯¯ddqqè~~~ƒEqÃ-——@Ö@ÖllÖ«×müfGGê¾	5¥yãyŸŸê¬€€GG±±G±ããMM˜˜l‹‹‹‹l˜ss(¾M·ÖöŒööüüXXXîe‘e99Ï°ÜÜF„  tÞ“g†²€€€êzzä¸+ÁÁ+vW•ÙÙPºÿÿiÓ==§§­­­bÌ\\§'½SSžžSS½½ii´Jº$ŽŽºæ›oÿiiiXXâLL
+¶
+¶
+äzÅ/
+t
+t
+6#
+¬
+¬ØØBB™/™ää/ÅŸŸ	s2È?©È2
+ç
+ç
+ç}ôŠƒ8¢WíƒEÛEddRèè_ƒ¯Û———@ªª@ÖlÖ@é×m’üGGê¾sŸ¥¥yËËêê€ê€€±±±±±ã·!!l˜˜··!!l˜sG’(M·Ö"¸""GG’’XXî„e‘e9ÏeFF°„î
+
+tÞ“g†²€€€êzzä¸+Á+•àvÁ+ÙÙºP•iÓ===§§­­­bÌ\\§'½SSSS½½ii´J$Ž
+ø
+øŽº•ÿÿÿÂÂÃ--L
+¶
+äz/
+™
+t
+ ÌØ
+÷
+÷ØØ
+÷
+÷NNNä/
+¸Nz¦¦TTT¾2È^^ÈÈ}}}ôôdd88ƒƒ8Î¯EúdRR¼¼R_ƒú¶L--__ª@!!Ê`öŒ±±ü’€T¾¾Äð¥;¬€êêTTŸ5±±±ÐfüüÄ‹·MMMMMMãM·M˜’f±ÖlÖ×ssG±ÏÏÏeûûûûû°°Ï£ÂX¿¿)ý²²²²ê€€TäzzNÁ+vàJŽø$PÿÓ====Ó=
+ë­CCøÌ\\\\rr½½rrrr'½rržÿi´ào$ŽCÙÙÙÿÿ••XÂÃÃÃâLzÅ/
+  ÌØ
+÷
+÷BBNN
+¸N™™Näz¦¦¾¾¾TÈ2ÈÈÈÈ©^^ÎÎ¢Î¯¯8¢í¯dÎ¼¼&&¼~É3ƒdú ¶~~__ª@!!Ê44Ê……füêêêê..¥gB€€€TŸ5GG±ÐfüüÄ.MMããM!!MãM·Mlüü±lll«×/ŸsG±££££9ÏÏÏÏ„„9ÂX))“g²²ê€¦äWÁvàJŽøŽº•iÓÓiiiÓ
+ë
+ëCCøÌ\\\\rr½½rrrr'½
+Ü
+Ürÿi´à›º$CÙÙÙiiÿ+„îÕŠŠ©©zz
+äzzÅÅþh
+Ò
+<
+
+¬¾¾¾¾s					Ÿ	ää/ÅKµµKKµµjjµµ–  ,3&Ká,–    3~èáá,Â~èèèÂXî„„°ûûGGGÝ˜ãM˜.M·Ä†;¥¥;êTêŒ`:Ðfü¥ãM··Êö«¤¤x4ÊÊÊ::YY:Ðü((’’üwwwwÂÂ££îîÈ2ç})ý²²``öŒHÞÞÞ¸"A«¢WWPºº$´iÿoooÙìì7uIIu1›oo””IIMM˜˜''
+Ü……
+É
+ÉªÇ1|¨¨ÇÇ]Çìk?ôô©©¦zzzÅÅh
+Ò
+Ò
+<
+
+¬¾¾TTs	ŸŸss	Ÿzz/ÅKµKááKKµ
+Ô
+Ôj
+Ôj–q¼&Ká,–––,,èRww,ÂèR¼¼,Âî„îûûÝÝÝs.Äyã˜.yy·!.Äy¥;ê¾TmmöÊ¤:Ðf¥;y·MM`ŒA«ÐÐÐ:Ê```::ïïÐf’’’üfÐw£££á,,wwÂÂœ2}ç“gööŒ"²ö`«A¢WWPººPàJiÿ1›ÙVVßIu›
+Ù
+Ù””ßßMM
+‘
+‘rž±…
+ï__ªÇ1|]]ó]ìì?Õ^^^©©[ñ[ÅzzÅÅh
+Ò
+
+¬
+¬Bs	ŸŸTTê¾s	TTÅÅ//jjµK––Kµµ
+‰
+‰µÛÛqqáááá,ÂwRRwwwè¼¼¼á£eÏ£9eû((Ý	Zð¥y.˜ll...;€êT×A«…±±ÄÄãM˜˜˜«AAAüfüüŒö`öüfï…±ÝsÝÝs±…w9„£ÂÂáK––»ç}çýý²²××"Œ†ð¥¥``öŒ¢¢íí|æ›1Á+´´ºPºŽuÀì‚ÀII›
+Ù
+Ù””ßIMM˜
+Ü
+Ürž…::
+É_ªª]]]Ç11>‰]¡V
+À?Õ
+È
+È
+È©©Å[Å/zzÅÅh
+Ò³³
+¬
+
+¬Bs	ŸŸêêT(
+Ýs¾¾™™™™jjµjjµKKKµµ
+¯
+¯qqááKK–Xw¼¼£~RRR£9££9eû((ssÄZ¥y.˜....˜˜ãê€€ê×A«A±GÝ±˜˜ãyZZÄ.«A««Ðfüü"Œ`ö’ü±ÝÝsÝÝs±…w9„î£ÂÂáK  %Q}çýýÞÞ××Œö†ð¥¥ÊÊöŒÎÎƒƒ¨1›Á+´ˆøŽøøußÀìVIIooo
+þ
+þ
+³Iãã.˜
+Ü
+Ürr…
+ï
+¤
+¤
+3
+Éªª|¨óÇÇ1
+›
+›
+æóó7¡V
+ÀÕk
+2	Â
+X99
+
+
+
+UëëB
+¬#
+‡h”TTŸŸŸ	¾((¾			sssEE ,,–µµKµ
+ú
+úEÛµµ ,wá  á3É9££XX~ªÖ¾T¾(.ÄZÄ	s((ŸËê¾’(TTê€Ë5üfffŒ"¸Œ˜˜yðð¥±GG±üü…±G±mmŒö}?ô2œœáááá–,wáAA"Œ²²öö`Ê«ÇÇ|||›$ºŽbˆò§=››1Ç›ººº$oß
+³
+h”½½½½''rr_
+É
+É
+É
+¤:7ÍÍ7¡7ìVVV¡Í‚VVŠ 	œ	Â
+X
+£
+£
+t
+t
+t
+tUØB
+a
+÷³”À€T			s¾((¾		Ÿ			ÛÛ&&µµ ,,–µµµK&&ÛE ,wá––ww3££££îî~@(¾¾(˜˜.	Güü	5Tüf(êêTêË5fü’’Œ"""ZZ¥ðð¥±±±±ÝG±üü…±…A™™m"¸?Õ^œÚppµµKK–,wá««`Êð†²ŒŒö`PæººoŽ$$øˆò§=››PPº$›uI”Àé½''''rr
+É
+3
+É
+É:Ð±±7ÍÍ77Í‚ìì7c‚‚‚Š 	ç
+£
+£
+£
+£
+t
+t
+¿
+¿ Ì­B
+a	Ë
+‡³ßu5Ÿ¾¾ssss	sss	ŸŸŸ¼&qKµµá,–µµ  µáèR¼µµµKáww,,w¼¼£9£Xî~É_±G((Mã	ÝÝÝ¾¾sGGŸêT		êT±ÝÝ××AA¥ZððÄfüff’üÐÐ±GÐ::Ð±±m/™¸¸mô^Qp»µµ–,áµÊÊð†²Œöö`Ê4$$››oÙoÙÙo$Žˆ=Ó||›oææoºæu*VS''rr
+~
+É_Ðf±±77ìVVì®Í7‚ìì77Š 
+}99
+£
+£
+
+
+¿
+¿6b­B
+a
+÷³ßußŸ	¾¾ssss	s
+Ý
+Ýs	55¼&qKµK,–KK–jµµRèR&µKKKáwww,,w¼¼3£9eÏÏ£ÂX~èÉ_±üüll·Mssss((ÝÝ	5T¾		Tê±GGGmm×«ãyyyÄZðÄfüÐÐfüÐÐ±GfÐ¤ï×mm""mÈ2çQœ»KKj µµ««ÊÊ†ðð†ö``ö««`ÊººÙCCÙCÙŽøˆÓ=ææ›oææoºæu*Vé½½
+~_õÐf±±¡¡V
+À
+ÀV‚cÍ‚ìVV¡¡Š h
+÷
+÷
+÷
+÷
+î„9Ïôô^ô
+Û
+ÛqRR\\§§
+ë
+ëÀ*”
+þIuVVußoºPæPPæ›o$$88ÎÎÎd¯¯údÎÎ¯KwXXX‘ûîÂXî„ÖÖ@@ÖÖ!·MM·!l¨]]‚ììvà+Á2œ»»%»àvàJÚÚÚp%ŸŸT¾’fü(öŒmmÝÝGGY@ª!‹õ_„èèqÛÛqªªõ‹eehh‡ËËËË¦¦€ê¾¾&&&& –,,È2}}}}©B¬ËaB¬÷a¦¦ñ‡Ò¦
+ŸË
+ê
+Å[<ÒBB¬€
+ê55MMþ
+÷
+÷
+÷
+÷
+î„Ïeô
+È
+È
+2
+E
+E
+Ûq¼¼q
+Æ
+Æ§§*À*”ßß**uußI
+ÙoºPPº$ººº888dÎddÎ88ƒáîÂÂ„‘ûîXî„ÖÖ@@@@!·MM˜˜M·˜¨‰‰‚ììàJ•+œQQ»%ÚvàJÚÚœ»%		¾(((’’`öÝÝ±…Y…Yèª!‹_É„„„¼¼qÛÛEEÛ~~É_ÏÏhh‡aaaa<¦¦<€TT&&&& –,,È2}}}}}¬5Ë¬B÷a¦¦<[ñÒ¦5a¬€ñ‡ÒhBB¬€
+ê55ãã
+¬
+¬
+÷
+÷99Ïe©
+}
+}	ú
+&¼&&q
+Û
+{
+{
+Æ\66”*ßß***”
+þ””
+þ
+Ž
+Ž$ºººººPæPPíííƒƒƒÎÎƒƒ,Âw£ÏÏ££XÂXî9Ï!‹Ö@@@!·l˜yy....]ó‰‚‚ccJ´•+œ%ùDÚ•+ÿi%%ÚÚ»çœT¾¾TT¾’üA¸¸±…ïYÃY¤@@„î&EÛÛÛÛÛ3Éõõ9Ï„„³³‡ñ¬<<<¦€êTTqq&&  Ká}}}ÈÈ}¬¬€€¬¬÷añ‡‡[¦<¦a÷aË<<‡÷Ë5ËË5
+T€yy	ñ
+
+
+÷
+÷999Ï©
+&&¼¼¼
+Û
+E	å	å
+0
+Æ
+ë
+ 
+ 
+þ”ßß***”
+þ”*”$$º$$$ºººPPPííWíƒƒddƒƒ,ÂwwwwXîXîÏe!·.˜ÖÖ!·ãã˜˜..1Ç]óùùàJ+ÁœppD®Óiÿi%%pDù%p¾((¾¾(üf«ŒŒïÃ-ÃÃYxâqqªª@@°°„î&¯EÛÛ_ÉõõÏeIñ[€¦¦<¦€êTT&&––Ká©}}ÈÈ}¬¬¬¬aËñ‡‡[¦<Ò#÷a¦¦ñ‡a5
+Ÿ5Ë5
+ê
+êãã
+÷
+
+
+a
+a
+£
+£
+î„Ï999L
+¶Lâ
+Û
+E
+
+
+
+
+
+
+ 6
+ 
+U
+U
+Žººº**uuII”
+þ
+ÙoooIßuuíí¢¢^^©??? Š©©??3èèwwXî__ª@ÖÖ˜˜ÝG’’Mãl·MMãÇ1]ó‰ó>>»%»QQQpÿ•ÿi®ÚÚD%%ù®ÚDÝ±GÝlÖÖéÃ--ÃRRqq——k9eûûeÏ„î¼&EÛ—ââîî9Ï@Ö@@nBË5<<¦¦‡a5Ÿ5,––,R¼&&ƒƒ¢¢
+v
+v¢‡ñ‡‡ññ‡‡¦
+Ÿ5¬Øþh<¦€aË[
+/
+z¦<¦[[˜˜B
+	Ë	Ë
+
+
+î„Ï999L
+¶
+¶Lqq
+Û
+E
+ 
+ 
+ 66
+ 
+U
+U
+Žººº””uu››››ßß
+þ
+h
+ÙoßIßßWW¢¢ÈÈ©???Šô©©??èèÂXÉÉªªªªÖGÝ’’·MlÖ!·ãyÇ1Ç]]Ç||ù%çç»ÚDiÿ•ÿDDD®ù®DpÚÝ±±GlÖ@@éS-ÃÃ-&&ÛÛ--—Ïû‘eÏe„î&¼q-—LLîî9£ª@@ØaË¦¦¦¦‡a5Ÿ5,––,¼&¼¼íí¢¢
+v	à	à‡‡³ññ‡‡¦5Ë¬Øh¦
+z
+ê€Ë5
+Å
+Å<Ò<ññ..BØØ
+¬
+	w
+
+£9„
+î„„——
+¶Lqqqq6
+ 
+U
+ë
+ë
+ë
+ë
+U$ºßß**PæÀ*II$ºPPuß””¢íW2^??^^^^ôôŠŠRR3ÂXXX~~ÉÉª@üüG±‹õª@ÖããæP›11›Pº7cÚ»´J+•DD%%ÚDDÚ»%’üüül@É_éé½½xx&&ÛÛâxââ°Ü‘Ï9e°îÛqRèâ¶¶î„îX~õ‹¹aË[[¦¦¦¦€êTêÂ,– ÛqR¼¢¢íí¢
+v	à
+v[ñ<<³‡¦¦ññ<<€Ëañ
+Å
+Å
+/
+T
+ê5
+Ÿ¦‡Ò<<ÒÄ.
+¬ØØ
+	w
+9Ï„--L
+¶qqqq6
+ 
+U
+ë
+ë
+U$ºuu**ooºPÀVuI$ºººßI
+þ
+þ¢ƒí2^??^^ôô^^ôôqRR3,ÂXX~~33ªÐÐ…õ_ª@l··Pº››º$¡ÍDDùùJà+•%%pp%%ÚDDÚ%(’üül@3ÉééSS¤::¤&&EE¶LââFr‘Ï9eF„EÛ¼Râ¶ L°„î~õ‹aË5[[¦¦zzêTTêÂ,– ÛqR¼88ƒ¯úÎ¢
+Å[<<‡‡¦¦[[<<€Ëa[[[
+Å
+ê€Ë5¦ñ‡Ò<<ÒÄ.
+#	Ë	¯
+EqâââL99
+£
+£
+È
+È
+Ž
+Ž$º*”
+þ
+þÌÌÌÌÌ6bb
+ë\\
+ 
+ 
+ë
+ëWíƒí2È©©qqR¼µµµK¼RèR–,, qRè££XXïïïï_õõõ————žé7Í®®®‚ì=pœQ»ÿ•J´´ˆˆù%%¤YY4FÜÃY¤Ð±ïqÛE¯ ¶âL3è¼LxâÉ_É3õF„„ªª00åO““““ýgÑg#ddíí©©©©Îdqõ¯í¦¦¦¦<<¦¦[[
+ê€¬[[[‡Ò¦
+²
+²“))“HÞÐÐ
+
+a
+÷
+÷
+a
+E
+Û
+ÛqâââL99
+£
+£^^$$ºP*”””bbÌÌÌ6ÌÌòò§§66WííW2È©©ÛÛ¼&µµKáè~~è–   qè~ÂÂYYYY_õ‹‹————žéS7Í®®®D®ì{§òòòpœ»%ÿiˆˆòòòÍcxÃÃžrrÜÃfê÷sïqÛÛqLâxâqq&&LLââªª_É33É‹°„„„ªª@@00{¿“““ýggýO¹##dd©©©©Î!$> _¦¦¦¦¦¦¦¦¦¦[[€B¬[[ñh<
+²
+²“)“
+ý
+²HÐÐ
+a
+a
+a
+¬
+¬
+&
+Ûqââ——ÏÏ99©©©©$$$ºßßßß­­bbbb6b=§ÌÌ¢¢íW}}ÛqqKKáwè~~èáK –Rè,,,,¤¤:õõõ‹xâ-—½éžìDÚDDD‚\\§\´ùˆˆ=\ò®ùc-—ââ½½Lx’0"ƒi5ï&&----qq&¶L——õõ_É3Éª„„„õ‹‹õOå00tÞ“ýggý)O#Øn¯¯©©©©Î¼Ñ(£.4!æ!ññññ[[[ñññ¦¦Ëaaa[
+Å¦<ÒÒ¦
+²
+²“)ÞH
+ý“…
+a
+÷
+÷
+¬
+¬
+&qLLÏÏ99©©©©$$$ºßßßß­­bbbb
+ë
+ë6b´´=§ÌÌ88íW}
+ç
+ç}qáááwRè~èwá–,èRÛ  ––¤¤:‹‹õ‹xâ—½éžV‚DÚDDD®ˆˆ§ò´àJùùùcˆˆ=ÆˆD®Í7-—ââ½½â’# +Ë…¼¼3-ÛÛ&¶L——õõ_ÉÉ_ªîî„îÉ_‹õåOtÞ“ýggg“¹BØ¯¯ƒƒ©©©©Î¼;%µ(îøõññññññ‡ñññ<<aËËËñ[
+z<ÒÒ¦HH)¿tÞ“)±
+‡BØ&¼&&
+¶
+¶—„„9ÏeÏ99”*ßIII”*==§=òò====\\
+ë
+ë6Ì´ò66ÌbíW
+ç
+ç
+œ2¼¼¼¼KKáwèèèè,,ááµEÛqYï………S½ÜF—ÃÃ—7ÍccÍcùD®Í7cpÚ®ÍÍòˆˆ\\Æòù‚Vââ--''''½SÊzImé—xâÛúúkââ&¼¼¼@ªªîî„„__~XX99ššOOšnØ÷÷÷ØØØØddô^©Îúõý
+ÄR8€€ËË¬aËññÒh‡‡ñ‡<
+z¬a5##¹ååO‹õ
+‡BØ¹¹¼&
+
+
+¶
+¶—„„ÏeeÏ99*ÀßI
+³
+³”*===§\\ÓÓ==òòÌb´ò666ÌƒƒíW}}2È&&µáwèèRRÂÂááwwKµÛqqï………ïïYï'½ÜF-Ã—¡¡¡7ÍccùpÚùccc®‚ÍÍòˆˆ\\ÆÆcù‚Vââ--''‘‘‘'`×«é½ÕkL¶EE—xx¼R&&ª@ªîî„°õÉ~èÂÂOOnØB÷BBØØÎÎô^©88qR¼ú8€€55€aËññ<Ò‡‡‡Ò¦
+z€a5
+
+¹ååOnnõ_
+Ò
+÷
+÷ØnR¼¼&
+¶
+ 
+kÏe°°°ÏÏ”*””
+þ
+þIß=Óˆ\§ˆˆ==§=Žøbbˆò
+ë
+U
+ë¢¢WW©^ÈEEµK––RR,ÂáK–,áKqqqYY¤¤¤¤‘‘FFLxÃ-7Í7Í®®D»QÚ®ÍÍ77ÍÍ‚ÓÓ==§§77¡¡——L¶‘‘‘''‘ÜžžrÕk¶ úLxÃ—qqªª__îîÏe_ÉÉ3ÂXw¹OOOnØØØØØB¬BØØ8¢ƒ?©©?ƒíWW¢8ÎÎËaËËññ‡‡ññ‡Ò<
+z5Ë€
+Ø
+Ønššnn@ªh
+÷
+÷
+¬BRèR¼
+¶
+ 	Õ
+kÏe°99
+þ”””
+þ
+þ
+³I§=ˆ\§òò§§§=Žøbbˆò
+ë
+U
+ë88WW©È2EEµK––¼¼ –áK–,wáYY‘‘ÜÜâÃ-cùcÍ‚®%D777ccc‚§§====§{——¶ ‘‘‘'½'FFÜÜÜrkÕ ¶&&úŠ¶qqqqªªÉÉXXÏe_É_ÉXîwOåOOnnnØØB¬¬BØØ8¢íƒ?Õ?©ƒíWW
+v88¬¬¬¬÷÷Ëñññññññ‡<¦¦
+Ÿ5¬n
+B
+B
+Ø000lÖôô^
+È³II³
+Ò
+Ò
+Òh##ØØhh
+Òh
+ë66\\\\
+ë
+ë
+ë$$oæPobbbÌ
+Æ
+0§KK––¼&Û
+¯jj  &¼¼Rnn#÷¬¬ØBBBØØ¹¹##¤ÃÃYYªªªªªª@4Ê44ÃÃ¤’’±@Ö˜˜!‹üfü’¤¤-‘‘'½”þhhŽøbø¡****uEEúLâÕRè3É„îîî„„££èè_õ¶ ¶L¯ÞÞ““²²HÞÅÅÅ™¾TTTäääz¦¦ä		s
+Ý
+¸Nzä³ñ[[<<ËËËË#¹n
+ý
+ý)¿“	Ñ	†	†
+ý¿66cÍ°ŠŠô^³³hhhþ##BBhhhþ
+ 
+ \\\\
+ë
+ë	ø	ø
+C
+Ù$
+Ž
+ÙobbÌ6
+Æ
+0	å
+{µá,,¼&ÛÛ    ¼RR¼BB¬¬BØØØØØ####¤ÃÃY…@Ö@~~ªžžžÃÃ¤’’±ª@˜˜·!üfü’—k'SS½”*””$ŽøbuÀÀÀÀ¡ÛÛú ¶kkè~É_„îîîîî99è3É Š ¶¯²²gg²H[[Å™¾TTTäääzääNNsss
+ÝNäzä€€€€‡ñññ<<ËËaa¹On
+ý
+ý)¿)
+g	†	†
+g)  Í7ûÕÕŠô³³#
+÷
+÷³IßIÌÌ6Ì\\ÌÌ
+ë
+ë
+ë$
+Ž
+C
+Ù
+Ž
+Ž
+ÙbbÌ
+ 
+0
+0
+0
+0j–ááÛÛqq––  &¼qE
+Ë
+Ë¬ØØnšnØØ####Yï:¤¤¤Yïõ‹õ__õ44éS-ÃYïssG±@@lM·ÖÖff±±ÃÃâ¶½éžrhþþh­­C­À*uÀÀÀV&&úkkk~ÉÉ„ÏÏ„„„„è33    E¯ƒ²²²²Ñ;gý¦¦Å™¾Têêzä//™
+m
+m
+Ýss
+Ý™zä5ËËa<¦<<ñññ[55ËannHHHÞÞ
+²
+g
+g
+ý“tt7¡‘??ŠôIIII
+÷
+÷
+÷³IßIøøbÌ\\
+{
+{66
+ë
+U
+ëPºo
+Ù
+Ž
+Ž
+ÙbbÌ
+ \\
+Æ
+Æj–wwqqqq    &qE
+5
+5B##Ønnn¹¹##Yï:¤::Ã-3É_õªªõ‹``½—-ï…ssÝGÖÖÖl·!@@ff--ââSSÜÒhhÒ­CVÀuVVÀV&&¼&k~33î„ÏÏ„„~~33¶¶¶¶E¯ƒ²ÞÞÞgÑgý¦¦Å™¾Têêzä™™™
+m
+m
+Ýss
+Ý
+mäN5ËËa<¦¦¦ññ[
+Å
+Ÿ
+Ÿ5ËnnHHHÞHH“““
+ýHH¡ûee°„
+Ò
+Ò
+Òh#¹nn³³³³Ønˆ\
+ë
+ë
+U
+U§=\
+Æ6Ìøb*”*”
+Ù
+Ù›bbòò§¼RR– Kµµµ&&¼&¬gýggHHHH“ýggYï¤¤……xèèÉ_õõª@Ê`4-ï±±ãMÖ@ffffG±fÐõõªªrrrââ—øŽÙÌÌ­00å{‚‚‚‚¶L——¶¶  £ÂÂ~~___ÉÉ___ÉÉÛÛÛEE¯ƒ²HÞH²²gg[[/™Têêê/™™s	¾((¾s
+G	Œ
+¸äN555ËË55Ë€ËË¦¦[[HH““nn¹O¹¹¹¹““
+ý“¡¡ûee°„
+Ò
+Ò
+Òh#nnIIII#
+÷BØˆˆòò
+ë
+ë§=ˆò6ÌbøÀ*À*
+Ù
+Ùobbòò
+{
+ú&RR,–µ
+‰
+‰
+‰
+‰
+ú&¼&¬¬¬ý“gg²²gýggÃYïï¤~~É_õõªž444YÝÝy·ª::ÐÐ±GüfõõÜÜÜrââ—ŽPCøø­ÆÆå{‚®®‚ Škk  ¶¶9£ÂÂ~~ÉÉ33ÉÉÉ__ÛÛE¯¯ƒ²H²²²ggÅÅ/™TêêêÅ/™s	¾((¾s
+G
+"NäN
+Ÿ
+Ÿ5ËË5Ëa¬ËËÒ¦[[HH
+ý
+ýnn#¹OO¹¹“““)ÍÍÏ9
+Òh³³ØØ##þh³³#
+÷#Ó=ò\66
+ë
+ëòˆòÌÌ**uß
+Ù
+Ù$$ÌÌòò	åEÛ¼R,,K
+‰
+¯Û¼&÷÷÷²Hýg²gÑÑgýýxYY¤¤ÉÉª@õ_ª44Ê…±sÝ˜lª…ff±±õ_~~ÜÜ‘'——$ææºº$øøÆÆå{7cc7Õ©ŠŠŠ ¶¶îîXX~~33É33É&¯¯¯E¯ƒ²²ýgggÅÅ/™	Ÿ55//™s	
+Ý
+Ý(¾s
+ÝNN
+Ÿ
+Ÿ
+ê€5Ë¬¬5Ë<¦¦“
+ý
+ý“#
+
+ØnššOOÞÞÞtcÍ
+î
+î
+î9
+£
+ÒhIInn¹¹þh
+‡
+‡#=§\
+Æ66ˆˆˆòÌÌ**ußoo$$ÌÌˆˆ§
+{
+¯E&¼,,wKKKKµÛÛ&###HÞýg²HýgÑggg¤ïï¤¤ÉÉªÉ_ª@žžž4ïÝGÖ@ª±ff±…ïõ_~~rr'‘kkøºPPPº$$\\{å7cc7Õ©ôôôŠ¶¶îîîî~~ÉÉ33ÉúEÛE²²HHýgggÅÅÅ/Ÿ			™™™/Ÿ	ssTê	sääËË€
+ê5Ë¬€€€Ë5¦<¦“
+ý
+ý“¹#n¹¹ÞÞHÞÍ7&
+Û
+Û
+Û
+Û
+ ëë[[B
+¬	Ë	Ë
+‡””IIoooPP›ußI
+³o›PPººooIßßß››o
+Ù
+œ
+œ}©Šô©8ÎÎ8ÈÈ##nnH²gÑŸ55ŸŸŸTTkk       ŠÕ—xÖÖ‹‹GÝTê¾’ÐÐ±±ÐfGïYª'‘kkÕÕÒh³I³³IßoC­Ž$$ŽèRRR~~Ûqqõ_èRRR33ŠŠ©? ¶ŠŠ55êTŸ			Å[Å/TT¾¾™™/[5Ÿ	Ÿ¦¦zN(¾¾TOOÞÞ““¦<<[ñ¦¦ÞÞÞtš¹OËËññññ]Ç¼
+Û
+Ûqq 6ëë
+ä
+ä//
+¬
+	Ë	Ë	ñ
+‡””ßßoo›PP›ußI
+³oo$$ººooßuuuo
+Ù
+œ
+œ}©ô^}
+ç¢88Î©©^^BB²;
+¥s		Ÿ55TTÕÕŠŠŠŠ  ÕÕŠô?xÖÖ‹‹±G(¾(üffÐfG…ïª@½'kkÕÕhþ³ññßoC­øŽ$Žè~~~3É&&&úEÛÛq‹õ~èèôô©ôŠŠŠ55êT	ŸŸŸÅ[[ÅTTTT//ÅÅ5Ÿ	Ÿää¾TêTOOšštt))¦<Ò¦[ñ<<ÞÞt
+š#¹ËËññ‡‡ó]¼&
+qëë
+™
+
+N
+ä
+÷
+÷
+¬
+
+‡
+‡
+‡
+‡
+³I””ºº››o$º*”
+³
+³$$
+Ù
+Ù$$
+Ùouu**ººoo}}È^}
+ç
+çWí88©©¬¬
+ð
+ðsss	TT		ôŠÕkŠŠÕÕŠŠŠŠŠ -@@@@Ðfüü±…ïïfÐïï_õªªrr''—hþhh‡ññ³$ŽCCŽ$oC33_Éªª¼¼ÛEEÛ&&õ_~~33R¼ôô©^ŠŠôŸ5êT	Ÿ€êzzÅÅêêŸ	äzÅÅTêŸ	zz//TTŸ	š)¿tÞññ<<[ñ[[HHttO¹n
+Ø55€€ññ<Ò¨¼&
+qUëë
+™
+
+N
+ä
+÷#ØB
+‡
+‡
+‡
+‡
+³I””ººo
+Ù	ø
+Ž
+þ”II$$oo$$oßß””ººÈ^}}}íƒ88©}÷÷¬¬ŸŸ	s¾¾		ôŠkÕôôkkŠŠ  Šô?k~~¤:::ï………ïYY…fÐïï_õªª½½—---þhÒþI‡ñ‡Žø­­Ž$oo__É3~ª&&¯¯E_ÉèèÉÉ~è ô}Èôô^	ŸêTs	ê€zzÅÅTTŸ	äzÅ™(¾	sNN™ÅTTŸ	n“)
+t[[<<ñ[[[ÞÞÞÞ¹On55€€[[<Ò|
+Û
+E
+Û&&UU  z
+N
+N
+äBØ³³þþººººººI
+	Ò
+h›Pººº››oo$ººººº*””*©íW¢8÷÷BBÅÅäs	ŸŸ??Õ?©ÕÕ    Šô?ÕÃÃYYÉ__ÉYY¤:É3~õ_~~É_õ‹4žržS½hhh”þ<Åñhh<<³Iß9999îîîî¶ ô^©???Rè33„„££Eíí8ÎííTTŸ	((sŸŸ	Ÿ5[ÅÅÅêêŸs™/™((¾T¾¾TT))ÞH“¿U¿[
+Å¦<<¦ññ))“
+ý
+²HÞÞ5Ë€€¦¦<Ò
+Û
+Ûq&&
+¿
+¿
+
+z
+äBØ##II**PPººPPI
+
+h
+þ›Pºººoo$ºººPP*””*}}}}}}}íW¢8÷÷BB÷÷™™ääs	ŸŸ???©©?kk     ŠÕkYYYYÉ__õïÃ¤3è~É3èè3É_õžrrS½hhþþþ<[‡þþÒ¦ñ‡Iß££99îîXX ŠôŠ?©©©¼R33„„EƒƒÎ8ííTT	s
+’
+’
+Ý	Ÿ	s5ñ[[[êê	
+Ý™/™(((¾¾¾¾¾¿¿ÞH“¿U¿[
+Å¦¦[[““
+ý
+g
+
+²ÞÞ5Ë€€¦¦¦<
+E
+Ûq¼&
+
+
+¿
+¿Å[Å/BØØB³³IIPPPPºº›
+þ
+h
+þ”PPº$
+Ù
+Ù
+Ù
+ÙooºP››uuÀÀÈ2
+ç}È2ÈÈ}}
+ç
+çWW¢¢aa÷÷¬¬NNääTTêêŠ Õ?ôŠkk ŠÕkkkk:¤33ª:¤YY333É~~~~~~É_S½ÜÜ½SSSII³³þh‡³””³ññ‡³w££îXwwôô?ÕÕ©©©¼R33£££9úƒíƒííƒêTT¾
+Ý
+Ýs				Ÿññ[[êTs
+Ýää¾¾ss((¾¾))““t
+U¿ñ[¦<ñ[
+Å[H
+²
+²
+²
+g
+gHÞËË55¦¦[ñÇ1qq
+Û&¼66
+¿
+¿Å[Å/BØB
+¬
+‡
+‡PPPPPP›”
+þ
+þ”ooºº$
+Ž
+C
+C
+C
+C
+Ù
+Ù$º››ÀÀ^È}È222}}WW¢¢aaaa¬¬ääzzêêêê ¶k ŠkkŠôÕkÕk¤xx3_ª:¤ïïÉÉÉ_@@@ª~3É½'ÜÜ½SééII³³*”³³þþ‡‡‡áwXÂwwôô?ÕÕ©©©&¼9eûRWWíƒ€êT		5Ÿ			Ÿ[[[[T¾s
+ÝNNTTss¾¾¾¾““
+ý)t
+U¿ñ[<Ò‡ñ[ñÞHHH
+ý
+ý
+²HËË55
+Å[1
+›Cÿiii¨¨11|||Ç1
+À
+À
+u€€¬÷÷¬n##n
+Ø
+Ø
+Ø5
+Ÿ
+ê€[[
+Å
+/
+Ønš)¿¿¿OOOOn
+Ø##ÞÞ“
+ý
+ý
+ý“)¶ ŠŠ ¶kkÂÂXX}çQçíƒƒƒíƒúd]1|ƒíWíÑÑ††Œ¸"Œy¥ZÄ_!llYÃÃFrrržSSoCøŽoC­C00å{VìV*	ŸŸŸÄÄyyyy....TTTT€¬0#Ë¾’
+Öl˜ÄŽøbÌÌÌ66ë¦¦¦¦Ì6ëëzzÅ/³³þþ”*I³<
+¦<Òhh³<
+¦
+ñhÒÒh¶L
+Õ  ‘
+û
+û‘‘
+û
+û
+û
+Ç
+Ç
+­
+Óiii||11|||Ç1
+À
+À
+u¬÷÷€n¹¹n
+Ø
+Ø
+ØËa¬‡[
+Å
+/
+Ønn“
+ý“¿ååå¹n
+Ø#OtH
+ý
+g
+g
+g“UL¶ŠŠLâÕÂÂXXçQ
+»QWíWWí¯&óÇ|íWWíÑÑ††ŒŒ"Œ¥¥¥¥;ðZ_õÖÖ±ïÃÃFrž½½CCøŽCššå{ìVV*	Ÿ55¥¥ÄÄyyã....TTêêênš5¾’
+Öl.bÌÌbë  66<<¦¦Ì6ëë[Å³³hh”*I³<
+¦
+¦<ÒÒ‡Ò<
+ñ
+ñ<Òhþ——x-¶¶‘
+û
+û‘‘
+û
+û
+û
+Ç
+Ç
+b
+ˆ
+Ó
+Ó
+›1ÇÇ||||1Ç||V
+À¡aaËË¹¹n
+Ø
+
+Ëa[[##nn
+ý
+ý“)šš¹¹nOOtÞ
+ý
+g	Ñ
+gÞ â ŠŠ—ÕXXççQQÁÁÁÁ¢ÎEE]Ç1ÇƒííígÑ††ööŒŒyy¥¥¥¥ðð__ª…FÜ'½½'CCCCøbššå{ußß	Ÿ€¥.ÄÄ.yã˜˜¾TŸŸTê÷÷ËŸ	s!!˜66­b6ëÌbÒ<ññëë6 z[[I³
+Ò
+Ò³ß³³Ò<<
+¦<Ò³Ò<<Ò³I——xxâ¶¶ÜF
+°FF
+°
+û
+e
+1
+Ç
+ø
+ˆ	ò
+=
+=
+›1ÇÇ||||1Ç‚ì¡7€€€€5555¹¹n
+Ø	÷	÷
+Ÿ5€€
+Å
+Å
+
+
+Ø
+Ø““)“nn¹¹šOOtÞ
+ý
+g	Ñ
+gÞ LŠ
+^
+^?Õ??££XX}}ççÁÁÁÁ8]ÇÇ]ƒíííÑ;††``ööMMy¥¥¥ðð_3~…ï¤¤ÜF'½rr½'­­CCøŽCCššOåußß	Ÿ€êãM˜;ZÄãM(¾ss(¾ŸŸ		Ÿ	M!l6666ëë6Ì¦[[ëë6 z[[³
+<
+<I³³þhÒ<<Ò³IþhhÒ‡kkLââL¶¶F
+°FÜÜF‘
+û
+1
+ÇŽ
+ø	Ì	Ì
+b
+æ||
+æ¡ììVV¡¡‚‚ìV¦¦<OOn##
+	÷
+T
+ê55¦#
+
+
+HÞtÞ
+ý
+ýHH¹O¹#
+g
+gH
+Û
+8
+8
+8
+Î¯XXwç}}çWWvWíƒƒíƒƒƒAAŒö``öŒ	s	Ÿ55€€¤Y……ïï…k——rÜrr³hÒ‡‡****uÀ*	ŸêTllT€5Ÿ.˜··(((’(¾¾¾˜yM·ll
+äzÅÅzzz
+äUU  ëë6Ìëëëë[ñ¦ØB
+a
+aBØBØþþÒ<
+Ìb­­CÙCCC­­‘‘‘‘''''FF'½—¶ 
+Ç]Ž
+ø	Ì	Ì
+b||
+æ
+uììVVVVV
+À
+z¦¦¦¦¦<<¹¹n¹¹#
+
+T
+ê55¦<O¹##HÞtÞ
+ý
+ý
+²
+²
+#nnnn#¹
+ý
+ýHÞE¯
+Î
+Î
+Îd¯EXXw
+áQççQÁÁvÁWWWææ||Wíƒƒ××Œö``öŒŸ	s	ŸŸêê¤…±±…-———rÜÜÜ³þh‡ññ[**””ßuÀ*	ŸêTl˜¾¾Ÿ5Ä.ããTT(’’(¾¾˜MãM·ll
+äz[[z
+äUU  UU 6ëëUU[ñ¦ØB
+÷
+÷BØBØhhÒ<
+Ìb­­­C­­C­­C½½‘‘‘‘‘‘FF½S—¶L‰ó$
+ø	Ì	6	Ì||
+u
+u¡¡¡¡¡ìì¡
+Å[¦¦¦¦ññn#¹nnn5Ë5
+Ÿ
+z<<¹¹n
+ØHÞtÞ
+ý
+ý
+ý
+g
+B
+Ønn¹#n
+ý
+ý“)EEúúdúúúXXw
+áQQQQvÁ+vvÁÁææææWíƒƒ××A«`ö××ŸsÝÝs	ŸŸïïG±…ïï-—'''‘Òh³³‡ñ¦¦**””ßuÀ*¾TŸ	··MãT¾Ÿ5ZÄyyêêsG’(	Ÿ.·MMMlz¦<<<¦zUë66 
+
+ ëU
+¿U¦zBB
+÷
+÷BBÒh‡bb­­­C­­Což‘
+û‘‘F
+°
+°F½½¶¶—-µ$Ž
+b	Ì
+b
+æ||	ß	ß
+u7ÍÍ‚‚7¡[
+Å
+z
+zññn¹#n
+Ø
+Ø
+ØËaË5¦<<¹¹n
+ØHÞtÞ
+ý
+ý“
+ý
+ØnO¹n
+Ø
+g
+g“)ÛÛ&úúÂÂw
+áQQQQ¢+
+•
+JvÁÁææPPWíííAAA×Œö««	ÝGGÝGÝ	………±±…YY—kk'''½hÒ³³‡ÒÒ****uÀ*¾TŸ	··MãT¾	ŸÄ.yy¾¾ÝÝ’(s	..ãyyMl
+Ö<<<<¦zUëÌÌ6  6ëë¦z
+äBB
+÷
+÷ØØÒh‡
+ñøøCC­Což'‘‘‘F
+°
+°F''  —‰óVV
+uŽŽÙÙ
+Ó	§	§
+=CoººoooC5
+Ÿ
+	
+	5ËËË55
+Ÿ
+Ÿ
+/
+/
+z
+zn¹¹“)))ÞÞ
+ý
+ýnn¹¹
+Å
+Å¦55a÷÷a
+ê
+T
+/
+Å¦Ò^È}}9£ÂÂÕk ŠŠŠŠ ÇÇP
+º+ÁWÁvv++ÁWWW``«×"ŒÊÊ;¤::fÖ@3¶L¶ kkÃå{{ÆšII”*š00ÑÑÑÑ`öö``öA«ööÊ4Ê`ÊÊ`ööö«A«
+S
+SÅñ¦¦¦¦z//¦[[Å[þh³ß*þ³³
+÷hhhhbb
+Ì
+6
+[
+ñhh­­bb<Ò³I--L¶¶LkXXîîXî%%VV¡$$CC
+Ó
+Ó
+ÓiCC$$ÙÙÙÙË5
+	
+	
+Ÿ555
+Ÿ
+Ÿ
+Ÿ
+Ÿ
+Å
+Å¦¦n
+Ø
+¹)“““ÞÞ““nn##
+Å
+Å¦<ËËËaaË
+ê
+T
+Å[<h^Èçç£9XXk Š  ¶L]1æPÁWíWvv++ÁWWWÊÊ«"Œ««öö;;¥¥x:ª3 ¶L¶ÕÕÃ§{ååÆšØØ³³þ”nÑÑÑÑ««öŒŒöŒö«``Ê4ÊŒöÊ`ö`4«
+é
+éÅÅ¦¦z//zÅÅÅ[þh³³þþII
+÷hh
+Ò
+Ò
+Ì
+Ìb
+Ì
+[
+ñhh­­bbÒh³——L¶¶Lkîîîî
+ÂX%%|¡ŽŽ
+ø
+øiiÿÿŽŽŽ$ÙCŽ$Ë
+Ÿ	¾	¾
+T
+ê
+ê
+ê€ËË¦<O¹n)““““““)¹##
+
+/
+Åñ÷a€€
+ê
+T
+T
+Å[ñ‡}çœ2XîXÂ ¶Õ?k—-¨|PPv¢íWvv¢¢«AAööŒö†††xxx ¶kÕk—Ã{åååO##þ”IIn«««××AA«Ê4ÊŒö``öÊ4«A4
+ž/Å¦ÅÅÅÅ[[[[¦ß³Ißuß##
+÷hþ
+‡
+bb<<hh­­ÒÒ‡‡LL¶¶  kkî„„îXX£»»
+æ
+u
+u
+uŽŽŽŽiiÿÿ$$º$C
+­
+øŽË
+Ÿ
+T
+T
+ê€€€¬÷÷ÒhåOn)“
+ý
+ý
+ý
+ý“)O¹
+	÷
+/
+Åñ÷€
+ê
+ê
+T
+T
+T
+Å[ñ‡}çœ2XÂ,
+–
+ôŠÕk——|P
+àWÁ«««``ö`ð†††¤xLqqŠ kÕk——åOOOO¹##”*uI##š²²²²«««A«Ê4
+éÊ``ÊÊ`ö`4
+ž/Å¦¦¦//[[[[[[<ÒuIIuß##
+÷þ”³
+øøÒÒÒÒ­­­­<<
+ñ
+ñ¶¶¶¶¶¶„„î„„9£»»
+æ
+æ
+P
+P
+æÙoººJ´´´ÙooÙ
+­
+­
+ø
+ø
+z
+/[¦Ò‡ñËË¬Iß³ñnnnn“
+ýH
+²
+
+#¹“
+ý
+g
+g
+ŸË¬B¬
+ê
+ê€€
+ê
+ê¦¦<ÒîÂ£2œ
+»
+%
+ÎdEÛqqúúæ|Ç›æ|||æ||››››¥¥ð†;ÑÑ;†ðZð;;;Ñ~~èRâx-—°‘‘Õk  ßIþ”nØnOååOßß²gg;;««Œö44†††ðÊ`Ê4ëëëëU
+t ëëëëz<ÒnØB”ÀuI##ØB³I³
+‡CŽ$Žøb
+Ì
+ñ
+ñÒÒ‡‡‡
+ñFFÜr—-âLÏÏîî_õ
+è
+ÿ
+ÿ|
+æ
+P
+æ|oºº´J´´CÙÙC
+­
+­
+ø
+ø
+z	ä
+ÅñÒÒ‡ñ55€Iß[
+Ø
+Ø
+Ø
+Ø
+ý“H
+²
+
+#¹“
+ý
+ý
+ý5a¬B€€€€€<<ÒhX,
+áw2œQ
+»
+Îd¯EEEddæ|ÇÇ|||››››¥¥ð†ÑggÑðZð†ÑÑÑg~~è~¤-—„ûûÕ?ôô³Iþ”nnO¹Oåuuuu†ÑÑgg××"Œ««««``«««†††ðÊ``ÊëUUUëU
+
+ëëë
+¿
+äz¦<nnØ”ÀuI¹¹ØB³³³Co$Žøb
+Ìb
+ñ
+ñ<<‡‡‡FFFÜ—-L¶99XX_õ
+è
+ÿ
+ÿÇ11|ooÙii
+ø
+ø
+ø
+øCÙÙC
+Å
+Å<Ò<<<€
+ê
+ê‡‡[####Þt)
+ý##¹O“
+ý
+ý“B¬€€aaËËñ‡‡‡Â,
+á
+áœœœ¯EEúúúÇÇ11Ç]ÇÇ11|æ11PPðð;;Ñg;¥;Ñ†3É¤x--°FÜŠô©©³³””šššnn¹OßßßuÑÑ†ÑÑ²××m×«««AA«AAööö`ðZZð««  
+t
+
+¿
+¿UU Ì6
+
+™
+™Å[##ØØ”***B
+¬
+ÒþþþÙÙŽb
+Ì
+6
+­Ò
+¦
+¦<<<Ò<
+û
+û‘‘LLkk£
+ÂXÉÉ•
+ÿÇ11¨oÙC
+ˆ
+ˆ
+Ó
+Ó
+ø
+ø
+ø
+øÙoo[[¦¦¦<h”B
+ê[ñññ¹¹¹¹Þt¿“##¹O)““)¬¬¬€€€€aaËËñ‡‡‡XÂ
+á
+á22œ¯EEEúú&]]111Ç1111æP11ææ††;;;Ñ††;¥;Ñ†²²ðxxÃÃ°FÜ Š©©Iu**š0šnØØ¹OuIIßÑÑ†Ñ¥ð†««A««««AA«««ööö`ðZ
+ÄZ«  
+
+t
+)
+)ëë ÌÌ 
+™
+™/ÅBBhþþþnnØBh”**ÙÙø
+Ìb
+Ì
+­Ò
+¦
+
+¦<<<
+¦
+û
+û‘‘¶¶kk£
+ÂX33+Áõ::
+ï$Ž
+ø
+ø
+Ó
+Ó
+Ói11
+æ
+æ7ÍÍ7ÂÂwwemÄ@¼d
+ô
+ô  ËËñññ[
+Ø
+Ø¹åtÞ)¿qÛúd
+©
+©
+ô £,
+–,Âîî
+ÞH
+²
+Øš))tt¹Oå{Ñ;;;;;ðð``4
+žÊ``Êùcccæ||æ¢WÁzz6ÌÌ6II”*¹
+÷
+÷­Ìb6 ÅÅ¦<bÌssTT¾’((ÊÊ««««ööÚD®Úÿiii¢ÁÁ1Ç11-—
+k
+kââ°°99
+î
+îLLLL
+Û
+Û
+&qq&¼¤¤-—''‘‘'‘
+e
+û ¶k
+Õ
+ÕkLL'‘‘'‘
+ûÜÜ'‘
+û‘¥¥õ::……Ž
+ø
+b
+b
+=
+=
+Ói11||7Í7¡XXww9é³#}#j
+Ö&
+ô
+ô
+ô
+ô€€55[[[
+Å
+Ø
+Ø#OÞH“)ÛEd
+Î
+
+
+ô £,
+–
+–,X„
+ÞHÞš))ÞÞ¹Oå{gÑ;;¥¥††``4
+ž4Ê`Êc
+Í
+Í
+Íˆˆˆˆæ||æv+Ázz6ÌbÌIIþ”¹
+÷
+÷ëÌ6 6ÅÅz6ÌÝÝTT¾¾((ÊÊ««``D®®Úÿiii8¢W+›11-—
+k—ââ°„99
+î
+îLL
+¶
+¶
+E
+E
+&q
+E	ú¼k''‘‘½'
+û
+e ¶k
+Õkââ½'‘'½'ÜÜ‘
+û
+û‘¥¥õ:Ð…C
+­
+­
+	ò	ò
+ˆ111Ç‚‚ìì£
+áFN#}0÷/m 1
+©?
+©
+©
+ê€55
+z
+z
+
+#¹“
+ýHÞú??Õk£w
+á
+K
+áX„tHHtššš))ÞÞ¹¹šÆ“g;;ðZð†`Ê4444cc
+Í
+ÍÓÓˆˆ11ÇÇvÁWñ[zÌÌ*””*¹#BBëÌÌ6  6[[z 6ëUGÝTT((ssööÊÊ««DDDÚÿÓÓiWWÁ+PP››ââ——ââÏ9
+£
+£
+î
+î
+£
+£LL&&¼Rq	¯	d	úLââL
+Õ
+Õ¶L‘‘‘'rrFF L-k
+Õ
+Õ¶L'''½rÜÜ‘‘FÜ_:Ð…
+­CC
+­	ò	ò	ò
+ˆÇÇ1Çììììw
+á°¸"ç0a.× Çlú
+
+©
+©
+©
+ê€ËË¦¦¦¦
+
+¹O“
+ýHÞú¯¯kkk9££wÂÂÞ
+²
+²Þššn““ÞÞ¹¹0ýÑÑÑðZZð`Ê44ÊÊccccÓÓ11ÇÇvÁWñ[¦66”þ”*O¹ØØëÌÌ6 
+ ññ¦ 6ëU
+±G(T¾¾		««``ÊÊ««DDD®ÓÓiÿíÁ+Áææââ——LL
+£
+
+£
+£
+î
+î
+£
+£LL&&¼Rq	¯Î	dLâL
+¶
+Õ
+Õ ¶‘‘
+û‘ÜÜFF L—
+Õ
+Õ ¶‘‘‘'rÜÜÜ''ÜF
+ã
+ã
+Éªª
+Ói
+ˆ	Ì	Ì	Ì
+ø‚‚¡77¡¡œœœ24I#}!ÎnY
+©
+8dd
+Î
+Åñ‡Ò<<¦
+ØnšÞHÞÞÕÕŠŠkk¶¶££î„}QQn
+Ø
+ØnO¹#¹nn¹¹Þtt
+A«A«ðZ¥ðð¥¥Ê4cù®®®ùWÁWW++ÁW<<ññ[ÅÅ[þþII”””þë6
+
+¿U¦[[66llMy¾¾¾¾;¥;;¥;Ñ;iÓ
+ò
+ò
+òˆ´J¢
+à
+àvWWÁÁ——LLqqq
+Û
+}^^^ôôôââ
+k
+&&&
+Û	¯	ú
+qq
+Û  
+Õ
+Õ 
+Š
+?
+ÕFF
+û‘k¶¶kkkkkkkk  
+ÕkÜÜÜÜ
+˜
+˜
+Éª
+~
+Ói
+ˆ
+b
+b
+bŽìì¡7¡¡22œXS×êf
+©dú[[[ñ<¦
+z
+ØnnÞHHHÕÕŠŠ??ŠŠw£î„}ççnnO¹#¹¹¹Þt 6×A«Z
+Ä¥ððÑÑ««Ê4cùD®®®cùWÁ++++WíÒÒ‡‡ñ[Å/hh³³hhþ”ë 
+t
+)
+¿¦[[66ll·ã¾¾¾¾;¥;;¥¥;Ó=
+ò
+ò
+òˆ´vvWWWW——LLqqq
+Û
+}^^ôŠŠŠxx-—¼&
+
+
+E
+E	ú
+
+Ûq¶¶kk 
+Š
+?
+Õ
+°
+°'½—¶¶kk--  
+Õ
+?FFFF
+˜
+˜
+~´Ji
+Ó
+ø
+øCÙìììVVVœQ
+»,XÏûÃ— 
+ôÛÛÛ¦
+z
+Å[[
+Å
+z
+z#¹n
+Ø
+²
+²
+ý“kÕŠ ŠŠ??,ÂXX22ÈÈš¹OO##¹OO)¿UëŒ`Ê4ZðÑÑ†««ùùùùùccÁÁ+++Á¢8‡ñ[ñ¦Å/hhhh³³Uëë
+)
+)
+¿¦<¦¦ëU 6Mã¾((¾;;†ð¥ZðÓ=
+ò
+òˆ´v
+àvÁWWÁLLLLqq&&
+È^^^©©??ââ——
+Û
+E
+
+
+E
+E
+&RèL¶ 
+Š
+Š
+Š
+°F½S-—L¶L¶kkLâxâLLk
+?
+°
+°
+û
+û
+ã
+ã
+~
+~
+~ªJàÿiŽŽoÙìì‚ì
+À
+À
+p
+»
+%
+–Âkk 
+ô¯EE¦
+z
+/
+Å
+Å
+/
+z
+z#¹n
+Ø
+²
+²
+ý“Õ?
+ôŠŠŠkkÂXÂÂ22ÈÈ0š¹O¹
+	÷
+¹åšš¿))¿``Ê4ZðÑÑ†ðA««ùcccc++++ÁW¢8[ÅÅ[¦[Å³³þþhh³³U
+¿UëëU
+¿UzëU 6˜˜ãy¾((¾ÑÑ†ð¥
+ÄZÓ=ˆˆ´´v
+à
+àvÁWÁ+LLââqqRRô^^^LLqq&&
+E
+E
+&¼R¶ 
+Õ
+Õ
+Š	ô	ô	ô
+°F½S-—L¶¶ kk¶LLâââ
+Õ
+°
+°‘‘yy…
+¤::Ð‚‚V
+À1Çó]77‚ìV
+À
+ƒ
+ƒ
+ƒŠ Õk¯¯????
+²
+²
+²
+²
+g
+g
+ý
+ýnnn
+Ø
+Øn¹OçQ
+»
+»Qç22ÕÕ    kk¿¿¿¿Þ
+²
+
+ËaËËaË¥;;¥¥¥;Ñ;;iiˆ
+ò
+§=ˆˆˆ®D%[ÅÅ[¦ÅÅ   6UU  Å//Å
+ 66ëë66˜MMMM˜˜··l
+Ö
+‹!ÓÓ®®
+‚ÓiˆRRR&LâÃÃÏ999
+£
+
+9ÏÏ99©Õ ŠÏ9
+î
+î„„ÏÏk
+?
+?
+?
+?	ô	ô
+w£„îXXFFFÜrrrÜ99îî33~~Tê…
+¤:ÐfììV
+À
+›1]ó77ìV
+ÀV¡¡¯Š ÕkEE????
+²
+²HH
+ý
+ý
+g
+gnnn
+ØnOå}ç
+»
+»Qç22ÕÕ    ÕÕ))UUtHHHËaËËaË¥;¥¥¥;¥ˆˆiiˆ
+ò
+§=ˆ®ùñ[Å[z//zz
+
+ 6ëë  /
+™
+™/
+ ÌÌ66l!!!M.ll··l
+‹!i•J®=Ó´~~¼
+
+¶L——9
+£99
+£
+
+£ÏeeÏÏ©©ôŠÏ9
+î
+î„„ÏÏk
+Õ
+Õkk
+Š
+Š£Ï°„X
+Â
+ÂFFÜrrrrÜ££îîÉÉ
+è
+èTê:
+¤:……VV
+À
+À
+›
+›1Ç77V
+À¡‚‚úddd??Š ú¯¯?
+©
+©
+©
+ý
+ýHHH
+²
+g
+g##
+B
+B#¹œœ
+%
+»œ2ççÕÕ  ÕÕ ŠHÞ
+tÞH)¿÷aaa€Ë5
+ÄZ;¥¥
+é4`;¥
+Ä
+ÄˆˆÓÓˆ=ÓÓiÓ=
+‚ùù[ÅÅÅz
+ä//zz
+¿
+¿Uëë  
+ä
+N
+N
+N
+¿ë·!
+Ö
+Ö
+Öl˜·MM·!·à•iD®®®=ÓJ3
+Û
+¶
+¶LL
+£
+£
+î„9
+£
+î°„©?°„
+X
+X„„„„¶¶—ââ¶ 9eee£‘‘½½rÜrr„î££~
+èTTÐ:
+¤
+ï
+ï
+À
+ÀVV1
+
+
+›77ìV¡7‚‚úúú??
+ôŠúd
+©
+
+©
+©
+ý
+ýHHH
+²
+g
+g
+
+	¬	¬	÷
+nnœœ
+»
+%œQQ??ŠŠ??Š
+ôHÞÞH
+²H¿U÷aaa€5
+Ÿ
+ÄZ;¥
+yÊÊ¥ZZˆˆ==´iÓ=Ó=
+§
+‚ccÅ///z//zzUUUëë  z
+ä
+N
+N
+¿ëë·!ll
+Ö
+@l·M·!
+‹!´àÿÓ®®®=ÓLLLL
+£
+£
+î„Ï9
+î
+î„„
+î
+}©?Õ°„
+X
+X
+î
+î„„¶¶—ââL¶9999
+w£Ï½½½½rÜrr„î££~
+è
+¾
+¾:
+É
+3
+~
+~
+P
+æ|¡
+u¡Í7¡¡¡ììEÛ¯Š
+ô
+ô ú¯
+©
+©
+ô
+ôH
+²HH
+ý
+ý
+
+##
+Ø
+B	Ñ	Ñ
+ý
+ýœ
+p
+pQQ??  Õ?
+©?nn
+	÷	¬
+Ø0Æ÷aËa<¦ZððZZZ
+Ä
+ÄÊ`
+é44ùùcJ•Ó==ˆˆcccc//zzëzÅÅÅÅÅÅzz
+ä
+N
+ä/Å¦¦[ÅÅ[lll
+Ö!!’(sÝ
+ü
+ü
+±
+±ÓÿÿÓˆˆ
+ò
+òc
+Í
+Í
+Ícù®®¼¼RR¼¼qq9999ôô
+}
+}©?^
+È
+£ÏeeÏ9
+
+£9Ï„½'‘'rrÜrîX
+Â
+Â
+R~õ‹½½'‘—ÉÉ~~~~3
+		:
+É
+3
+~
+~
+P
+æ
+æ|¡7¡¡VV¯E¯
+ô
+^
+ô &E¯??ŠŠH
+²
+²
+²
+ý
+ý
+²
+²##n
+g
+g
+g
+g
+pQQ??ŠŠÕ??Õšn	÷	a	¬
+Øš0aËa÷Ò<ZððZZZZZÊ`«44%ùˆ´ÿiiiùùccÅÅëë
+äzÅÅÅÅÅÅz
+ä
+N
+N
+äÅ/zzÅ/Å[l˜˜·
+‹
+ü’ÝG
+ü
+üGG=iii´ˆ
+\
+\
+Íc
+Í
+Ícù®®&&¼¼&&qqÏÏ99ôô?Õô^99ÏÏ9
+£
+
+£Ïe°'‘
+û‘ÜÜFÜîX
+,
+,
+èõ_½½'‘——k33
+è
+è
+è
+è
+3ŸŸ:
+É
+3
+3
+3
+æ
+æ
+›1¡¡ìV
+À
+À¡¡
+À
+ÀVV¯¯
+©
+
+©?úúdd
+ôŠ
+ô
+ô
+ý
+ý
+ý
+g
+²HH
+²
+Ø
+ØnHH
+g	Ñ	ÚQQ
+»
+»
+ô
+ô?
+©?Õ ¶0	÷	÷
+¹€€a÷hÒñ[Zð¥¥Zððð««ÊÊÚp%ù=Ó´´iÿ´´ùùÅ[66ëU
+ä
+äzÅÅ[[z
+ä
+™
+™
+äz/
+™
+äz
+äzll˜ãM·
+‹
+ü
+üGG
+ü
+ü’’ÓÓJ•Ó
+ò
+ò
+Ícccccùc
+Û
+Ûq
+Û
+&&&ÏÏ99ôô^ôÕÕô^
+î
+î99
+î
+X
+£ÏûûeÏ‘
+û
+e
+ûÜrÜr9£
+w3ÉÉÉÜÜ‘‘¶L
+Õ333
+
+R
+R
+è
+èŸŸ:
+É___||
+›1V
+À
+À
+À77
+À
+À
+À
+À
+©
+
+©?
+Î
+Î
+Î
+ÎŠ  
+ô
+g
+g
+ý
+g
+²HH
+²
+Ø
+Ø
+ØnÞÞ
+ý
+gQ
+%	Ú	Ú
+»
+»ŠŠÕ??Õ ¶šn##¹¹
+Ø
+Ø
+ê
+êËaÒ<ñ[Zð¥¥Zððð«``DÚc
+§=ˆˆiÿ´´%QQ%[Åzz  ëUzzz[[ññzÅÅz/
+™zzzzll˜M·!!
+ü
+üGG
+ü
+ü’’ÓÓJÿic
+Íccccc
+Í
+Û
+Ûq&¼&&9999^^^ôkkô^
+î
+î99
+î
+X9eûÏ9Ï‘
+û
+e
+ûÜrrÏ9£3É33FF
+û
+û ¶kk__3
+
+è
+è
+è
+èŸŸ|¨ªª_
+É
+É
+3
+É
+É
+~
+~_õ__ª
+ô
+ô
+ô
+ô
+ô
+ôŠ
+ô
+%
+%
+»Qç}ç
+»
+g
+ý
+ý
+ý#¹##¦¦
+z55
+ê€r
+‘	û	Ö	Ö
+l
+l
+ï±±‹‹ÖÖÐÐÐ:__
+~
+É_‹‹fÐÐ:Z
+Ä
+Ä
+Ä¥;ð†M·!!˜MM
+Ö
+@
+Ö
+Ö
+Ö«Ê`"<IÅ¨|›PP==´´iÓDDùù®®DÚùccciÓˆMM˜’
+üGGZ
+ÄZðùc®DÓÓiiˆ
+ò=Ócccc
+î°°ŠŠ©999999„„‡ñÅ66U
+¿
+ä
+ä/Åë
+¿
+¿ë{O
+¹OVV¡7‚‚V*š0åObbøbbbŽŽ­
+Ìb­­yy¨¨ªªõ_
+3	
+3
+3
+~
+~_õõõª
+ô
+ô
+ô
+ô
+ô
+ô
+ô
+^
+»
+»QççQQ
+%
+g
+ý““¹###<<<¦55€r'
+‘
+l
+l
+l
+l
+ïÝÝ!!ÖÖfffÐ__ª_õ‹‹ÐffÐZ
+Ä
+.
+.¥ð†M···l··
+Ö
+@
+Öll«4Êä®?j1›ææÓÓ´´iÓ®®ùù®®®Dùccciÿ´MM˜’
+üÝÝðZZð«ùc®==iiˆ=Óùù°Ü  ?©99ÏÏeeñ‡ñÅ66U
+¿
+ä
+ä/Åë
+¿
+¿ë{OOåVV¡7®®ìÀš0{å­­øøøb
+Ì
+ÌbŽ­
+6
+Ì­­yyÇó>¨õõõ_
+3
+3
+3
+É__ª@@@ªª?
+©
+^
+^
+^
+ô??QQççQQ
+»
+%
+g
+ýÞÞn
+Ø
+Øn<Ò‡ñ€€ËË''
+Ü
+Ü
+lÐfG±õõ@Ö±±ff__õõ__ªª±ff¥
+y
+y
+ÄZZð·!
+Öl!!
+‹	õ
+@l··ÊÊ/Íþ‰1æP›››´´Ó=®DDùcùùcùcc´ii˜˜MM
+ü
+üÝsðð¥;«``ùc®
+§=Óiˆ==®®DÚeÏ°°  ?©
+î„°°ñ[66 
+
+N
+N
+™/ 
+UëšOåÀÀÀVÍÍVÀš0Žøøb
+
+Ì
+ÌCŽb
+Ì
+ÌbbÄÄ¡Çó¨___
+É
+É
+É
+É___ª@@@@@Õ?	È	È
+^
+ô??QQQQQQ
+»
+%
+g
+ýÞÞnn
+Ø¦ñ[€€ËË''
+F
+F
+l:Ð…__ª@±±ffõõõõ__…ff;¥
+y
+y
+ÄZ
+Ä
+.
+Ö˜˜ãMl·
+‹	õ	_
+@lMMÊÊ×Å¦NÇ›P
+º
+o››´´Ó=®ÚÚùccccùccˆii˜˜··’’Ýsðð;ÑA«``ù®
+§==Óˆ==®DeÏ„„ôô?©„°„„°[Åzz666 
+ä	¸	m
+
+t
+Uë
+n
+#
+¹**
+”*VÀ
+n
+nš0Žøb
+Ì
+	ë	 
+ÌCŽbøøøøÄÄ]77VV__
+É
+3
+¤:
+ï
+ï__õõ……± 
+ô
+^
+^
+ô
+ôŠŠœ
+p
+p
+á
+á,,nn“““
+ý
+ê
+ê55[[¦¦
+l
+lMã˜ª@ªªõõ@ªª±üffÐÐÐÐÐff`Ê
+é
+S
+ÄZ
+Ä
+.
+‹·ãyŸ	ÝÝ(
+ü
+f	Ð
+f’¾¾ÊÊ``gý²†››P
+º
+•+vviiii´´ÓÓ®Úù
+ò
+\
+§=®DDDDÚ%M·lM···¥;††Ñ;ð†ÿÿÓ=
+ò
+ò=Ó®cc==Ï9
+î„9Ï9Ï°©©?? 
+UU  66
+t	H	H	Þ
+Nz[Å*	þ
+I
+ß**
+ßuVVVÀ
+ß
+ß*À­C­­
+ñ	Å	Å
+[<Ò‡³³55óÍ¡VV
+É
+É
+3	
+¤:……õõõõ
+ï
+ï
+ï…Š
+^
+^
+^
+ô
+ôŠŠœ
+á
+áÂÂšn
+ý
+ý“
+ý
+ê
+ê55
+Å
+Å˜˜ãyÄ.@Ö@ªª__
+~	è
+~…ÐffÐÐÐÐÐÐÐ`Ê
+é
+S
+.
+ÄZ
+Ä!!·Ms	ÝÝ’’
+ü
+f
+f’((``ööÑ;ðð››PæWíiiiiÓÓDDùc
+ò
+\
+§=®DDÚp»%ãM˜ãM··¥;††;¥ð†ÿÿÓ=
+ò
+òÓiD®ccÓÓ´´Ï9
+î„Ï99Ï°????Ì66666
+	Þ	Þ
+t
+äÅ/
+”
+”
+ßuÀÀ
+ßuÀÀÀVÀ*­CCC
+ñ
+[
+ñ<
+¦
+ñ‡55¨7¡
+ÀV
+~
+~
+~
+Y
+ï
+ï
+ï____
+ï
+ï
+ï
+ï
+^
+^
+^
+ô
+©
+©??
+»
+»
+á
+á,,nn¹
+
+g
+ýHÞË55
+Ÿ
+/
+Å
+Å[˜˜M
+·Mã..‹!@ªª
+~
+3
+É:::ÐfÐÐÐ:Ð
+é
+S
+.
+Ä¥¥llllÝÝÝGGs(’GG((``ZZ¥;›PæÎ8WÁˆ=ÓDDùc=
+§=ÓccDDDÚ%%˜˜˜.Ä.ÑÑÑ;¥;††´Ó
+§
+òˆ´´ùùD®ÓÓ°°9ÏÏÏ°°?©ôŠÌÌU
+
+
+)	“	Þ
+t/Å
+ä
+”*ÀÀuu
+ß
+I
+”
+”
+ßuVVÀ*bb­C‡<<<<<Ò<<‡TT¨¡Vìª…
+ï
+Y
+Y
+É
+É__…………
+^
+^
+^
+ô??
+©
+©
+»
+»
+p
+pww,,
+Ø
+Ø
+
+
+g
+ýÞtaË5
+Ÿ
+Å[ñ‡..ãM
+·M˜˜õ‹ÖªªªÖÖª_õf:
+¤:Ðff:
+¤:
+é
+ÄZ;;llÝÝG
+±
+±Ý¾(ÝÝ’’44
+Ä
+Ä¥›Pæ¢8WÁ
+ò
+\
+§=DDùÓ==ÓùùDDD®ùù˜˜˜..˜ggÑ;;Ñˆ==
+òˆ´´D®==ˆˆ°F°Ï999©?Šô  U
+
+
+)	“	Þ
+t
+™/À***uu
+ß
+I	þ	þ
+I
+ßÀÀÀ*bb­C‡<<ÒÒhÒ<<³êê||||½½ãM
+·
+·
+Ü
+Ü
+‘
+‘
+Ür½½
+á
+á
+áwçQ
+p
+K
+K
+ 
+ ,,ww
+ý
+g
+g
+g
+²H)Uš##Oå{år''''''_‹õõõ‹lÖ˜Myr	û
+‘ÐfÐ
+¤
+Y
+ïÐÐ’(sG!···
+ü
+ü(¾(’
+±
+±
+ü’’’!···
+Ö
+@
+@
+ÖGÝ’’®DDDˆ
+ò
+\
+ò
+òˆiiii››1ÇWÁÁW1››1››llÝÝ’’;;;¥ð†††ùc®®®®D||æP
+º
+º
+º
+º©?ô^°„—âL&¼  ëÅ///
+ä
+N
+
+™
+™/[ñþÒ<ÒÒÒ<
+¦
+n
+n
+nššOObb­CŽøbb­CÙÙ­­CCgg||
+æ
+æ
+Ü
+Ü''MãMMr
+F	û	û
+Ür½½
+á
+á£}çœ
+K
+K
+–
+–
+–
+–
+á“
+ý
+ý
+ý
+²H¿ëÆ0¹¹Oå{år
+Ü''½½½½____õ‹Ö@˜MM
+Ü
+F	û
+‘:Ð:
+
+Y
+ï::
+ü’ÝÝ·!!!’’(¾(’ÝÝ(’
+ü
+ü
+‹!!!
+Ö
+@
+@
+ÖÝs((DÚpDˆ
+ò
+\
+òˆiiii111ÇWÁÁW1››1››llllGG’’;;¥
+ÄZððùc®®®®D||æP
+º
+º
+º
+º©^
+È
+î„„—âL&¼  ëU/
+™
+™
+™z
+ä
+™/
+™/[ñþÒ<ÒÒÒÒ<
+nššOOøøCÙ$Žbb­ÙÙCgg1||1
+›
+‘
+‘'
+‘
+l
+l˜r
+Ü
+F
+F
+‘'½½
+á
+á£22çQ
+–
+–
+áw,,w£ÞÞHH
+ý)UëåšåO½'''ªª_
+Éª@@ªMMM
+·
+Ü
+Ü''……
+ï
+Y
+Y
+ïÐ:
+ü
+ü’(··!·sÝ’(¾T¾¾	sGG!·l
+‹
+‹
+‹!Ýs¾(cùÚDˆˆˆˆÓÓiÿJ´1111WÁ+Á››ææ››11llG
+±
+±GððZZZ†®®ùùùùææ›››^ôô^
+î„âLLâ¼¼qUUëë/
+™
+N
+N//ÅÅ/
+™Å[‡<<<<ÒÒššOOOåšš­­ŽººŽbbbbøøb
+6
+6
+Ì²²
+›||Ç1'''
+‘	Ö	Ö˜r
+Ü
+Ü
+Ü
+‘'''
+á
+á
+áwœœçQ,,wÂÂtttt))¿U{OšåOS½½½@@õ_ª@@ªMMM
+·
+Ü½½……
+ï
+Y
+ï…fÐ
+ü
+ü’(MM!·sÝ
+ü’(¾¾¾sÝÝÝMã.˜···!GÝ¾(
+ÍcD®ˆˆÿÿiÿ´››››Á+
+•+››||11ÇÇG
+±
+±GZZðð¥¥Z†®®ùùææ1››11›^ôôŠ„âLâxRRq
+¿
+¿ëë/
+™	¸	¸
+™Å[[Å//Å‡
+ñ<<<<ÒÒšš
+¹
+¹
+¹Ošš­­ø$Žbbbbbøøb
+6
+Ìb²²                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              XTENSION= 'BINTABLE'           / binary table extension                         BITPIX  =                    8 / 8-bit bytes                                    NAXIS   =                    2 / 2-dimensional binary table                     NAXIS1  =                   28 / width of table in bytes                        NAXIS2  =                   16 / number of rows in table                        PCOUNT  =                    0 / size of special data area                      GCOUNT  =                    1 / one data group (required keyword)              TFIELDS =                    4 / number of fields in each row                   TTYPE1  = 'INTEGRATED_SIGNAL'  / label for field   1                            TFORM1  = '1D      '           / data format of the field: 8-byte DOUBLE        TUNIT1  = 'log10Counts'        / physical unit of field                         TTYPE2  = 'MAGNITUDE'          / label for field   2                            TFORM2  = '1D      '           / data format of the field: 8-byte DOUBLE        TUNIT2  = 'E_Magnitude'        / physical unit of field                         TTYPE3  = 'UNCERTAINTY'        / label for field   3                            TFORM3  = '1D      '           / data format of the field: 8-byte DOUBLE        TUNIT3  = 'E_Magnitude'        / physical unit of field                         TTYPE4  = 'NUMBER_OF_OBJECTS'  / label for field   4                            TFORM4  = '1J      '           / data format of the field: 4-byte INTEGER       TUNIT4  = 'Objects '           / physical unit of field                         EXTNAME = 'Photometric CALTABLE' / name of this binary table extension          CALCNTXT= 'POSS_E  '           /Context in which calibration is valid           CALVERSN= '10/07/1996'         /Calibration version                             THRESHLD=                  500 /Threshold above sky which signal is measured                                                                                            The lookup table in this extension may be used to infer the                     magnitude of stars on plates within the context of CALCNTXT.  The               log(Integrated Signal) is obtained for a star by summing the                    total counts above THRESHLD above the background.  For example,                 if the background for a star is measured to be 4000 and                         THRESHLD is 500, then the integrated signal is the sum of counts                above 4500. The table may then be interpolated to log10(4500) to                obtain the star's magnitude.                                                                                                                                    "Number of Objects" is the number of objects used to derive the                 calibrated magnitude in each row of the table.                          HISTORY   TASK: fselect3.3e  on FILENAME: posse_cal.fits                        HISTORY   Expression: !(MAGNITUDE==0)                                           HISTORY   fselect3.3e at 1/5/97 9:42:8.0                                        END                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             @™™    @2ff`              @33:   @0áÊÀ   ?èSw       @     @/¨u    ?å·$`      =@ÌÌÔ   @.À    ?á×p      P@™™¡   @,e¦À   ?áÎÂ`     ¬@ffn   @*yÀ   ?ã	þ`     *@33;   @(¹@   ?â!´`     ò@     @&N¿à   ?âkâ      @ÌÌÕ   @$•÷€   ?àÐE@     '@™™¢   @#    ?Ý«³      .@ffo   @"€   ?ÙäzÀ      ®@33<   @!Fz    ?Úgk€      q@  	   @ i    ?ÙóãÀ      '@ÌÌÖ   @Äòà   ?Ý„]€      	@™™£   @€                @ffp   @A‰@                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

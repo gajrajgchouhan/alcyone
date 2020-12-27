@@ -17,9 +17,8 @@ for _ in range(int(input())):
     relativity_factor_earth = 1 / (1 - (v_square_earth_sat / (c**2)))**0.5
     relativity_factor_kuiper = 1 / (1 - (v_square_sun_sat / (c**2)))**0.5
 
-    print("{:.5e}".format(
-            ((
-                (time_correction_on_earth_sat - time_correction_on_earth) + (relativity_factor_earth - 1)
-            ) + (
-                (time_correction_on_kuiper_sat - time_correction_on_sun) + (relativity_factor_kuiper - 1)
-            ))* 86400))
+
+    time_dilation_on_earth_sat = ((time_correction_on_earth_sat - time_correction_on_earth) + (relativity_factor_earth - 1)) * 86400
+    time_dilation_on_kuiper_sat = ((time_correction_on_kuiper_sat - time_correction_on_sun) + (relativity_factor_kuiper - 1)) * (86400 * (1 + (time_dilation_on_earth_sat / 86400)))
+    
+    print("{:.5e}".format(time_dilation_on_kuiper_sat))

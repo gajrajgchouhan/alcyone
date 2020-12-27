@@ -63,24 +63,35 @@ print("\nPart 2\n")
 print("Q represents the number of Gaussian Components.It has significance that Gaussian Mixture Model depends on the value of Q, thus final classification is dependent on Q and hence the accuracy of model.")
 
 
-# # c part
+# c part
 
-# print("\nPart 3\n")
-# list_3 = []
+def binarySearch(e, ls):
+    low = 0
+    high = len(ls)
 
-# for i in area:
-#     if ( i <= 99999):
-#         list_3.append(i)
+    while (low < high):
+        mid = (low + high) // 2
+        if (ls[mid] == e):
+            return True
+        elif (ls[mid] < e):
+            low = mid + 1
+        else:
+            high = mid - 1
 
+    return False
 
-# count = 0
-# subset_sum = []
-# for j in list_3:
-#     if (list_3.count(99999-j) > 0):
-#         count += 1
-#         subset_sum.append([j,99999-j])
+print("\nPart 3\n")
+list_3 = [i for i in area if i <= 99999]
+list_3.sort()
 
-# print("Total number of Subsets with two elements and having sum 99999 is %d" %count)
-# print("Hence There exists subset whose sum is 99999.")
+count = 0
+subset_sum = []
+for j in list_3:
+    if (binarySearch(99999-j, list_3)):
+        count += 1
+        subset_sum.append([j,99999-j])
+
+print("Total number of Subsets with two elements and having sum 99999 is %d" %count)
+print("Hence There exists subset whose sum is 99999.")
 
 
